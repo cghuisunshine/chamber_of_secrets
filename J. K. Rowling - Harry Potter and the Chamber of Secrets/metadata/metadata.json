@@ -1,0 +1,169 @@
+{
+  "title": "Harry Potter and the Chamber of Secrets",
+  "description": {
+    "full": "<p>Jim Dale's Grammy Award-winning performance of J.K. Rowling's iconic stories is a listening adventure for the whole family.<br><i>'There is a plot, Harry Potter. A plot to make most terrible things happen at Hogwarts School of Witchcraft and Wizardry this year.'</i><br>Close your eyes and enter the magical world of Harry Potter. In these editions, Jim Dale's characterful narration is so entertaining, fun, and theatrical you can almost hear the crackle of the fire in the Gryffindor common room.<br>Harry Potter's summer has included the worst birthday ever, doomy warnings from a house-elf called Dobby, and rescue from the Dursleys by his friend Ron Weasley in a magical flying car! Back at Hogwarts School of Witchcraft and Wizardry for his second year, Harry hears strange whispers echo through empty corridors - and then the attacks start. Students are found as though turned to stone... Dobby's sinister predictions seem to be coming true.<br>Having become classics of our time, the Harry Potter stories never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new listeners.</p>",
+    "short": "<p>Jim Dale's Grammy Award-winning performance of J.K. Rowling's iconic stories is a listening adventure for the whole family.<br><i>'There is a plot, Harry Potter. A plot to make most terrible things happen at Hogwarts School of Witchcraft and Wizardry this year.'</i><br>Close your eyes and enter the magical world of Harry Potter. In these editions, Jim Dale's characterful narration is so entertaining, fun, and theatrical you can almost hear the crackle of the fire in the Gryffindor common room.<br>Harry Potter's summer has included the worst birthday ever, doomy warnings from a house-elf called Dobby, and rescue from the Dursleys by his friend Ron Weasley in a magical flying car! Back at Hogwarts School of Witchcraft and Wizardry for his second year, Harry hears strange whispers echo through empty corridors - and then the attacks start. Students are found as though turned to stone... Dobby's sinister predictions seem to be coming true.<br>Having become classics of our time, the...</p>"
+  },
+  "coverUrl": "/_d/cover/buid/33efbd43b60a24e67b96fc85b302e12e/big.jpg",
+  "creator": [
+    {
+      "name": "J. K. Rowling",
+      "role": "author",
+      "bio": ""
+    },
+    {
+      "name": "Jim Dale",
+      "role": "narrator",
+      "bio": ""
+    },
+    {
+      "name": "Olly Moss",
+      "role": "other",
+      "bio": ""
+    }
+  ],
+  "spine": [
+    {
+      "duration": 2024.672625,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3753.45625,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3727.43825,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3457.933,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3981.688125,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 4232.07175,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3561.03825,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3963.115,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    },
+    {
+      "duration": 3867.611375,
+      "type": "audio/mpeg",
+      "bitrate": 64
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1:  The Worst Birthday",
+      "spine": 0,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 2:  Dobby's Warning",
+      "spine": 0,
+      "offset": 951
+    },
+    {
+      "title": "Chapter 3:  The Burrow",
+      "spine": 1,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 4:  At Flourish and Blotts",
+      "spine": 1,
+      "offset": 1602
+    },
+    {
+      "title": "Chapter 5:  The Whomping Willow",
+      "spine": 2,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 6:  Gilderoy Lockhart",
+      "spine": 2,
+      "offset": 1987
+    },
+    {
+      "title": "Chapter 7:  Mudbloods and Murmurs",
+      "spine": 3,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 8:  The Deathday Party",
+      "spine": 3,
+      "offset": 1693
+    },
+    {
+      "title": "Chapter 9:  The Writing on the Wall",
+      "spine": 4,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 10:  The Rogue Bludger",
+      "spine": 4,
+      "offset": 2025
+    },
+    {
+      "title": "Chapter 11:  The Dueling Club",
+      "spine": 5,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 12:  The Polyjuice Potion",
+      "spine": 5,
+      "offset": 2261
+    },
+    {
+      "title": "Chapter 13:  The Very Secret Diary",
+      "spine": 6,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 14:  Cornelius Fudge",
+      "spine": 6,
+      "offset": 2054
+    },
+    {
+      "title": "Chapter 15:  Aragog",
+      "spine": 7,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 16:  The Chamber of Secrets",
+      "spine": 7,
+      "offset": 1785
+    },
+    {
+      "title": "Chapter 17:  The Heir of Slytherin",
+      "spine": 8,
+      "offset": 0
+    },
+    {
+      "title": "Chapter 18:  Dobby's Reward",
+      "spine": 8,
+      "offset": 2182
+    },
+    {
+      "title": "Next Chapter:  Owl Post",
+      "spine": 8,
+      "offset": 3765
+    }
+  ]
+}
