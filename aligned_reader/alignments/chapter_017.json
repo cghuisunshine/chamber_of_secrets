@@ -3,48 +3,128 @@
   {
    "begin": "0.000",
    "children": [],
-   "end": "5.440",
+   "end": "2.120",
    "id": "f000001",
    "language": "eng",
    "lines": [
-    "Chapter Seventeen. The Heir of Slytherin."
+    "Chapter Seventeen."
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "5.440",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "The Heir of Slytherin."
    ]
   },
   {
    "begin": "5.440",
    "children": [],
-   "end": "20.880",
-   "id": "f000002",
+   "end": "8.840",
+   "id": "f000003",
    "language": "eng",
    "lines": [
-    "He was standing at the end of a very long, dimly lit chamber. Towering stone pillars entwined with more carved serpents rose to support a ceiling lost in darkness, casting long black shadows through the odd, greenish gloom that filled the place."
+    "He was standing at the end of a very long, dimly lit chamber."
+   ]
+  },
+  {
+   "begin": "8.840",
+   "children": [],
+   "end": "20.880",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Towering stone pillars entwined with more carved serpents rose to support a ceiling lost in darkness, casting long black shadows through the odd, greenish gloom that filled the place."
    ]
   },
   {
    "begin": "20.880",
    "children": [],
-   "end": "32.640",
-   "id": "f000003",
+   "end": "26.120",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "His heart beating very fast, Harry stood listening to the chill silence. Could the Basilisk be lurking in a shadowy corner, behind a pillar? And where was Ginny?"
+    "His heart beating very fast, Harry stood listening to the chill silence."
+   ]
+  },
+  {
+   "begin": "26.120",
+   "children": [],
+   "end": "30.520",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Could the Basilisk be lurking in a shadowy corner, behind a pillar?"
+   ]
+  },
+  {
+   "begin": "30.520",
+   "children": [],
+   "end": "32.640",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "And where was Ginny?"
    ]
   },
   {
    "begin": "32.640",
    "children": [],
-   "end": "54.920",
-   "id": "f000004",
+   "end": "36.800",
+   "id": "f000008",
    "language": "eng",
    "lines": [
-    "He pulled out his wand and moved forward between the serpentine columns. Every careful footstep echoed loudly off the shadowy walls. He kept his eyes narrowed, ready to clamp them shut at the smallest sign of movement. The hollow eye sockets of the stone snakes seemed to be following him. More than once, with a jolt of the stomach, he thought he saw one stir."
+    "He pulled out his wand and moved forward between the serpentine columns."
+   ]
+  },
+  {
+   "begin": "36.800",
+   "children": [],
+   "end": "40.840",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Every careful footstep echoed loudly off the shadowy walls."
+   ]
+  },
+  {
+   "begin": "40.840",
+   "children": [],
+   "end": "45.960",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "He kept his eyes narrowed, ready to clamp them shut at the smallest sign of movement."
+   ]
+  },
+  {
+   "begin": "45.960",
+   "children": [],
+   "end": "50.040",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "The hollow eye sockets of the stone snakes seemed to be following him."
+   ]
+  },
+  {
+   "begin": "50.040",
+   "children": [],
+   "end": "54.920",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "More than once, with a jolt of the stomach, he thought he saw one stir."
    ]
   },
   {
    "begin": "54.920",
    "children": [],
    "end": "64.960",
-   "id": "f000005",
+   "id": "f000013",
    "language": "eng",
    "lines": [
     "Then, as he drew level with the last pair of pillars, a statue high as the Chamber itself loomed into view, standing against the back wall."
@@ -53,38 +133,128 @@
   {
    "begin": "64.960",
    "children": [],
-   "end": "89.760",
-   "id": "f000006",
+   "end": "82.360",
+   "id": "f000014",
    "language": "eng",
    "lines": [
-    "Harry had to crane his neck to look up into the giant face above: it was ancient and monkey-like, with a long thin beard that fell almost to the bottom of the wizard's sweeping stone robes, where two enormous grey feet stood on the smooth chamber floor. And between the feet, face down, lay a small, black-robed figure with flaming red hair."
+    "Harry had to crane his neck to look up into the giant face above: it was ancient and monkey-like, with a long thin beard that fell almost to the bottom of the wizard's sweeping stone robes, where two enormous grey feet stood on the smooth chamber floor."
    ]
   },
   {
-   "begin": "89.760",
+   "begin": "82.360",
    "children": [],
-   "end": "113.680",
-   "id": "f000007",
+   "end": "89.640",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "'Ginny!' Harry muttered, sprinting to her and dropping to his knees. 'Ginny! Don't be dead! Please don't be dead!' He flung his wand aside, grabbed Ginny's shoulders and turned her over. Her face was white as marble, and as cold, yet her eyes were closed, so she wasn't Petrified. But then she must be ..."
+    "And between the feet, face down, lay a small, black-robed figure with flaming red hair."
    ]
   },
   {
-   "begin": "113.680",
+   "begin": "89.640",
+   "children": [],
+   "end": "90.880",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "'Ginny!'"
+   ]
+  },
+  {
+   "begin": "90.880",
+   "children": [],
+   "end": "95.400",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Harry muttered, sprinting to her and dropping to his knees."
+   ]
+  },
+  {
+   "begin": "95.400",
+   "children": [],
+   "end": "96.320",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "'Ginny!"
+   ]
+  },
+  {
+   "begin": "96.320",
+   "children": [],
+   "end": "97.400",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Don't be dead!"
+   ]
+  },
+  {
+   "begin": "97.400",
+   "children": [],
+   "end": "99.240",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Please don't be dead!'"
+   ]
+  },
+  {
+   "begin": "99.240",
+   "children": [],
+   "end": "103.280",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "He flung his wand aside, grabbed Ginny's shoulders and turned her over."
+   ]
+  },
+  {
+   "begin": "103.280",
+   "children": [],
+   "end": "111.120",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "Her face was white as marble, and as cold, yet her eyes were closed, so she wasn't Petrified."
+   ]
+  },
+  {
+   "begin": "111.120",
+   "children": [],
+   "end": "113.720",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "But then she must be ..."
+   ]
+  },
+  {
+   "begin": "113.720",
+   "children": [],
+   "end": "120.400",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "'Ginny, please wake up,' Harry muttered desperately, shaking her."
+   ]
+  },
+  {
+   "begin": "120.400",
    "children": [],
    "end": "124.560",
-   "id": "f000008",
+   "id": "f000025",
    "language": "eng",
    "lines": [
-    "'Ginny, please wake up,' Harry muttered desperately, shaking her. Ginny's head lolled hopelessly from side to side."
+    "Ginny's head lolled hopelessly from side to side."
    ]
   },
   {
    "begin": "124.560",
    "children": [],
    "end": "127.680",
-   "id": "f000009",
+   "id": "f000026",
    "language": "eng",
    "lines": [
     "'She won't wake,' said a soft voice."
@@ -93,38 +263,58 @@
   {
    "begin": "127.680",
    "children": [],
-   "end": "131.040",
-   "id": "f000010",
+   "end": "131.080",
+   "id": "f000027",
    "language": "eng",
    "lines": [
     "Harry jumped and spun around on his knees."
    ]
   },
   {
-   "begin": "131.040",
+   "begin": "131.080",
    "children": [],
-   "end": "143.600",
-   "id": "f000011",
+   "end": "135.680",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "A tall, black-haired boy was leaning against the nearest pillar, watching. He was strangely blurred around the edges, as though Harry was looking at him through a misted window. But there was no mistaking him."
+    "A tall, black-haired boy was leaning against the nearest pillar, watching."
+   ]
+  },
+  {
+   "begin": "135.680",
+   "children": [],
+   "end": "141.880",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "He was strangely blurred around the edges, as though Harry was looking at him through a misted window."
+   ]
+  },
+  {
+   "begin": "141.880",
+   "children": [],
+   "end": "143.600",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "But there was no mistaking him."
    ]
   },
   {
    "begin": "143.600",
    "children": [],
-   "end": "148.080",
-   "id": "f000012",
+   "end": "148.040",
+   "id": "f000031",
    "language": "eng",
    "lines": [
     "'Tom - Tom Riddle?'"
    ]
   },
   {
-   "begin": "148.080",
+   "begin": "148.040",
    "children": [],
    "end": "152.080",
-   "id": "f000013",
+   "id": "f000032",
    "language": "eng",
    "lines": [
     "Riddle nodded, not taking his eyes off Harry's face."
@@ -133,118 +323,258 @@
   {
    "begin": "152.080",
    "children": [],
-   "end": "156.920",
-   "id": "f000014",
+   "end": "154.120",
+   "id": "f000033",
    "language": "eng",
    "lines": [
-    "'What d'you mean, she won't wake?' Harry said desperately. 'She's not - she's not -?'"
+    "'What d'you mean, she won't wake?'"
    ]
   },
   {
-   "begin": "156.920",
+   "begin": "154.120",
    "children": [],
-   "end": "161.920",
-   "id": "f000015",
+   "end": "155.640",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "'She's still alive,' said Riddle. 'But only just.'"
+    "Harry said desperately."
+   ]
+  },
+  {
+   "begin": "155.640",
+   "children": [],
+   "end": "156.880",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "'She's not - she's not -?'"
+   ]
+  },
+  {
+   "begin": "156.880",
+   "children": [],
+   "end": "159.800",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "'She's still alive,' said Riddle."
+   ]
+  },
+  {
+   "begin": "159.800",
+   "children": [],
+   "end": "161.920",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "'But only just.'"
    ]
   },
   {
    "begin": "161.920",
    "children": [],
-   "end": "175.080",
-   "id": "f000016",
+   "end": "163.080",
+   "id": "f000038",
    "language": "eng",
    "lines": [
-    "Harry stared at him. Tom Riddle had been at Hogwarts fifty years ago, yet here he stood, a weird, misty light shining about him, not a day older than sixteen."
+    "Harry stared at him."
+   ]
+  },
+  {
+   "begin": "163.080",
+   "children": [],
+   "end": "175.080",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Tom Riddle had been at Hogwarts fifty years ago, yet here he stood, a weird, misty light shining about him, not a day older than sixteen."
    ]
   },
   {
    "begin": "175.080",
    "children": [],
-   "end": "179.200",
-   "id": "f000017",
+   "end": "177.280",
+   "id": "f000040",
    "language": "eng",
    "lines": [
-    "'Are you a ghost?' Harry said uncertainly."
+    "'Are you a ghost?'"
+   ]
+  },
+  {
+   "begin": "177.280",
+   "children": [],
+   "end": "179.200",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Harry said uncertainly."
    ]
   },
   {
    "begin": "179.200",
    "children": [],
-   "end": "185.760",
-   "id": "f000018",
+   "end": "181.960",
+   "id": "f000042",
    "language": "eng",
    "lines": [
-    "'A memory,' said Riddle quietly. 'Preserved in a diary for fifty years.'"
+    "'A memory,' said Riddle quietly."
+   ]
+  },
+  {
+   "begin": "181.960",
+   "children": [],
+   "end": "185.760",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "'Preserved in a diary for fifty years.'"
    ]
   },
   {
    "begin": "185.760",
    "children": [],
-   "end": "201.200",
-   "id": "f000019",
+   "end": "189.480",
+   "id": "f000044",
    "language": "eng",
    "lines": [
-    "He pointed towards the floor near the statue's giant toes. Lying open there was the little black diary Harry had found in Moaning Myrtle's bathroom. For a second, Harry wondered how it had got there - but there were more pressing matters to deal with."
+    "He pointed towards the floor near the statue's giant toes."
+   ]
+  },
+  {
+   "begin": "189.480",
+   "children": [],
+   "end": "194.440",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Lying open there was the little black diary Harry had found in Moaning Myrtle's bathroom."
+   ]
+  },
+  {
+   "begin": "194.440",
+   "children": [],
+   "end": "201.200",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "For a second, Harry wondered how it had got there - but there were more pressing matters to deal with."
    ]
   },
   {
    "begin": "201.200",
    "children": [],
-   "end": "213.920",
-   "id": "f000020",
+   "end": "204.840",
+   "id": "f000047",
    "language": "eng",
    "lines": [
-    "'You've got to help me, Tom,' Harry said, raising Ginny's head again. 'We've got to get her out of here. There's a Basilisk ... I don't know where it is, but it could be along any moment. Please, help me ...'"
+    "'You've got to help me, Tom,' Harry said, raising Ginny's head again."
    ]
   },
   {
-   "begin": "213.920",
+   "begin": "204.840",
    "children": [],
-   "end": "222.320",
-   "id": "f000021",
+   "end": "206.320",
+   "id": "f000048",
    "language": "eng",
    "lines": [
-    "Riddle didn't move. Harry, sweating, managed to hoist Ginny half off the floor, and bent to pick up his wand again."
+    "'We've got to get her out of here."
+   ]
+  },
+  {
+   "begin": "206.320",
+   "children": [],
+   "end": "208.080",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "There's a Basilisk ..."
+   ]
+  },
+  {
+   "begin": "208.080",
+   "children": [],
+   "end": "211.040",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "I don't know where it is, but it could be along any moment."
+   ]
+  },
+  {
+   "begin": "211.040",
+   "children": [],
+   "end": "213.880",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Please, help me ...'"
+   ]
+  },
+  {
+   "begin": "213.880",
+   "children": [],
+   "end": "215.960",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "Riddle didn't move."
+   ]
+  },
+  {
+   "begin": "215.960",
+   "children": [],
+   "end": "222.320",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "Harry, sweating, managed to hoist Ginny half off the floor, and bent to pick up his wand again."
    ]
   },
   {
    "begin": "222.320",
    "children": [],
-   "end": "224.400",
-   "id": "f000022",
+   "end": "223.560",
+   "id": "f000054",
    "language": "eng",
    "lines": [
     "But his wand had gone."
    ]
   },
   {
-   "begin": "224.400",
+   "begin": "223.560",
    "children": [],
-   "end": "225.880",
-   "id": "f000023",
+   "end": "225.200",
+   "id": "f000055",
    "language": "eng",
    "lines": [
     "'Did you see -?'"
    ]
   },
   {
-   "begin": "225.880",
+   "begin": "225.200",
    "children": [],
-   "end": "231.800",
-   "id": "f000024",
+   "end": "227.400",
+   "id": "f000056",
    "language": "eng",
    "lines": [
-    "He looked up. Riddle was still watching him - twirling Harry's wand between his long fingers."
+    "He looked up."
+   ]
+  },
+  {
+   "begin": "227.400",
+   "children": [],
+   "end": "231.800",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Riddle was still watching him - twirling Harry's wand between his long fingers."
    ]
   },
   {
    "begin": "231.800",
    "children": [],
    "end": "235.920",
-   "id": "f000025",
+   "id": "f000058",
    "language": "eng",
    "lines": [
     "'Thanks,' said Harry, stretching out his hand for it."
@@ -253,58 +583,88 @@
   {
    "begin": "235.920",
    "children": [],
-   "end": "243.280",
-   "id": "f000026",
+   "end": "238.680",
+   "id": "f000059",
    "language": "eng",
    "lines": [
-    "A smile curled the corners of Riddle's mouth. He continued to stare at Harry, twirling the wand idly."
+    "A smile curled the corners of Riddle's mouth."
+   ]
+  },
+  {
+   "begin": "238.680",
+   "children": [],
+   "end": "243.280",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "He continued to stare at Harry, twirling the wand idly."
    ]
   },
   {
    "begin": "243.280",
    "children": [],
-   "end": "250.800",
-   "id": "f000027",
+   "end": "248.960",
+   "id": "f000061",
    "language": "eng",
    "lines": [
-    "'Listen,' said Harry urgently, his knees sagging with Ginny's dead weight, 'we've got to go! If the Basilisk comes ...'"
+    "'Listen,' said Harry urgently, his knees sagging with Ginny's dead weight, 'we've got to go!"
    ]
   },
   {
-   "begin": "250.800",
+   "begin": "248.960",
    "children": [],
-   "end": "256.160",
-   "id": "f000028",
+   "end": "250.720",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "If the Basilisk comes ...'"
+   ]
+  },
+  {
+   "begin": "250.720",
+   "children": [],
+   "end": "255.120",
+   "id": "f000063",
    "language": "eng",
    "lines": [
     "'It won't come until it is called,' said Riddle calmly."
    ]
   },
   {
-   "begin": "256.160",
+   "begin": "255.120",
    "children": [],
-   "end": "260.560",
-   "id": "f000029",
+   "end": "260.600",
+   "id": "f000064",
    "language": "eng",
    "lines": [
     "Harry lowered Ginny back onto the floor, unable to hold her up any longer."
    ]
   },
   {
-   "begin": "260.560",
+   "begin": "260.600",
    "children": [],
-   "end": "265.000",
-   "id": "f000030",
+   "end": "262.120",
+   "id": "f000065",
    "language": "eng",
    "lines": [
-    "'What d'you mean?' he said. 'Look, give me my wand, I might need it.'"
+    "'What d'you mean?' he said."
+   ]
+  },
+  {
+   "begin": "262.120",
+   "children": [],
+   "end": "265.000",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "'Look, give me my wand, I might need it.'"
    ]
   },
   {
    "begin": "265.000",
    "children": [],
    "end": "267.080",
-   "id": "f000031",
+   "id": "f000067",
    "language": "eng",
    "lines": [
     "Riddle's smile broadened."
@@ -314,7 +674,7 @@
    "begin": "267.080",
    "children": [],
    "end": "270.440",
-   "id": "f000032",
+   "id": "f000068",
    "language": "eng",
    "lines": [
     "'You won't be needing it,' he said."
@@ -324,7 +684,7 @@
    "begin": "270.440",
    "children": [],
    "end": "271.560",
-   "id": "f000033",
+   "id": "f000069",
    "language": "eng",
    "lines": [
     "Harry stared at him."
@@ -333,58 +693,108 @@
   {
    "begin": "271.560",
    "children": [],
-   "end": "273.440",
-   "id": "f000034",
+   "end": "273.360",
+   "id": "f000070",
    "language": "eng",
    "lines": [
     "'What d'you mean, I won't be -?'"
    ]
   },
   {
-   "begin": "273.440",
+   "begin": "273.360",
    "children": [],
-   "end": "281.320",
-   "id": "f000035",
+   "end": "277.320",
+   "id": "f000071",
    "language": "eng",
    "lines": [
-    "'I've waited a long time for this, Harry Potter,' said Riddle. 'For the chance to see you. To speak to you.'"
+    "'I've waited a long time for this, Harry Potter,' said Riddle."
+   ]
+  },
+  {
+   "begin": "277.320",
+   "children": [],
+   "end": "279.040",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "'For the chance to see you."
+   ]
+  },
+  {
+   "begin": "279.040",
+   "children": [],
+   "end": "281.320",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "To speak to you.'"
    ]
   },
   {
    "begin": "281.320",
    "children": [],
-   "end": "288.280",
-   "id": "f000036",
+   "end": "285.040",
+   "id": "f000074",
    "language": "eng",
    "lines": [
-    "'Look,' said Harry, losing patience, 'I don't think you get it. We're in the Chamber of Secrets. We can talk later.'"
+    "'Look,' said Harry, losing patience, 'I don't think you get it."
+   ]
+  },
+  {
+   "begin": "285.040",
+   "children": [],
+   "end": "286.840",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "We're in the Chamber of Secrets."
+   ]
+  },
+  {
+   "begin": "286.840",
+   "children": [],
+   "end": "288.280",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "We can talk later.'"
    ]
   },
   {
    "begin": "288.280",
    "children": [],
-   "end": "294.960",
-   "id": "f000037",
+   "end": "294.000",
+   "id": "f000077",
    "language": "eng",
    "lines": [
     "'We're going to talk now,' said Riddle, still smiling broadly, and he pocketed Harry's wand."
    ]
   },
   {
-   "begin": "294.960",
+   "begin": "294.000",
    "children": [],
-   "end": "300.200",
-   "id": "f000038",
+   "end": "296.480",
+   "id": "f000078",
    "language": "eng",
    "lines": [
-    "Harry stared at him. There was something very funny going on here."
+    "Harry stared at him."
    ]
   },
   {
-   "begin": "300.200",
+   "begin": "296.480",
+   "children": [],
+   "end": "299.160",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "There was something very funny going on here."
+   ]
+  },
+  {
+   "begin": "299.160",
    "children": [],
    "end": "304.880",
-   "id": "f000039",
+   "id": "f000080",
    "language": "eng",
    "lines": [
     "'How did Ginny get like this?' he asked slowly."
@@ -393,98 +803,288 @@
   {
    "begin": "304.880",
    "children": [],
-   "end": "320.960",
-   "id": "f000040",
+   "end": "308.680",
+   "id": "f000081",
    "language": "eng",
    "lines": [
-    "'Well, that's an interesting question,' said Riddle pleasantly. 'And quite a long story. I suppose the real reason Ginny Weasley's like this is because she opened her heart and spilled all her secrets to an invisible stranger.'"
+    "'Well, that's an interesting question,' said Riddle pleasantly."
    ]
   },
   {
-   "begin": "320.960",
+   "begin": "308.680",
    "children": [],
-   "end": "323.720",
-   "id": "f000041",
+   "end": "310.600",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "'And quite a long story."
+   ]
+  },
+  {
+   "begin": "310.600",
+   "children": [],
+   "end": "320.920",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "I suppose the real reason Ginny Weasley's like this is because she opened her heart and spilled all her secrets to an invisible stranger.'"
+   ]
+  },
+  {
+   "begin": "320.920",
+   "children": [],
+   "end": "322.960",
+   "id": "f000084",
    "language": "eng",
    "lines": [
     "'What are you talking about?' said Harry."
    ]
   },
   {
-   "begin": "323.720",
+   "begin": "322.960",
    "children": [],
-   "end": "349.080",
-   "id": "f000042",
+   "end": "325.760",
+   "id": "f000085",
    "language": "eng",
    "lines": [
-    "'The diary,' said Riddle. 'My diary. Little Ginny's been writing in it for months and months, telling me all her pitiful worries and woes: how her brothers tease her, how she had to come to school with second-hand robes and books, how -' Riddle's eyes glinted '- how she didn't think famous, good, great Harry Potter would ever like her ...'"
+    "'The diary,' said Riddle."
+   ]
+  },
+  {
+   "begin": "325.760",
+   "children": [],
+   "end": "327.440",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "'My diary."
+   ]
+  },
+  {
+   "begin": "327.440",
+   "children": [],
+   "end": "349.080",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "Little Ginny's been writing in it for months and months, telling me all her pitiful worries and woes: how her brothers tease her, how she had to come to school with second-hand robes and books, how -' Riddle's eyes glinted '- how she didn't think famous, good, great Harry Potter would ever like her ...'"
    ]
   },
   {
    "begin": "349.080",
    "children": [],
-   "end": "356.600",
-   "id": "f000043",
+   "end": "353.120",
+   "id": "f000088",
    "language": "eng",
    "lines": [
-    "All the time he spoke, Riddle's eyes never left Harry's face. There was an almost hungry look in them."
+    "All the time he spoke, Riddle's eyes never left Harry's face."
+   ]
+  },
+  {
+   "begin": "353.120",
+   "children": [],
+   "end": "356.600",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "There was an almost hungry look in them."
    ]
   },
   {
    "begin": "356.600",
    "children": [],
-   "end": "382.240",
-   "id": "f000044",
+   "end": "362.840",
+   "id": "f000090",
    "language": "eng",
    "lines": [
-    "'It's very boring, having to listen to the silly little troubles of an eleven-year-old girl,' he went on. 'But I was patient. I wrote back, I was sympathetic, I was kind. Ginny simply loved me. No one's ever understood me like you, Tom ... I'm so glad I've got this diary to confide in ... It's like having a friend I can carry round in my pocket ...'"
+    "'It's very boring, having to listen to the silly little troubles of an eleven-year-old girl,' he went on."
    ]
   },
   {
-   "begin": "382.240",
+   "begin": "362.840",
    "children": [],
-   "end": "389.840",
-   "id": "f000045",
+   "end": "364.960",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "Riddle laughed, a high, cold laugh that didn't suit him. It made the hairs stand up on the back of Harry's neck."
+    "'But I was patient."
    ]
   },
   {
-   "begin": "389.840",
+   "begin": "364.960",
+   "children": [],
+   "end": "369.000",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "I wrote back, I was sympathetic, I was kind."
+   ]
+  },
+  {
+   "begin": "369.000",
+   "children": [],
+   "end": "371.520",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "Ginny simply loved me."
+   ]
+  },
+  {
+   "begin": "371.520",
+   "children": [],
+   "end": "374.640",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "No one's ever understood me like you, Tom ..."
+   ]
+  },
+  {
+   "begin": "374.640",
+   "children": [],
+   "end": "377.920",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "I'm so glad I've got this diary to confide in ..."
+   ]
+  },
+  {
+   "begin": "377.920",
+   "children": [],
+   "end": "381.360",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "It's like having a friend I can carry round in my pocket ...'"
+   ]
+  },
+  {
+   "begin": "381.360",
+   "children": [],
+   "end": "386.320",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "Riddle laughed, a high, cold laugh that didn't suit him."
+   ]
+  },
+  {
+   "begin": "386.320",
+   "children": [],
+   "end": "388.960",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "It made the hairs stand up on the back of Harry's neck."
+   ]
+  },
+  {
+   "begin": "388.960",
+   "children": [],
+   "end": "394.400",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "'If I say it myself, Harry, I've always been able to charm the people I needed."
+   ]
+  },
+  {
+   "begin": "394.400",
+   "children": [],
+   "end": "400.920",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "So Ginny poured out her soul to me, and her soul happened to be exactly what I wanted."
+   ]
+  },
+  {
+   "begin": "400.920",
+   "children": [],
+   "end": "407.480",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "I grew stronger and stronger on a diet of her deepest fears, her darkest secrets."
+   ]
+  },
+  {
+   "begin": "407.480",
+   "children": [],
+   "end": "412.000",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "I grew powerful, far more powerful than little Miss Weasley."
+   ]
+  },
+  {
+   "begin": "412.000",
    "children": [],
    "end": "421.680",
-   "id": "f000046",
+   "id": "f000103",
    "language": "eng",
    "lines": [
-    "'If I say it myself, Harry, I've always been able to charm the people I needed. So Ginny poured out her soul to me, and her soul happened to be exactly what I wanted. I grew stronger and stronger on a diet of her deepest fears, her darkest secrets. I grew powerful, far more powerful than little Miss Weasley. Powerful enough to start feeding Miss Weasley a few of my secrets, to start pouring a little of my soul back into her ...'"
+    "Powerful enough to start feeding Miss Weasley a few of my secrets, to start pouring a little of my soul back into her ...'"
    ]
   },
   {
    "begin": "421.680",
    "children": [],
-   "end": "426.120",
-   "id": "f000047",
+   "end": "425.280",
+   "id": "f000104",
    "language": "eng",
    "lines": [
     "'What d'you mean?' said Harry, whose mouth had gone very dry."
    ]
   },
   {
-   "begin": "426.120",
+   "begin": "425.280",
    "children": [],
-   "end": "443.920",
-   "id": "f000048",
+   "end": "430.280",
+   "id": "f000105",
    "language": "eng",
    "lines": [
-    "'Haven't you guessed yet, Harry Potter?' said Riddle softly. 'Ginny Weasley opened the Chamber of Secrets. She strangled the school roosters and daubed threatening messages on the walls. She set the serpent of Slytherin on four Mudbloods, and the Squib's cat.'"
+    "'Haven't you guessed yet, Harry Potter?' said Riddle softly."
    ]
   },
   {
-   "begin": "443.920",
+   "begin": "430.280",
+   "children": [],
+   "end": "433.520",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "'Ginny Weasley opened the Chamber of Secrets."
+   ]
+  },
+  {
+   "begin": "433.520",
+   "children": [],
+   "end": "437.960",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "She strangled the school roosters and daubed threatening messages on the walls."
+   ]
+  },
+  {
+   "begin": "437.960",
+   "children": [],
+   "end": "443.160",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "She set the serpent of Slytherin on four Mudbloods, and the Squib's cat.'"
+   ]
+  },
+  {
+   "begin": "443.160",
    "children": [],
    "end": "445.800",
-   "id": "f000049",
+   "id": "f000109",
    "language": "eng",
    "lines": [
     "'No,' Harry whispered."
@@ -493,208 +1093,748 @@
   {
    "begin": "445.800",
    "children": [],
-   "end": "498.760",
-   "id": "f000050",
+   "end": "448.040",
+   "id": "f000110",
    "language": "eng",
    "lines": [
-    "'Yes,' said Riddle, calmly. 'Of course, she didn't know what she was doing at first. It was very amusing. I wish you could have seen her new diary entries ... Far more interesting, they became ... Dear Tom,' he recited, watching Harry's horrified face, 'I think I'm losing my memory. There are rooster feathers all over my robes and I don't know how they got there. Dear Tom, I can't remember what I did on the night of Hallowe'en, but a cat was attacked and I've got paint all down my front. Dear Tom, Percy keeps telling me I'm pale and I'm not myself. I think he suspects me ... There was another attack today and I don't know where I was. Tom, what am I going to do? I think I'm going mad ... I think I'm the one attacking everyone, Tom!'"
+    "'Yes,' said Riddle, calmly."
    ]
   },
   {
-   "begin": "498.760",
+   "begin": "448.040",
    "children": [],
-   "end": "504.200",
-   "id": "f000051",
+   "end": "452.000",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "'Of course, she didn't know what she was doing at first."
+   ]
+  },
+  {
+   "begin": "452.000",
+   "children": [],
+   "end": "453.400",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "It was very amusing."
+   ]
+  },
+  {
+   "begin": "453.400",
+   "children": [],
+   "end": "456.640",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "I wish you could have seen her new diary entries ..."
+   ]
+  },
+  {
+   "begin": "456.640",
+   "children": [],
+   "end": "458.800",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Far more interesting, they became ..."
+   ]
+  },
+  {
+   "begin": "458.800",
+   "children": [],
+   "end": "465.200",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Dear Tom,' he recited, watching Harry's horrified face, 'I think I'm losing my memory."
+   ]
+  },
+  {
+   "begin": "465.200",
+   "children": [],
+   "end": "470.280",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "There are rooster feathers all over my robes and I don't know how they got there."
+   ]
+  },
+  {
+   "begin": "470.280",
+   "children": [],
+   "end": "477.560",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "Dear Tom, I can't remember what I did on the night of Hallowe'en, but a cat was attacked and I've got paint all down my front."
+   ]
+  },
+  {
+   "begin": "477.560",
+   "children": [],
+   "end": "481.960",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "Dear Tom, Percy keeps telling me I'm pale and I'm not myself."
+   ]
+  },
+  {
+   "begin": "481.960",
+   "children": [],
+   "end": "483.520",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "I think he suspects me ..."
+   ]
+  },
+  {
+   "begin": "483.520",
+   "children": [],
+   "end": "487.600",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "There was another attack today and I don't know where I was."
+   ]
+  },
+  {
+   "begin": "487.600",
+   "children": [],
+   "end": "490.160",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "Tom, what am I going to do?"
+   ]
+  },
+  {
+   "begin": "490.160",
+   "children": [],
+   "end": "492.560",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "I think I'm going mad ..."
+   ]
+  },
+  {
+   "begin": "492.560",
+   "children": [],
+   "end": "497.600",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "I think I'm the one attacking everyone, Tom!'"
+   ]
+  },
+  {
+   "begin": "497.600",
+   "children": [],
+   "end": "503.280",
+   "id": "f000124",
    "language": "eng",
    "lines": [
     "Harry's fists were clenched, the nails digging deep into his palms."
    ]
   },
   {
-   "begin": "504.200",
+   "begin": "503.280",
    "children": [],
-   "end": "530.160",
-   "id": "f000052",
+   "end": "509.640",
+   "id": "f000125",
    "language": "eng",
    "lines": [
-    "'It took a very long time for stupid little Ginny to stop trusting her diary,' said Riddle. 'But she finally became suspicious and tried to dispose of it. And that's where you came in, Harry. You found it, and I couldn't have been more delighted. Of all the people who could have picked it up, it was you, the very person I was most anxious to meet ...'"
+    "'It took a very long time for stupid little Ginny to stop trusting her diary,' said Riddle."
    ]
   },
   {
-   "begin": "530.160",
+   "begin": "509.640",
    "children": [],
-   "end": "537.880",
-   "id": "f000053",
+   "end": "513.040",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "'And why did you want to meet me?' said Harry. Anger was coursing through him and it was an effort to keep his voice steady."
+    "'But she finally became suspicious and tried to dispose of it."
    ]
   },
   {
-   "begin": "537.880",
+   "begin": "513.040",
    "children": [],
-   "end": "563.560",
-   "id": "f000054",
+   "end": "515.840",
+   "id": "f000127",
    "language": "eng",
    "lines": [
-    "'Well, you see, Ginny told me all about you, Harry,' said Riddle. 'Your whole fascinating history.' His eyes roved over the lightning scar on Harry's forehead, and his expression grew hungrier. 'I knew I must find out more about you, talk to you, meet you if I could. So I decided to show you my famous capture of that great oaf, Hagrid, to gain your trust.'"
+    "And that's where you came in, Harry."
    ]
   },
   {
-   "begin": "563.560",
+   "begin": "515.840",
    "children": [],
-   "end": "571.000",
-   "id": "f000055",
+   "end": "520.400",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "'Hagrid's my friend,' said Harry, his voice now shaking. 'And you framed him, didn't you? I thought you made a mistake, but -'"
+    "You found it, and I couldn't have been more delighted."
    ]
   },
   {
-   "begin": "571.000",
+   "begin": "520.400",
    "children": [],
-   "end": "573.520",
-   "id": "f000056",
+   "end": "530.120",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "Of all the people who could have picked it up, it was you, the very person I was most anxious to meet ...'"
+   ]
+  },
+  {
+   "begin": "530.120",
+   "children": [],
+   "end": "533.400",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "'And why did you want to meet me?' said Harry."
+   ]
+  },
+  {
+   "begin": "533.400",
+   "children": [],
+   "end": "537.640",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "Anger was coursing through him and it was an effort to keep his voice steady."
+   ]
+  },
+  {
+   "begin": "537.640",
+   "children": [],
+   "end": "542.440",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "'Well, you see, Ginny told me all about you, Harry,' said Riddle."
+   ]
+  },
+  {
+   "begin": "542.440",
+   "children": [],
+   "end": "544.920",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "'Your whole fascinating history.'"
+   ]
+  },
+  {
+   "begin": "544.920",
+   "children": [],
+   "end": "550.880",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "His eyes roved over the lightning scar on Harry's forehead, and his expression grew hungrier."
+   ]
+  },
+  {
+   "begin": "550.880",
+   "children": [],
+   "end": "556.120",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "'I knew I must find out more about you, talk to you, meet you if I could."
+   ]
+  },
+  {
+   "begin": "556.120",
+   "children": [],
+   "end": "562.960",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "So I decided to show you my famous capture of that great oaf, Hagrid, to gain your trust.'"
+   ]
+  },
+  {
+   "begin": "562.960",
+   "children": [],
+   "end": "566.840",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "'Hagrid's my friend,' said Harry, his voice now shaking."
+   ]
+  },
+  {
+   "begin": "566.840",
+   "children": [],
+   "end": "568.920",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "'And you framed him, didn't you?"
+   ]
+  },
+  {
+   "begin": "568.920",
+   "children": [],
+   "end": "570.600",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "I thought you made a mistake, but -'"
+   ]
+  },
+  {
+   "begin": "570.600",
+   "children": [],
+   "end": "572.960",
+   "id": "f000140",
    "language": "eng",
    "lines": [
     "Riddle laughed his high laugh again."
    ]
   },
   {
-   "begin": "573.520",
+   "begin": "572.960",
    "children": [],
-   "end": "582.800",
-   "id": "f000057",
+   "end": "576.560",
+   "id": "f000141",
    "language": "eng",
    "lines": [
-    "'It was my word against Hagrid's, Harry. Well, you can imagine how it looked to old Armando Dippet. On the one hand, Tom"
+    "'It was my word against Hagrid's, Harry."
    ]
   },
   {
-   "begin": "582.800",
+   "begin": "576.560",
    "children": [],
-   "end": "622.880",
-   "id": "f000058",
+   "end": "581.120",
+   "id": "f000142",
    "language": "eng",
    "lines": [
-    "Riddle, poor but brilliant, parentless but so brave, school Prefect, model student; on the other hand, big, blundering Hagrid, in trouble every other week, trying to raise werewolf cubs under his bed, sneaking off to the Forbidden Forest to wrestle trolls. But I admit, even I was surprised how well the plan worked. I thought someone must realise that Hagrid couldn't possibly be the heir of Slytherin. It had taken me five whole years to find out everything I could about the Chamber of Secrets and discover the secret entrance ... as though Hagrid had the brains, or the power!"
+    "Well, you can imagine how it looked to old Armando Dippet."
    ]
   },
   {
-   "begin": "622.880",
+   "begin": "581.120",
    "children": [],
-   "end": "641.000",
-   "id": "f000059",
+   "end": "582.760",
+   "id": "f000143",
    "language": "eng",
    "lines": [
-    "'Only the Transfiguration teacher, Dumbledore, seemed to think Hagrid was innocent. He persuaded Dippet to keep Hagrid and train him as gamekeeper. Yes, I think Dumbledore might have guessed. Dumbledore never seemed to like me as much as the other teachers did ...'"
+    "On the one hand, Tom"
    ]
   },
   {
-   "begin": "641.000",
+   "begin": "582.760",
    "children": [],
-   "end": "646.880",
-   "id": "f000060",
+   "end": "601.000",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Riddle, poor but brilliant, parentless but so brave, school Prefect, model student; on the other hand, big, blundering Hagrid, in trouble every other week, trying to raise werewolf cubs under his bed, sneaking off to the Forbidden Forest to wrestle trolls."
+   ]
+  },
+  {
+   "begin": "601.000",
+   "children": [],
+   "end": "605.600",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "But I admit, even I was surprised how well the plan worked."
+   ]
+  },
+  {
+   "begin": "605.600",
+   "children": [],
+   "end": "611.080",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "I thought someone must realise that Hagrid couldn't possibly be the heir of Slytherin."
+   ]
+  },
+  {
+   "begin": "611.080",
+   "children": [],
+   "end": "622.120",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "It had taken me five whole years to find out everything I could about the Chamber of Secrets and discover the secret entrance ... as though Hagrid had the brains, or the power!"
+   ]
+  },
+  {
+   "begin": "622.120",
+   "children": [],
+   "end": "628.240",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "'Only the Transfiguration teacher, Dumbledore, seemed to think Hagrid was innocent."
+   ]
+  },
+  {
+   "begin": "628.240",
+   "children": [],
+   "end": "631.960",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "He persuaded Dippet to keep Hagrid and train him as gamekeeper."
+   ]
+  },
+  {
+   "begin": "631.960",
+   "children": [],
+   "end": "635.640",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "Yes, I think Dumbledore might have guessed."
+   ]
+  },
+  {
+   "begin": "635.640",
+   "children": [],
+   "end": "640.080",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "Dumbledore never seemed to like me as much as the other teachers did ...'"
+   ]
+  },
+  {
+   "begin": "640.080",
+   "children": [],
+   "end": "646.120",
+   "id": "f000152",
    "language": "eng",
    "lines": [
     "'I bet Dumbledore saw right through you,' said Harry, his teeth gritted."
    ]
   },
   {
-   "begin": "646.880",
+   "begin": "646.120",
    "children": [],
-   "end": "678.560",
-   "id": "f000061",
+   "end": "653.520",
+   "id": "f000153",
    "language": "eng",
    "lines": [
-    "'Well, he certainly kept an annoyingly close watch on me after Hagrid was expelled,' said Riddle carelessly. 'I knew it wouldn't be safe to open the Chamber again while I was still at school. But I wasn't going to waste those long years I'd spent searching for it. I decided to leave behind a diary, preserving my sixteen-year-old self in its pages, so that one day, with luck, I would be able to lead another in my footsteps, and finish Salazar Slytherin's noble work.'"
+    "'Well, he certainly kept an annoyingly close watch on me after Hagrid was expelled,' said Riddle carelessly."
    ]
   },
   {
-   "begin": "678.560",
+   "begin": "653.520",
    "children": [],
-   "end": "690.560",
-   "id": "f000062",
+   "end": "657.720",
+   "id": "f000154",
    "language": "eng",
    "lines": [
-    "'Well, you haven't finished it,' said Harry triumphantly. 'No one's died this time, not even the cat. In a few hours the Mandrake Draught will be ready and everyone who was Petrified will be all right again.'"
+    "'I knew it wouldn't be safe to open the Chamber again while I was still at school."
    ]
   },
   {
-   "begin": "690.560",
+   "begin": "657.720",
    "children": [],
-   "end": "704.000",
-   "id": "f000063",
+   "end": "662.040",
+   "id": "f000155",
    "language": "eng",
    "lines": [
-    "'Haven't I already told you,' said Riddle quietly, 'that killing Mudbloods doesn't matter to me any more? For many months now, my new target has been - you.'"
+    "But I wasn't going to waste those long years I'd spent searching for it."
    ]
   },
   {
-   "begin": "704.000",
+   "begin": "662.040",
    "children": [],
-   "end": "705.920",
-   "id": "f000064",
+   "end": "677.760",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "I decided to leave behind a diary, preserving my sixteen-year-old self in its pages, so that one day, with luck, I would be able to lead another in my footsteps, and finish Salazar Slytherin's noble work.'"
+   ]
+  },
+  {
+   "begin": "677.760",
+   "children": [],
+   "end": "681.440",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "'Well, you haven't finished it,' said Harry triumphantly."
+   ]
+  },
+  {
+   "begin": "681.440",
+   "children": [],
+   "end": "683.720",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "'No one's died this time, not even the cat."
+   ]
+  },
+  {
+   "begin": "683.720",
+   "children": [],
+   "end": "689.320",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "In a few hours the Mandrake Draught will be ready and everyone who was Petrified will be all right again.'"
+   ]
+  },
+  {
+   "begin": "689.320",
+   "children": [],
+   "end": "697.280",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "'Haven't I already told you,' said Riddle quietly, 'that killing Mudbloods doesn't matter to me any more?"
+   ]
+  },
+  {
+   "begin": "697.280",
+   "children": [],
+   "end": "702.680",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "For many months now, my new target has been - you.'"
+   ]
+  },
+  {
+   "begin": "702.680",
+   "children": [],
+   "end": "705.080",
+   "id": "f000162",
    "language": "eng",
    "lines": [
     "Harry stared at him."
    ]
   },
   {
-   "begin": "705.920",
+   "begin": "705.080",
    "children": [],
-   "end": "734.840",
-   "id": "f000065",
+   "end": "712.160",
+   "id": "f000163",
    "language": "eng",
    "lines": [
-    "'Imagine how angry I was when the next time my diary was opened, it was Ginny who was writing to me, not you. She saw you with the diary, you see, and panicked. What if you found out how to work it, and I repeated all her secrets to you? What if, even worse, I told you who'd been strangling roosters? So the foolish little brat waited until your dormitory was deserted and stole it back. But I knew what I must do. It was clear to me that you were on the trail of Slytherin's heir. From everything Ginny"
+    "'Imagine how angry I was when the next time my diary was opened, it was Ginny who was writing to me, not you."
+   ]
+  },
+  {
+   "begin": "712.160",
+   "children": [],
+   "end": "715.080",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "She saw you with the diary, you see, and panicked."
+   ]
+  },
+  {
+   "begin": "715.080",
+   "children": [],
+   "end": "719.080",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "What if you found out how to work it, and I repeated all her secrets to you?"
+   ]
+  },
+  {
+   "begin": "719.080",
+   "children": [],
+   "end": "722.480",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "What if, even worse, I told you who'd been strangling roosters?"
+   ]
+  },
+  {
+   "begin": "722.480",
+   "children": [],
+   "end": "728.440",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "So the foolish little brat waited until your dormitory was deserted and stole it back."
+   ]
+  },
+  {
+   "begin": "728.440",
+   "children": [],
+   "end": "730.520",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "But I knew what I must do."
+   ]
+  },
+  {
+   "begin": "730.520",
+   "children": [],
+   "end": "733.440",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "It was clear to me that you were on the trail of Slytherin's heir."
+   ]
+  },
+  {
+   "begin": "733.440",
+   "children": [],
+   "end": "734.840",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "From everything Ginny"
    ]
   },
   {
    "begin": "734.840",
    "children": [],
-   "end": "748.120",
-   "id": "f000066",
+   "end": "743.120",
+   "id": "f000171",
    "language": "eng",
    "lines": [
-    "had told me about you, I knew you would go to any lengths to solve the mystery - particularly if one of your best friends was attacked. And Ginny had told me the whole school was buzzing because you could speak Parseltongue ..."
+    "had told me about you, I knew you would go to any lengths to solve the mystery - particularly if one of your best friends was attacked."
+   ]
+  },
+  {
+   "begin": "743.120",
+   "children": [],
+   "end": "748.120",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "And Ginny had told me the whole school was buzzing because you could speak Parseltongue ..."
    ]
   },
   {
    "begin": "748.120",
    "children": [],
-   "end": "777.480",
-   "id": "f000067",
+   "end": "754.360",
+   "id": "f000173",
    "language": "eng",
    "lines": [
-    "'So I made Ginny write her own farewell on the wall and come down here to wait. She struggled and cried and became very boring. But there isn't much life left in her: she put too much into the diary, into me. Enough to let me leave its pages at last. I have been waiting for you to appear since we arrived here. I knew you'd come. I have many questions for you, Harry Potter.'"
+    "'So I made Ginny write her own farewell on the wall and come down here to wait."
    ]
   },
   {
-   "begin": "777.480",
+   "begin": "754.360",
    "children": [],
-   "end": "782.240",
-   "id": "f000068",
+   "end": "757.400",
+   "id": "f000174",
    "language": "eng",
    "lines": [
-    "'Like what?' Harry spat, fists still clenched."
+    "She struggled and cried and became very boring."
    ]
   },
   {
-   "begin": "782.240",
+   "begin": "757.400",
    "children": [],
-   "end": "802.640",
-   "id": "f000069",
+   "end": "763.680",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "'Well,' said Riddle, smiling pleasantly, 'how is it that a baby with no extraordinary magical talent managed to defeat the greatest wizard of all time? How did you escape with nothing but a scar, while Lord Voldemort's powers were destroyed?'"
+    "But there isn't much life left in her: she put too much into the diary, into me."
    ]
   },
   {
-   "begin": "802.640",
+   "begin": "763.680",
+   "children": [],
+   "end": "767.040",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "Enough to let me leave its pages at last."
+   ]
+  },
+  {
+   "begin": "767.040",
+   "children": [],
+   "end": "771.120",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "I have been waiting for you to appear since we arrived here."
+   ]
+  },
+  {
+   "begin": "771.120",
+   "children": [],
+   "end": "773.000",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "I knew you'd come."
+   ]
+  },
+  {
+   "begin": "773.000",
+   "children": [],
+   "end": "776.720",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "I have many questions for you, Harry Potter.'"
+   ]
+  },
+  {
+   "begin": "776.720",
+   "children": [],
+   "end": "778.400",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "'Like what?'"
+   ]
+  },
+  {
+   "begin": "778.400",
+   "children": [],
+   "end": "781.520",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "Harry spat, fists still clenched."
+   ]
+  },
+  {
+   "begin": "781.520",
+   "children": [],
+   "end": "795.280",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "'Well,' said Riddle, smiling pleasantly, 'how is it that a baby with no extraordinary magical talent managed to defeat the greatest wizard of all time?"
+   ]
+  },
+  {
+   "begin": "795.280",
+   "children": [],
+   "end": "801.720",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "How did you escape with nothing but a scar, while Lord Voldemort's powers were destroyed?'"
+   ]
+  },
+  {
+   "begin": "801.720",
    "children": [],
    "end": "805.360",
-   "id": "f000070",
+   "id": "f000184",
    "language": "eng",
    "lines": [
     "There was an odd red gleam in his hungry eyes now."
@@ -703,108 +1843,238 @@
   {
    "begin": "805.360",
    "children": [],
-   "end": "812.840",
-   "id": "f000071",
+   "end": "809.680",
+   "id": "f000185",
    "language": "eng",
    "lines": [
-    "'Why do you care how I escaped?' said Harry slowly. 'Voldemort was after your time.'"
+    "'Why do you care how I escaped?' said Harry slowly."
    ]
   },
   {
-   "begin": "812.840",
+   "begin": "809.680",
    "children": [],
-   "end": "821.520",
-   "id": "f000072",
+   "end": "811.920",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "'Voldemort was after your time.'"
+   ]
+  },
+  {
+   "begin": "811.920",
+   "children": [],
+   "end": "820.600",
+   "id": "f000187",
    "language": "eng",
    "lines": [
     "'Voldemort,' said Riddle softly, 'is my past, present and future, Harry Potter ...'"
    ]
   },
   {
-   "begin": "821.520",
+   "begin": "820.600",
    "children": [],
-   "end": "831.400",
-   "id": "f000073",
+   "end": "830.600",
+   "id": "f000188",
    "language": "eng",
    "lines": [
     "He pulled Harry's wand from his pocket and began to trace it through the air, writing three shimmering words: TOM MARVOLO RIDDLE"
    ]
   },
   {
-   "begin": "831.400",
+   "begin": "830.600",
    "children": [],
-   "end": "840.920",
-   "id": "f000074",
+   "end": "839.760",
+   "id": "f000189",
    "language": "eng",
    "lines": [
     "Then he waved the wand once, and the letters of his name rearranged themselves: I AM LORD VOLDEMORT"
    ]
   },
   {
-   "begin": "840.920",
+   "begin": "839.760",
    "children": [],
-   "end": "884.440",
-   "id": "f000075",
+   "end": "842.880",
+   "id": "f000190",
    "language": "eng",
    "lines": [
-    "'You see?' he whispered. 'It was a name I was already using at Hogwarts, to my most intimate friends only, of course. You think I was going to use my filthy Muggle father's name for ever? I, in whose veins runs the blood of Salazar Slytherin himself, through my mother's side? I, keep the name of a foul, common Muggle, who abandoned me even before I was born, just because he found out his wife was a witch? No, Harry. I fashioned myself a new name, a name I knew wizards everywhere would one day fear to speak, when I had become the greatest sorcerer in the world!'"
+    "'You see?' he whispered."
+   ]
+  },
+  {
+   "begin": "842.880",
+   "children": [],
+   "end": "850.240",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "'It was a name I was already using at Hogwarts, to my most intimate friends only, of course."
+   ]
+  },
+  {
+   "begin": "850.240",
+   "children": [],
+   "end": "855.640",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "You think I was going to use my filthy Muggle father's name for ever?"
+   ]
+  },
+  {
+   "begin": "855.640",
+   "children": [],
+   "end": "862.840",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "I, in whose veins runs the blood of Salazar Slytherin himself, through my mother's side?"
+   ]
+  },
+  {
+   "begin": "862.840",
+   "children": [],
+   "end": "872.320",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "I, keep the name of a foul, common Muggle, who abandoned me even before I was born, just because he found out his wife was a witch?"
+   ]
+  },
+  {
+   "begin": "872.320",
+   "children": [],
+   "end": "873.680",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "No, Harry."
+   ]
+  },
+  {
+   "begin": "873.680",
+   "children": [],
+   "end": "884.440",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "I fashioned myself a new name, a name I knew wizards everywhere would one day fear to speak, when I had become the greatest sorcerer in the world!'"
    ]
   },
   {
    "begin": "884.440",
    "children": [],
-   "end": "898.960",
-   "id": "f000076",
+   "end": "887.680",
+   "id": "f000197",
    "language": "eng",
    "lines": [
-    "Harry's brain seemed to have jammed. He stared numbly at Riddle, at the orphaned boy who had grown up to murder Harry's own parents, and so many others ... At last he forced himself to speak."
+    "Harry's brain seemed to have jammed."
    ]
   },
   {
-   "begin": "898.960",
+   "begin": "887.680",
    "children": [],
-   "end": "903.360",
-   "id": "f000077",
+   "end": "895.480",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "He stared numbly at Riddle, at the orphaned boy who had grown up to murder Harry's own parents, and so many others ..."
+   ]
+  },
+  {
+   "begin": "895.480",
+   "children": [],
+   "end": "898.080",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "At last he forced himself to speak."
+   ]
+  },
+  {
+   "begin": "898.080",
+   "children": [],
+   "end": "902.920",
+   "id": "f000200",
    "language": "eng",
    "lines": [
     "'You're not,' he said, his quiet voice full of hatred."
    ]
   },
   {
-   "begin": "903.360",
+   "begin": "902.920",
    "children": [],
-   "end": "905.720",
-   "id": "f000078",
+   "end": "905.680",
+   "id": "f000201",
    "language": "eng",
    "lines": [
     "'Not what?' snapped Riddle."
    ]
   },
   {
-   "begin": "905.720",
+   "begin": "905.680",
    "children": [],
-   "end": "926.600",
-   "id": "f000079",
+   "end": "909.520",
+   "id": "f000202",
    "language": "eng",
    "lines": [
-    "'Not the greatest sorcerer in the world,' said Harry, breathing fast. 'Sorry to disappoint you, and all that, but the greatest wizard in the world is Albus Dumbledore. Everyone says so. Even when you were strong, you didn't dare try and take over at Hogwarts. Dumbledore saw through you when you were at school and he still frightens you now, wherever you're hiding these days.'"
+    "'Not the greatest sorcerer in the world,' said Harry, breathing fast."
+   ]
+  },
+  {
+   "begin": "909.520",
+   "children": [],
+   "end": "914.040",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "'Sorry to disappoint you, and all that, but the greatest wizard in the world is Albus Dumbledore."
+   ]
+  },
+  {
+   "begin": "914.040",
+   "children": [],
+   "end": "915.280",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Everyone says so."
+   ]
+  },
+  {
+   "begin": "915.280",
+   "children": [],
+   "end": "919.840",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "Even when you were strong, you didn't dare try and take over at Hogwarts."
+   ]
+  },
+  {
+   "begin": "919.840",
+   "children": [],
+   "end": "926.600",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "Dumbledore saw through you when you were at school and he still frightens you now, wherever you're hiding these days.'"
    ]
   },
   {
    "begin": "926.600",
    "children": [],
-   "end": "931.560",
-   "id": "f000080",
+   "end": "931.880",
+   "id": "f000207",
    "language": "eng",
    "lines": [
     "The smile had gone from Riddle's face, to be replaced by a very ugly look."
    ]
   },
   {
-   "begin": "931.560",
+   "begin": "931.880",
    "children": [],
    "end": "938.240",
-   "id": "f000081",
+   "id": "f000208",
    "language": "eng",
    "lines": [
     "'Dumbledore's been driven out of this castle by the mere memory of me!' he hissed."
@@ -813,228 +2083,768 @@
   {
    "begin": "938.240",
    "children": [],
-   "end": "948.040",
-   "id": "f000082",
+   "end": "941.120",
+   "id": "f000209",
    "language": "eng",
    "lines": [
-    "'He's not as gone as you might think!' Harry retorted. He was speaking at random, wanting to scare Riddle, wishing rather than believing it to be true."
+    "'He's not as gone as you might think!'"
    ]
   },
   {
-   "begin": "948.040",
+   "begin": "941.120",
    "children": [],
-   "end": "951.680",
-   "id": "f000083",
+   "end": "942.400",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "Harry retorted."
+   ]
+  },
+  {
+   "begin": "942.400",
+   "children": [],
+   "end": "947.760",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "He was speaking at random, wanting to scare Riddle, wishing rather than believing it to be true."
+   ]
+  },
+  {
+   "begin": "947.760",
+   "children": [],
+   "end": "950.600",
+   "id": "f000212",
    "language": "eng",
    "lines": [
     "Riddle opened his mouth, but froze."
    ]
   },
   {
-   "begin": "951.680",
+   "begin": "950.600",
    "children": [],
-   "end": "978.240",
-   "id": "f000084",
+   "end": "954.680",
+   "id": "f000213",
    "language": "eng",
    "lines": [
-    "Music was coming from somewhere. Riddle whirled around to stare down the empty chamber. The music was growing louder. It was eerie, spine-tingling, unearthly; it lifted the hair on Harry's scalp and made his heart feel as though it was swelling to twice its normal size. Then, as the music reached such a pitch that Harry felt it vibrating inside his own ribs, flames erupted at the top of the nearest pillar."
+    "Music was coming from somewhere."
    ]
   },
   {
-   "begin": "978.240",
+   "begin": "954.680",
    "children": [],
-   "end": "992.200",
-   "id": "f000085",
+   "end": "957.800",
+   "id": "f000214",
    "language": "eng",
    "lines": [
-    "A crimson bird the size of a swan had appeared, piping its weird music to the vaulted ceiling. It had a glittering golden tail as long as a peacock's and gleaming golden talons, which were gripping a ragged bundle."
+    "Riddle whirled around to stare down the empty chamber."
+   ]
+  },
+  {
+   "begin": "957.800",
+   "children": [],
+   "end": "959.640",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "The music was growing louder."
+   ]
+  },
+  {
+   "begin": "959.640",
+   "children": [],
+   "end": "970.080",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "It was eerie, spine-tingling, unearthly; it lifted the hair on Harry's scalp and made his heart feel as though it was swelling to twice its normal size."
+   ]
+  },
+  {
+   "begin": "970.080",
+   "children": [],
+   "end": "978.200",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "Then, as the music reached such a pitch that Harry felt it vibrating inside his own ribs, flames erupted at the top of the nearest pillar."
+   ]
+  },
+  {
+   "begin": "978.200",
+   "children": [],
+   "end": "984.520",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "A crimson bird the size of a swan had appeared, piping its weird music to the vaulted ceiling."
+   ]
+  },
+  {
+   "begin": "984.520",
+   "children": [],
+   "end": "992.200",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "It had a glittering golden tail as long as a peacock's and gleaming golden talons, which were gripping a ragged bundle."
    ]
   },
   {
    "begin": "992.200",
    "children": [],
-   "end": "1009.800",
-   "id": "f000086",
+   "end": "995.840",
+   "id": "f000220",
    "language": "eng",
    "lines": [
-    "A second later, the bird was flying straight at Harry. It dropped the ragged thing it was carrying at his feet, then landed heavily on his shoulder. As it folded its great wings, Harry looked up and saw it had a long, sharp golden beak and beady black eyes."
+    "A second later, the bird was flying straight at Harry."
    ]
   },
   {
-   "begin": "1009.800",
+   "begin": "995.840",
    "children": [],
-   "end": "1018.760",
-   "id": "f000087",
+   "end": "1000.800",
+   "id": "f000221",
    "language": "eng",
    "lines": [
-    "The bird stopped singing. It sat still and warm next to Harry's cheek, gazing steadily at Riddle."
+    "It dropped the ragged thing it was carrying at his feet, then landed heavily on his shoulder."
    ]
   },
   {
-   "begin": "1018.760",
+   "begin": "1000.800",
    "children": [],
-   "end": "1024.320",
-   "id": "f000088",
+   "end": "1008.760",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "As it folded its great wings, Harry looked up and saw it had a long, sharp golden beak and beady black eyes."
+   ]
+  },
+  {
+   "begin": "1008.760",
+   "children": [],
+   "end": "1011.400",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "The bird stopped singing."
+   ]
+  },
+  {
+   "begin": "1011.400",
+   "children": [],
+   "end": "1018.400",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "It sat still and warm next to Harry's cheek, gazing steadily at Riddle."
+   ]
+  },
+  {
+   "begin": "1018.400",
+   "children": [],
+   "end": "1023.440",
+   "id": "f000225",
    "language": "eng",
    "lines": [
     "'That's a phoenix ...' said Riddle, staring shrewdly back at it."
    ]
   },
   {
-   "begin": "1024.320",
+   "begin": "1023.440",
    "children": [],
-   "end": "1030.920",
-   "id": "f000089",
+   "end": "1025.120",
+   "id": "f000226",
    "language": "eng",
    "lines": [
-    "'Fawkes?' Harry breathed, and he felt the bird's golden claws squeeze his shoulder gently."
+    "'Fawkes?'"
    ]
   },
   {
-   "begin": "1030.920",
+   "begin": "1025.120",
    "children": [],
-   "end": "1040.280",
-   "id": "f000090",
+   "end": "1030.120",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "Harry breathed, and he felt the bird's golden claws squeeze his shoulder gently."
+   ]
+  },
+  {
+   "begin": "1030.120",
+   "children": [],
+   "end": "1039.320",
+   "id": "f000228",
    "language": "eng",
    "lines": [
     "'And that -' said Riddle, now eyeing the ragged thing that Fawkes had dropped, 'that's the old school Sorting Hat.'"
    ]
   },
   {
-   "begin": "1040.280",
+   "begin": "1039.320",
    "children": [],
-   "end": "1045.560",
-   "id": "f000091",
+   "end": "1041.160",
+   "id": "f000229",
    "language": "eng",
    "lines": [
-    "So it was. Patched, frayed and dirty, the Hat lay motionless at Harry's feet."
+    "So it was."
    ]
   },
   {
-   "begin": "1045.560",
+   "begin": "1041.160",
    "children": [],
-   "end": "1049.600",
-   "id": "f000092",
+   "end": "1044.840",
+   "id": "f000230",
    "language": "eng",
    "lines": [
-    "Riddle began to laugh again. He laughed so hard that the dark"
+    "Patched, frayed and dirty, the Hat lay motionless at Harry's feet."
+   ]
+  },
+  {
+   "begin": "1044.840",
+   "children": [],
+   "end": "1047.760",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "Riddle began to laugh again."
+   ]
+  },
+  {
+   "begin": "1047.760",
+   "children": [],
+   "end": "1049.600",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "He laughed so hard that the dark"
    ]
   },
   {
    "begin": "1049.600",
    "children": [],
-   "end": "1053.680",
-   "id": "f000093",
+   "end": "1053.160",
+   "id": "f000233",
    "language": "eng",
    "lines": [
     "chamber rang with it, as though ten Riddles were laughing at once."
    ]
   },
   {
-   "begin": "1053.680",
+   "begin": "1053.160",
    "children": [],
-   "end": "1062.880",
-   "id": "f000094",
+   "end": "1057.040",
+   "id": "f000234",
    "language": "eng",
    "lines": [
-    "'This is what Dumbledore sends his defender! A songbird and an old hat! Do you feel brave, Harry Potter? Do you feel safe now?'"
+    "'This is what Dumbledore sends his defender!"
+   ]
+  },
+  {
+   "begin": "1057.040",
+   "children": [],
+   "end": "1059.160",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "A songbird and an old hat!"
+   ]
+  },
+  {
+   "begin": "1059.160",
+   "children": [],
+   "end": "1061.040",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "Do you feel brave, Harry Potter?"
+   ]
+  },
+  {
+   "begin": "1061.040",
+   "children": [],
+   "end": "1062.880",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "Do you feel safe now?'"
    ]
   },
   {
    "begin": "1062.880",
    "children": [],
-   "end": "1073.680",
-   "id": "f000095",
+   "end": "1065.080",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "Harry didn't answer. He might not see what use Fawkes or the Sorting Hat were, but he was no longer alone, and he waited with mounting courage for Riddle to stop laughing."
+    "Harry didn't answer."
+   ]
+  },
+  {
+   "begin": "1065.080",
+   "children": [],
+   "end": "1073.680",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "He might not see what use Fawkes or the Sorting Hat were, but he was no longer alone, and he waited with mounting courage for Riddle to stop laughing."
    ]
   },
   {
    "begin": "1073.680",
    "children": [],
-   "end": "1094.120",
-   "id": "f000096",
+   "end": "1078.720",
+   "id": "f000240",
    "language": "eng",
    "lines": [
-    "'To business, Harry,' said Riddle, still smiling broadly. 'Twice in your past, in my future - we have met. And twice I failed to kill you. How did you survive? Tell me everything. The longer you talk,' he added softly, 'the longer you stay alive.'"
+    "'To business, Harry,' said Riddle, still smiling broadly."
+   ]
+  },
+  {
+   "begin": "1078.720",
+   "children": [],
+   "end": "1082.960",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "'Twice in your past, in my future - we have met."
+   ]
+  },
+  {
+   "begin": "1082.960",
+   "children": [],
+   "end": "1085.000",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "And twice I failed to kill you."
+   ]
+  },
+  {
+   "begin": "1085.000",
+   "children": [],
+   "end": "1088.000",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "How did you survive?"
+   ]
+  },
+  {
+   "begin": "1088.000",
+   "children": [],
+   "end": "1089.320",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "Tell me everything."
+   ]
+  },
+  {
+   "begin": "1089.320",
+   "children": [],
+   "end": "1094.120",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "The longer you talk,' he added softly, 'the longer you stay alive.'"
    ]
   },
   {
    "begin": "1094.120",
    "children": [],
-   "end": "1121.320",
-   "id": "f000097",
+   "end": "1097.960",
+   "id": "f000246",
    "language": "eng",
    "lines": [
-    "Harry was thinking fast, weighing his chances. Riddle had the wand. He, Harry, had Fawkes and the Sorting Hat, neither of which would be much good in a duel. It looked bad, all right. But the longer Riddle stood there, the more life was dwindling out of Ginny ... and in the meantime, Harry noticed suddenly, Riddle's outline was becoming clearer, more solid. If it had to be a fight between him and Riddle, better sooner than later."
+    "Harry was thinking fast, weighing his chances."
    ]
   },
   {
-   "begin": "1121.320",
+   "begin": "1097.960",
    "children": [],
-   "end": "1150.040",
-   "id": "f000098",
+   "end": "1099.240",
+   "id": "f000247",
    "language": "eng",
    "lines": [
-    "'No one knows why you lost your powers when you attacked me,' said Harry abruptly. 'I don't know myself. But I know why you couldn't kill me. Because my mother died to save me. My common Muggle-born mother,' he added, shaking with suppressed rage. 'She stopped you killing me. And I've seen the real you, I saw you last year. You're a wreck. You're barely alive. That's where all your power got you. You're in hiding. You're ugly, you're foul!'"
+    "Riddle had the wand."
+   ]
+  },
+  {
+   "begin": "1099.240",
+   "children": [],
+   "end": "1104.400",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "He, Harry, had Fawkes and the Sorting Hat, neither of which would be much good in a duel."
+   ]
+  },
+  {
+   "begin": "1104.400",
+   "children": [],
+   "end": "1106.040",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "It looked bad, all right."
+   ]
+  },
+  {
+   "begin": "1106.040",
+   "children": [],
+   "end": "1115.640",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "But the longer Riddle stood there, the more life was dwindling out of Ginny ... and in the meantime, Harry noticed suddenly, Riddle's outline was becoming clearer, more solid."
+   ]
+  },
+  {
+   "begin": "1115.640",
+   "children": [],
+   "end": "1120.280",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "If it had to be a fight between him and Riddle, better sooner than later."
+   ]
+  },
+  {
+   "begin": "1120.280",
+   "children": [],
+   "end": "1125.800",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "'No one knows why you lost your powers when you attacked me,' said Harry abruptly."
+   ]
+  },
+  {
+   "begin": "1125.800",
+   "children": [],
+   "end": "1126.960",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "'I don't know myself."
+   ]
+  },
+  {
+   "begin": "1126.960",
+   "children": [],
+   "end": "1128.800",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "But I know why you couldn't kill me."
+   ]
+  },
+  {
+   "begin": "1128.800",
+   "children": [],
+   "end": "1132.680",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "Because my mother died to save me."
+   ]
+  },
+  {
+   "begin": "1132.680",
+   "children": [],
+   "end": "1136.560",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "My common Muggle-born mother,' he added, shaking with suppressed rage."
+   ]
+  },
+  {
+   "begin": "1136.560",
+   "children": [],
+   "end": "1138.720",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "'She stopped you killing me."
+   ]
+  },
+  {
+   "begin": "1138.720",
+   "children": [],
+   "end": "1142.400",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "And I've seen the real you, I saw you last year."
+   ]
+  },
+  {
+   "begin": "1142.400",
+   "children": [],
+   "end": "1143.400",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "You're a wreck."
+   ]
+  },
+  {
+   "begin": "1143.400",
+   "children": [],
+   "end": "1144.840",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "You're barely alive."
+   ]
+  },
+  {
+   "begin": "1144.840",
+   "children": [],
+   "end": "1146.720",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "That's where all your power got you."
+   ]
+  },
+  {
+   "begin": "1146.720",
+   "children": [],
+   "end": "1147.800",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "You're in hiding."
+   ]
+  },
+  {
+   "begin": "1147.800",
+   "children": [],
+   "end": "1150.040",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "You're ugly, you're foul!'"
    ]
   },
   {
    "begin": "1150.040",
    "children": [],
-   "end": "1154.880",
-   "id": "f000099",
+   "end": "1152.800",
+   "id": "f000264",
    "language": "eng",
    "lines": [
-    "Riddle's face contorted. Then he forced it into an awful smile."
+    "Riddle's face contorted."
+   ]
+  },
+  {
+   "begin": "1152.800",
+   "children": [],
+   "end": "1154.880",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "Then he forced it into an awful smile."
    ]
   },
   {
    "begin": "1154.880",
    "children": [],
-   "end": "1190.520",
-   "id": "f000100",
+   "end": "1156.280",
+   "id": "f000266",
    "language": "eng",
    "lines": [
-    "'So. Your mother died to save you. Yes, that's a powerful counter-charm. I can see now - there is nothing special about you, after all. I wondered, you see. Because there are strange likenesses between us, Harry Potter. Even you must have noticed. Both half-bloods, orphans, raised by Muggles. Probably the only two Parselmouths to come to Hogwarts since the great Slytherin himself. We even look something alike ... But after all, it was merely a lucky chance that saved you from me. That's all I wanted to know.'"
+    "'So."
+   ]
+  },
+  {
+   "begin": "1156.280",
+   "children": [],
+   "end": "1158.320",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "Your mother died to save you."
+   ]
+  },
+  {
+   "begin": "1158.320",
+   "children": [],
+   "end": "1160.760",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "Yes, that's a powerful counter-charm."
+   ]
+  },
+  {
+   "begin": "1160.760",
+   "children": [],
+   "end": "1164.160",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "I can see now - there is nothing special about you, after all."
+   ]
+  },
+  {
+   "begin": "1164.160",
+   "children": [],
+   "end": "1165.520",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "I wondered, you see."
+   ]
+  },
+  {
+   "begin": "1165.520",
+   "children": [],
+   "end": "1169.280",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "Because there are strange likenesses between us, Harry Potter."
+   ]
+  },
+  {
+   "begin": "1169.280",
+   "children": [],
+   "end": "1171.000",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "Even you must have noticed."
+   ]
+  },
+  {
+   "begin": "1171.000",
+   "children": [],
+   "end": "1175.080",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "Both half-bloods, orphans, raised by Muggles."
+   ]
+  },
+  {
+   "begin": "1175.080",
+   "children": [],
+   "end": "1181.000",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "Probably the only two Parselmouths to come to Hogwarts since the great Slytherin himself."
+   ]
+  },
+  {
+   "begin": "1181.000",
+   "children": [],
+   "end": "1183.640",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "We even look something alike ..."
+   ]
+  },
+  {
+   "begin": "1183.640",
+   "children": [],
+   "end": "1188.720",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "But after all, it was merely a lucky chance that saved you from me."
+   ]
+  },
+  {
+   "begin": "1188.720",
+   "children": [],
+   "end": "1190.520",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "That's all I wanted to know.'"
    ]
   },
   {
    "begin": "1190.520",
    "children": [],
-   "end": "1197.880",
-   "id": "f000101",
+   "end": "1195.160",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "Harry stood, tense, waiting for Riddle to raise his wand. But Riddle's twisted smile was widening again."
+    "Harry stood, tense, waiting for Riddle to raise his wand."
    ]
   },
   {
-   "begin": "1197.880",
+   "begin": "1195.160",
    "children": [],
-   "end": "1213.800",
-   "id": "f000102",
+   "end": "1197.800",
+   "id": "f000279",
    "language": "eng",
    "lines": [
-    "'Now, Harry, I'm going to teach you a little lesson. Let's match the powers of Lord Voldemort, heir of Salazar Slytherin, against famous Harry Potter, and the best weapons Dumbledore can give him.'"
+    "But Riddle's twisted smile was widening again."
    ]
   },
   {
-   "begin": "1213.800",
+   "begin": "1197.800",
+   "children": [],
+   "end": "1202.640",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "'Now, Harry, I'm going to teach you a little lesson."
+   ]
+  },
+  {
+   "begin": "1202.640",
+   "children": [],
+   "end": "1213.000",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "Let's match the powers of Lord Voldemort, heir of Salazar Slytherin, against famous Harry Potter, and the best weapons Dumbledore can give him.'"
+   ]
+  },
+  {
+   "begin": "1213.000",
+   "children": [],
+   "end": "1218.480",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "He cast an amused eye over Fawkes and the Sorting Hat, then walked away."
+   ]
+  },
+  {
+   "begin": "1218.480",
+   "children": [],
+   "end": "1228.880",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "Harry, fear spreading up his numb legs, watched Riddle stop between the high pillars and look up into the stone face of Slytherin, high above him in the half-darkness."
+   ]
+  },
+  {
+   "begin": "1228.880",
    "children": [],
    "end": "1234.120",
-   "id": "f000103",
+   "id": "f000284",
    "language": "eng",
    "lines": [
-    "He cast an amused eye over Fawkes and the Sorting Hat, then walked away. Harry, fear spreading up his numb legs, watched Riddle stop between the high pillars and look up into the stone face of Slytherin, high above him in the half-darkness. Riddle opened his mouth wide and hissed - but Harry understood what he was saying."
+    "Riddle opened his mouth wide and hissed - but Harry understood what he was saying."
    ]
   },
   {
    "begin": "1234.120",
    "children": [],
    "end": "1239.760",
-   "id": "f000104",
+   "id": "f000285",
    "language": "eng",
    "lines": [
     "'Speak to me, Slytherin, greatest of the Hogwarts Four.'"
@@ -1044,7 +2854,7 @@
    "begin": "1239.760",
    "children": [],
    "end": "1245.520",
-   "id": "f000105",
+   "id": "f000286",
    "language": "eng",
    "lines": [
     "Harry wheeled around to look up at the statue, Fawkes swaying on his shoulder."
@@ -1053,108 +2863,228 @@
   {
    "begin": "1245.520",
    "children": [],
-   "end": "1255.840",
-   "id": "f000106",
+   "end": "1249.200",
+   "id": "f000287",
    "language": "eng",
    "lines": [
-    "Slytherin's gigantic stone face was moving. Horror-struck, Harry saw his mouth opening, wider and wider, to make a huge black hole."
+    "Slytherin's gigantic stone face was moving."
    ]
   },
   {
-   "begin": "1255.840",
+   "begin": "1249.200",
    "children": [],
-   "end": "1264.080",
-   "id": "f000107",
+   "end": "1255.760",
+   "id": "f000288",
    "language": "eng",
    "lines": [
-    "And something was stirring inside the statue's mouth. Something was slithering up from its depths."
+    "Horror-struck, Harry saw his mouth opening, wider and wider, to make a huge black hole."
+   ]
+  },
+  {
+   "begin": "1255.760",
+   "children": [],
+   "end": "1260.280",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "And something was stirring inside the statue's mouth."
+   ]
+  },
+  {
+   "begin": "1260.280",
+   "children": [],
+   "end": "1264.080",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "Something was slithering up from its depths."
    ]
   },
   {
    "begin": "1264.080",
    "children": [],
-   "end": "1280.040",
-   "id": "f000108",
+   "end": "1274.000",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "Harry backed away until he hit the dark Chamber wall, and as he shut his eyes tight he felt Fawkes's wing sweep his cheek as he took flight. Harry wanted to shout, 'Don't leave me!' but what chance did a phoenix have against the king of serpents?"
+    "Harry backed away until he hit the dark Chamber wall, and as he shut his eyes tight he felt Fawkes's wing sweep his cheek as he took flight."
+   ]
+  },
+  {
+   "begin": "1274.000",
+   "children": [],
+   "end": "1280.040",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "Harry wanted to shout, 'Don't leave me!' but what chance did a phoenix have against the king of serpents?"
    ]
   },
   {
    "begin": "1280.040",
    "children": [],
-   "end": "1295.880",
-   "id": "f000109",
+   "end": "1285.200",
+   "id": "f000293",
    "language": "eng",
    "lines": [
-    "Something huge hit the stone floor of the chamber, Harry felt it shudder. He knew what was happening, he could sense it, could almost see the giant serpent uncoiling itself from Slytherin's mouth. Then he heard Riddle's hissing voice: 'Kill him.'"
+    "Something huge hit the stone floor of the chamber, Harry felt it shudder."
+   ]
+  },
+  {
+   "begin": "1285.200",
+   "children": [],
+   "end": "1292.200",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "He knew what was happening, he could sense it, could almost see the giant serpent uncoiling itself from Slytherin's mouth."
+   ]
+  },
+  {
+   "begin": "1292.200",
+   "children": [],
+   "end": "1295.880",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "Then he heard Riddle's hissing voice: 'Kill him.'"
    ]
   },
   {
    "begin": "1295.880",
    "children": [],
-   "end": "1312.120",
-   "id": "f000110",
+   "end": "1303.280",
+   "id": "f000296",
    "language": "eng",
    "lines": [
-    "The Basilisk was moving towards Harry, he could hear its heavy body slithering ponderously across the dusty floor. Eyes still tightly shut, Harry began to run blindly sideways, his hands outstretched, feeling his way. Riddle was laughing ..."
+    "The Basilisk was moving towards Harry, he could hear its heavy body slithering ponderously across the dusty floor."
    ]
   },
   {
-   "begin": "1312.120",
+   "begin": "1303.280",
    "children": [],
-   "end": "1319.360",
-   "id": "f000111",
+   "end": "1310.360",
+   "id": "f000297",
    "language": "eng",
    "lines": [
-    "Harry tripped. He fell hard onto the stone and tasted blood. The serpent was barely feet from him, he could hear it coming."
+    "Eyes still tightly shut, Harry began to run blindly sideways, his hands outstretched, feeling his way."
+   ]
+  },
+  {
+   "begin": "1310.360",
+   "children": [],
+   "end": "1311.920",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "Riddle was laughing ..."
+   ]
+  },
+  {
+   "begin": "1311.920",
+   "children": [],
+   "end": "1312.960",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "Harry tripped."
+   ]
+  },
+  {
+   "begin": "1312.960",
+   "children": [],
+   "end": "1315.920",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "He fell hard onto the stone and tasted blood."
+   ]
+  },
+  {
+   "begin": "1315.920",
+   "children": [],
+   "end": "1319.360",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "The serpent was barely feet from him, he could hear it coming."
    ]
   },
   {
    "begin": "1319.360",
    "children": [],
-   "end": "1334.400",
-   "id": "f000112",
+   "end": "1327.640",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "There was a loud, explosive spitting sound right above him and then something heavy hit Harry so hard that he was smashed against the wall. Waiting for fangs to sink through his body he heard more mad hissing, something thrashing wildly off the pillars."
+    "There was a loud, explosive spitting sound right above him and then something heavy hit Harry so hard that he was smashed against the wall."
+   ]
+  },
+  {
+   "begin": "1327.640",
+   "children": [],
+   "end": "1334.400",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "Waiting for fangs to sink through his body he heard more mad hissing, something thrashing wildly off the pillars."
    ]
   },
   {
    "begin": "1334.400",
    "children": [],
-   "end": "1340.360",
-   "id": "f000113",
+   "end": "1336.040",
+   "id": "f000304",
    "language": "eng",
    "lines": [
-    "He couldn't help it. He opened his eyes wide enough to squint at what was going on."
+    "He couldn't help it."
+   ]
+  },
+  {
+   "begin": "1336.040",
+   "children": [],
+   "end": "1340.360",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "He opened his eyes wide enough to squint at what was going on."
    ]
   },
   {
    "begin": "1340.360",
    "children": [],
-   "end": "1358.280",
-   "id": "f000114",
+   "end": "1352.440",
+   "id": "f000306",
    "language": "eng",
    "lines": [
-    "The enormous serpent, bright, poisonous green, thick as an oak trunk, had raised itself high in the air and its great blunt head was weaving drunkenly between the pillars. As Harry trembled, ready to close his eyes if it turned, he saw what had distracted the snake."
+    "The enormous serpent, bright, poisonous green, thick as an oak trunk, had raised itself high in the air and its great blunt head was weaving drunkenly between the pillars."
+   ]
+  },
+  {
+   "begin": "1352.440",
+   "children": [],
+   "end": "1358.280",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "As Harry trembled, ready to close his eyes if it turned, he saw what had distracted the snake."
    ]
   },
   {
    "begin": "1358.280",
    "children": [],
-   "end": "1362.200",
-   "id": "f000115",
+   "end": "1362.720",
+   "id": "f000308",
    "language": "eng",
    "lines": [
     "Fawkes was soaring around its head, and the Basilisk was"
    ]
   },
   {
-   "begin": "1362.200",
+   "begin": "1362.720",
    "children": [],
    "end": "1366.880",
-   "id": "f000116",
+   "id": "f000309",
    "language": "eng",
    "lines": [
     "snapping furiously at him with fangs long and thin as sabres."
@@ -1163,38 +3093,138 @@
   {
    "begin": "1366.880",
    "children": [],
-   "end": "1395.520",
-   "id": "f000117",
+   "end": "1368.600",
+   "id": "f000310",
    "language": "eng",
    "lines": [
-    "Fawkes dived. His long golden beak sank out of sight and a sudden shower of dark blood spattered the floor. The snake's tail thrashed, narrowly missing Harry, and before Harry could shut his eyes, it turned. Harry looked straight into its face, and saw that its eyes, both its great bulbous yellow eyes, had been punctured by the phoenix; blood was streaming to the floor and the snake was spitting in agony."
+    "Fawkes dived."
+   ]
+  },
+  {
+   "begin": "1368.600",
+   "children": [],
+   "end": "1374.040",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "His long golden beak sank out of sight and a sudden shower of dark blood spattered the floor."
+   ]
+  },
+  {
+   "begin": "1374.040",
+   "children": [],
+   "end": "1380.040",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "The snake's tail thrashed, narrowly missing Harry, and before Harry could shut his eyes, it turned."
+   ]
+  },
+  {
+   "begin": "1380.040",
+   "children": [],
+   "end": "1395.520",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "Harry looked straight into its face, and saw that its eyes, both its great bulbous yellow eyes, had been punctured by the phoenix; blood was streaming to the floor and the snake was spitting in agony."
    ]
   },
   {
    "begin": "1395.520",
    "children": [],
-   "end": "1407.760",
-   "id": "f000118",
+   "end": "1397.320",
+   "id": "f000314",
    "language": "eng",
    "lines": [
-    "'No!' Harry heard Riddle screaming. 'Leave the bird! Leave the bird! The boy is behind you! You can still smell him! Kill him!'"
+    "'No!'"
+   ]
+  },
+  {
+   "begin": "1397.320",
+   "children": [],
+   "end": "1399.080",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "Harry heard Riddle screaming."
+   ]
+  },
+  {
+   "begin": "1399.080",
+   "children": [],
+   "end": "1400.480",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "'Leave the bird!"
+   ]
+  },
+  {
+   "begin": "1400.480",
+   "children": [],
+   "end": "1402.480",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "Leave the bird!"
+   ]
+  },
+  {
+   "begin": "1402.480",
+   "children": [],
+   "end": "1404.320",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "The boy is behind you!"
+   ]
+  },
+  {
+   "begin": "1404.320",
+   "children": [],
+   "end": "1406.320",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "You can still smell him!"
+   ]
+  },
+  {
+   "begin": "1406.320",
+   "children": [],
+   "end": "1407.760",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "Kill him!'"
    ]
   },
   {
    "begin": "1407.760",
    "children": [],
-   "end": "1420.760",
-   "id": "f000119",
+   "end": "1412.480",
+   "id": "f000321",
    "language": "eng",
    "lines": [
-    "The blinded serpent swayed, confused, still deadly. Fawkes was circling its head, piping his eerie song, jabbing here and there at the Basilisk's scaly nose as the blood poured from its ruined eyes."
+    "The blinded serpent swayed, confused, still deadly."
+   ]
+  },
+  {
+   "begin": "1412.480",
+   "children": [],
+   "end": "1420.760",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "Fawkes was circling its head, piping his eerie song, jabbing here and there at the Basilisk's scaly nose as the blood poured from its ruined eyes."
    ]
   },
   {
    "begin": "1420.760",
    "children": [],
    "end": "1427.640",
-   "id": "f000120",
+   "id": "f000323",
    "language": "eng",
    "lines": [
     "'Help me, help me,' Harry muttered wildly, 'someone, anyone!'"
@@ -1203,58 +3233,148 @@
   {
    "begin": "1427.640",
    "children": [],
-   "end": "1432.960",
-   "id": "f000121",
+   "end": "1430.280",
+   "id": "f000324",
    "language": "eng",
    "lines": [
-    "The snake's tail whipped across the floor again. Harry ducked. Something soft hit his face."
+    "The snake's tail whipped across the floor again."
+   ]
+  },
+  {
+   "begin": "1430.280",
+   "children": [],
+   "end": "1430.960",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "Harry ducked."
+   ]
+  },
+  {
+   "begin": "1430.960",
+   "children": [],
+   "end": "1432.960",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "Something soft hit his face."
    ]
   },
   {
    "begin": "1432.960",
    "children": [],
-   "end": "1446.200",
-   "id": "f000122",
+   "end": "1436.760",
+   "id": "f000327",
    "language": "eng",
    "lines": [
-    "The Basilisk had swept the Sorting Hat into Harry's arms. Harry seized it. It was all he had left, his only chance. He rammed it onto his head and threw himself flat onto the floor as the Basilisk's tail swung over him again."
+    "The Basilisk had swept the Sorting Hat into Harry's arms."
+   ]
+  },
+  {
+   "begin": "1436.760",
+   "children": [],
+   "end": "1438.040",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "Harry seized it."
+   ]
+  },
+  {
+   "begin": "1438.040",
+   "children": [],
+   "end": "1439.840",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "It was all he had left, his only chance."
+   ]
+  },
+  {
+   "begin": "1439.840",
+   "children": [],
+   "end": "1446.200",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "He rammed it onto his head and threw himself flat onto the floor as the Basilisk's tail swung over him again."
    ]
   },
   {
    "begin": "1446.200",
    "children": [],
-   "end": "1453.640",
-   "id": "f000123",
+   "end": "1448.560",
+   "id": "f000331",
    "language": "eng",
    "lines": [
-    "'Help me ... help me ...' Harry thought, his eyes screwed tight under the Hat. 'Please help me!'"
+    "'Help me ... help me ...'"
+   ]
+  },
+  {
+   "begin": "1448.560",
+   "children": [],
+   "end": "1451.720",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "Harry thought, his eyes screwed tight under the Hat."
+   ]
+  },
+  {
+   "begin": "1451.720",
+   "children": [],
+   "end": "1453.640",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "'Please help me!'"
    ]
   },
   {
    "begin": "1453.640",
    "children": [],
-   "end": "1462.000",
-   "id": "f000124",
+   "end": "1456.760",
+   "id": "f000334",
    "language": "eng",
    "lines": [
-    "There was no answering voice. Instead, the Hat contracted, as though an invisible hand was squeezing it very tightly."
+    "There was no answering voice."
+   ]
+  },
+  {
+   "begin": "1456.760",
+   "children": [],
+   "end": "1462.000",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "Instead, the Hat contracted, as though an invisible hand was squeezing it very tightly."
    ]
   },
   {
    "begin": "1462.000",
    "children": [],
-   "end": "1476.040",
-   "id": "f000125",
+   "end": "1467.560",
+   "id": "f000336",
    "language": "eng",
    "lines": [
-    "Something very hard and heavy thudded onto the top of Harry's head, almost knocking him out. Stars winking in front of his eyes, he grabbed the top of the Hat to pull it off and felt something long and hard beneath it."
+    "Something very hard and heavy thudded onto the top of Harry's head, almost knocking him out."
    ]
   },
   {
-   "begin": "1476.040",
+   "begin": "1467.560",
+   "children": [],
+   "end": "1475.720",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "Stars winking in front of his eyes, he grabbed the top of the Hat to pull it off and felt something long and hard beneath it."
+   ]
+  },
+  {
+   "begin": "1475.720",
    "children": [],
    "end": "1483.440",
-   "id": "f000126",
+   "id": "f000338",
    "language": "eng",
    "lines": [
     "A gleaming silver sword had appeared inside the Hat, its handle glittering with rubies the size of eggs."
@@ -1263,68 +3383,218 @@
   {
    "begin": "1483.440",
    "children": [],
-   "end": "1489.800",
-   "id": "f000127",
+   "end": "1484.960",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "'Kill the boy! Leave the bird! The boy is behind you! Sniff - smell him!'"
+    "'Kill the boy!"
+   ]
+  },
+  {
+   "begin": "1484.960",
+   "children": [],
+   "end": "1486.560",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "Leave the bird!"
+   ]
+  },
+  {
+   "begin": "1486.560",
+   "children": [],
+   "end": "1487.760",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "The boy is behind you!"
+   ]
+  },
+  {
+   "begin": "1487.760",
+   "children": [],
+   "end": "1489.800",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "Sniff - smell him!'"
    ]
   },
   {
    "begin": "1489.800",
    "children": [],
-   "end": "1510.000",
-   "id": "f000128",
+   "end": "1492.280",
+   "id": "f000343",
    "language": "eng",
    "lines": [
-    "Harry was on his feet, ready. The Basilisk's head was falling, its body coiling around, hitting pillars as it twisted to face him. He could see the vast, bloody eye sockets, see the mouth stretching wide, wide enough to swallow him whole, lined with fangs long as his sword, thin, glittering, venomous ..."
+    "Harry was on his feet, ready."
+   ]
+  },
+  {
+   "begin": "1492.280",
+   "children": [],
+   "end": "1498.520",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "The Basilisk's head was falling, its body coiling around, hitting pillars as it twisted to face him."
+   ]
+  },
+  {
+   "begin": "1498.520",
+   "children": [],
+   "end": "1510.000",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "He could see the vast, bloody eye sockets, see the mouth stretching wide, wide enough to swallow him whole, lined with fangs long as his sword, thin, glittering, venomous ..."
    ]
   },
   {
    "begin": "1510.000",
    "children": [],
-   "end": "1520.360",
-   "id": "f000129",
+   "end": "1512.280",
+   "id": "f000346",
    "language": "eng",
    "lines": [
-    "It lunged blindly. Harry dodged and it hit the Chamber wall. It lunged again, and its forked tongue lashed Harry's side. He raised the sword in both his hands."
+    "It lunged blindly."
+   ]
+  },
+  {
+   "begin": "1512.280",
+   "children": [],
+   "end": "1514.560",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "Harry dodged and it hit the Chamber wall."
+   ]
+  },
+  {
+   "begin": "1514.560",
+   "children": [],
+   "end": "1517.920",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "It lunged again, and its forked tongue lashed Harry's side."
+   ]
+  },
+  {
+   "begin": "1517.920",
+   "children": [],
+   "end": "1520.360",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "He raised the sword in both his hands."
    ]
   },
   {
    "begin": "1520.360",
    "children": [],
-   "end": "1531.080",
-   "id": "f000130",
+   "end": "1525.200",
+   "id": "f000350",
    "language": "eng",
    "lines": [
-    "The Basilisk lunged again, and this time its aim was true. Harry threw his whole weight behind the sword and drove it to the hilt into the roof of the serpent's mouth."
+    "The Basilisk lunged again, and this time its aim was true."
+   ]
+  },
+  {
+   "begin": "1525.200",
+   "children": [],
+   "end": "1531.080",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "Harry threw his whole weight behind the sword and drove it to the hilt into the roof of the serpent's mouth."
    ]
   },
   {
    "begin": "1531.080",
    "children": [],
-   "end": "1548.960",
-   "id": "f000131",
+   "end": "1536.920",
+   "id": "f000352",
    "language": "eng",
    "lines": [
-    "But as warm blood drenched Harry's arms, he felt a searing pain just above his elbow. One long, poisonous fang was sinking deeper and deeper into his arm and it splintered as the Basilisk keeled over sideways and fell, twitching, to the floor."
+    "But as warm blood drenched Harry's arms, he felt a searing pain just above his elbow."
+   ]
+  },
+  {
+   "begin": "1536.920",
+   "children": [],
+   "end": "1548.960",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "One long, poisonous fang was sinking deeper and deeper into his arm and it splintered as the Basilisk keeled over sideways and fell, twitching, to the floor."
    ]
   },
   {
    "begin": "1548.960",
    "children": [],
-   "end": "1575.600",
-   "id": "f000132",
+   "end": "1552.360",
+   "id": "f000354",
    "language": "eng",
    "lines": [
-    "Harry slid down the wall. He gripped the fang that was spreading poison through his body and wrenched it out of his arm. But he knew it was too late. White-hot pain was spreading slowly and steadily from the wound. Even as he dropped the fang and watched his own blood soaking his robes, his vision went foggy. The Chamber was dissolving in a whirl of dull colour."
+    "Harry slid down the wall."
+   ]
+  },
+  {
+   "begin": "1552.360",
+   "children": [],
+   "end": "1558.200",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "He gripped the fang that was spreading poison through his body and wrenched it out of his arm."
+   ]
+  },
+  {
+   "begin": "1558.200",
+   "children": [],
+   "end": "1560.240",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "But he knew it was too late."
+   ]
+  },
+  {
+   "begin": "1560.240",
+   "children": [],
+   "end": "1565.200",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "White-hot pain was spreading slowly and steadily from the wound."
+   ]
+  },
+  {
+   "begin": "1565.200",
+   "children": [],
+   "end": "1571.960",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "Even as he dropped the fang and watched his own blood soaking his robes, his vision went foggy."
+   ]
+  },
+  {
+   "begin": "1571.960",
+   "children": [],
+   "end": "1575.600",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "The Chamber was dissolving in a whirl of dull colour."
    ]
   },
   {
    "begin": "1575.600",
    "children": [],
    "end": "1581.760",
-   "id": "f000133",
+   "id": "f000360",
    "language": "eng",
    "lines": [
     "A patch of scarlet swam past and Harry heard a soft clatter of claws beside him."
@@ -1333,18 +3603,38 @@
   {
    "begin": "1581.760",
    "children": [],
-   "end": "1594.600",
-   "id": "f000134",
+   "end": "1585.440",
+   "id": "f000361",
    "language": "eng",
    "lines": [
-    "'Fawkes,' said Harry thickly. 'You were brilliant, Fawkes ...' He felt the bird lay its beautiful head on the spot where the serpent's fang had pierced him."
+    "'Fawkes,' said Harry thickly."
+   ]
+  },
+  {
+   "begin": "1585.440",
+   "children": [],
+   "end": "1588.600",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "'You were brilliant, Fawkes ...'"
+   ]
+  },
+  {
+   "begin": "1588.600",
+   "children": [],
+   "end": "1594.600",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "He felt the bird lay its beautiful head on the spot where the serpent's fang had pierced him."
    ]
   },
   {
    "begin": "1594.600",
    "children": [],
    "end": "1600.080",
-   "id": "f000135",
+   "id": "f000364",
    "language": "eng",
    "lines": [
     "He could hear echoing footsteps and then a dark shadow moved in front of him."
@@ -1353,78 +3643,228 @@
   {
    "begin": "1600.080",
    "children": [],
-   "end": "1615.480",
-   "id": "f000136",
+   "end": "1606.400",
+   "id": "f000365",
    "language": "eng",
    "lines": [
-    "'You're dead, Harry Potter,' said Riddle's voice above him. 'Dead. Even Dumbledore's bird knows it. Do you see what he's doing, Potter? He's crying.'"
+    "'You're dead, Harry Potter,' said Riddle's voice above him."
    ]
   },
   {
-   "begin": "1615.480",
+   "begin": "1606.400",
    "children": [],
-   "end": "1624.720",
-   "id": "f000137",
+   "end": "1607.480",
+   "id": "f000366",
    "language": "eng",
    "lines": [
-    "Harry blinked. Fawkes's head slid in and out of focus. Thick, pearly tears were trickling down the glossy feathers."
+    "'Dead."
+   ]
+  },
+  {
+   "begin": "1607.480",
+   "children": [],
+   "end": "1610.840",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "Even Dumbledore's bird knows it."
+   ]
+  },
+  {
+   "begin": "1610.840",
+   "children": [],
+   "end": "1613.760",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "Do you see what he's doing, Potter?"
+   ]
+  },
+  {
+   "begin": "1613.760",
+   "children": [],
+   "end": "1615.240",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "He's crying.'"
+   ]
+  },
+  {
+   "begin": "1615.240",
+   "children": [],
+   "end": "1617.840",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "Harry blinked."
+   ]
+  },
+  {
+   "begin": "1617.840",
+   "children": [],
+   "end": "1620.760",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "Fawkes's head slid in and out of focus."
+   ]
+  },
+  {
+   "begin": "1620.760",
+   "children": [],
+   "end": "1624.720",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "Thick, pearly tears were trickling down the glossy feathers."
    ]
   },
   {
    "begin": "1624.720",
    "children": [],
-   "end": "1634.440",
-   "id": "f000138",
+   "end": "1630.040",
+   "id": "f000373",
    "language": "eng",
    "lines": [
-    "'I'm going to sit here and watch you die, Harry Potter. Take your time. I'm in no hurry.'"
+    "'I'm going to sit here and watch you die, Harry Potter."
+   ]
+  },
+  {
+   "begin": "1630.040",
+   "children": [],
+   "end": "1632.120",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "Take your time."
+   ]
+  },
+  {
+   "begin": "1632.120",
+   "children": [],
+   "end": "1634.440",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "I'm in no hurry.'"
    ]
   },
   {
    "begin": "1634.440",
    "children": [],
-   "end": "1639.960",
-   "id": "f000139",
+   "end": "1637.240",
+   "id": "f000376",
    "language": "eng",
    "lines": [
-    "Harry felt drowsy. Everything around him seemed to be spinning."
+    "Harry felt drowsy."
    ]
   },
   {
-   "begin": "1639.960",
+   "begin": "1637.240",
    "children": [],
-   "end": "1671.520",
-   "id": "f000140",
+   "end": "1639.880",
+   "id": "f000377",
    "language": "eng",
    "lines": [
-    "'So ends the famous Harry Potter,' said Riddle's distant voice. 'Alone in the Chamber of Secrets, forsaken by his friends, defeated at last by the Dark Lord he so unwisely challenged. You'll be back with your dear Mudblood mother soon, Harry ... She bought you twelve years of borrowed time ... but Lord Voldemort got you in the end, as you knew he must.'"
+    "Everything around him seemed to be spinning."
+   ]
+  },
+  {
+   "begin": "1639.880",
+   "children": [],
+   "end": "1646.400",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "'So ends the famous Harry Potter,' said Riddle's distant voice."
+   ]
+  },
+  {
+   "begin": "1646.400",
+   "children": [],
+   "end": "1656.960",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "'Alone in the Chamber of Secrets, forsaken by his friends, defeated at last by the Dark Lord he so unwisely challenged."
+   ]
+  },
+  {
+   "begin": "1656.960",
+   "children": [],
+   "end": "1661.720",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "You'll be back with your dear Mudblood mother soon, Harry ..."
+   ]
+  },
+  {
+   "begin": "1661.720",
+   "children": [],
+   "end": "1671.520",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "She bought you twelve years of borrowed time ... but Lord Voldemort got you in the end, as you knew he must.'"
    ]
   },
   {
    "begin": "1671.520",
    "children": [],
-   "end": "1679.560",
-   "id": "f000141",
+   "end": "1676.880",
+   "id": "f000382",
    "language": "eng",
    "lines": [
-    "If this is dying, thought Harry, it's not so bad. Even the pain was leaving him ..."
+    "If this is dying, thought Harry, it's not so bad."
+   ]
+  },
+  {
+   "begin": "1676.880",
+   "children": [],
+   "end": "1679.560",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "Even the pain was leaving him ..."
    ]
   },
   {
    "begin": "1679.560",
    "children": [],
-   "end": "1692.360",
-   "id": "f000142",
+   "end": "1682.160",
+   "id": "f000384",
    "language": "eng",
    "lines": [
-    "But was this dying? Instead of going black, the Chamber seemed to be coming back into focus. Harry gave his head a little shake and there was Fawkes, still resting his head on Harry's arm."
+    "But was this dying?"
+   ]
+  },
+  {
+   "begin": "1682.160",
+   "children": [],
+   "end": "1687.040",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "Instead of going black, the Chamber seemed to be coming back into focus."
+   ]
+  },
+  {
+   "begin": "1687.040",
+   "children": [],
+   "end": "1692.360",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "Harry gave his head a little shake and there was Fawkes, still resting his head on Harry's arm."
    ]
   },
   {
    "begin": "1692.360",
    "children": [],
    "end": "1699.280",
-   "id": "f000143",
+   "id": "f000387",
    "language": "eng",
    "lines": [
     "A pearly patch of tears was shining all around the wound - except that there was no wound."
@@ -1433,58 +3873,138 @@
   {
    "begin": "1699.280",
    "children": [],
-   "end": "1706.320",
-   "id": "f000144",
+   "end": "1703.840",
+   "id": "f000388",
    "language": "eng",
    "lines": [
-    "'Get away, bird,' said Riddle's voice suddenly. 'Get away from him. I said, get away!'"
+    "'Get away, bird,' said Riddle's voice suddenly."
+   ]
+  },
+  {
+   "begin": "1703.840",
+   "children": [],
+   "end": "1704.720",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "'Get away from him."
+   ]
+  },
+  {
+   "begin": "1704.720",
+   "children": [],
+   "end": "1706.320",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "I said, get away!'"
    ]
   },
   {
    "begin": "1706.320",
    "children": [],
-   "end": "1716.200",
-   "id": "f000145",
+   "end": "1708.200",
+   "id": "f000391",
    "language": "eng",
    "lines": [
-    "Harry raised his head. Riddle was pointing Harry's wand at Fawkes; there was a bang like a gun and Fawkes took flight again in a whirl of gold and scarlet."
+    "Harry raised his head."
+   ]
+  },
+  {
+   "begin": "1708.200",
+   "children": [],
+   "end": "1716.200",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "Riddle was pointing Harry's wand at Fawkes; there was a bang like a gun and Fawkes took flight again in a whirl of gold and scarlet."
    ]
   },
   {
    "begin": "1716.200",
    "children": [],
-   "end": "1727.560",
-   "id": "f000146",
+   "end": "1722.480",
+   "id": "f000393",
    "language": "eng",
    "lines": [
-    "'Phoenix tears ...' said Riddle quietly, staring at Harry's arm. 'Of course ... healing powers ... I forgot ...'"
+    "'Phoenix tears ...' said Riddle quietly, staring at Harry's arm."
+   ]
+  },
+  {
+   "begin": "1722.480",
+   "children": [],
+   "end": "1726.320",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "'Of course ... healing powers ..."
+   ]
+  },
+  {
+   "begin": "1726.320",
+   "children": [],
+   "end": "1727.560",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "I forgot ...'"
    ]
   },
   {
    "begin": "1727.560",
    "children": [],
-   "end": "1737.000",
-   "id": "f000147",
+   "end": "1730.040",
+   "id": "f000396",
    "language": "eng",
    "lines": [
-    "He looked into Harry's face. 'But it makes no difference. In fact, I prefer it this way. Just you and me, Harry Potter ... you and me ...'"
+    "He looked into Harry's face."
+   ]
+  },
+  {
+   "begin": "1730.040",
+   "children": [],
+   "end": "1731.280",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "'But it makes no difference."
+   ]
+  },
+  {
+   "begin": "1731.280",
+   "children": [],
+   "end": "1733.120",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "In fact, I prefer it this way."
+   ]
+  },
+  {
+   "begin": "1733.120",
+   "children": [],
+   "end": "1737.000",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "Just you and me, Harry Potter ... you and me ...'"
    ]
   },
   {
    "begin": "1737.000",
    "children": [],
-   "end": "1738.880",
-   "id": "f000148",
+   "end": "1738.720",
+   "id": "f000400",
    "language": "eng",
    "lines": [
     "He raised the wand."
    ]
   },
   {
-   "begin": "1738.880",
+   "begin": "1738.720",
    "children": [],
    "end": "1745.080",
-   "id": "f000149",
+   "id": "f000401",
    "language": "eng",
    "lines": [
     "Then, in a rush of wings, Fawkes soared back overhead and something fell into Harry's lap - the diary."
@@ -1493,108 +4013,328 @@
   {
    "begin": "1745.080",
    "children": [],
-   "end": "1761.920",
-   "id": "f000150",
+   "end": "1750.520",
+   "id": "f000402",
    "language": "eng",
    "lines": [
-    "For a split second, both Harry and Riddle, wand still raised, stared at it. Then, without thinking, without considering, as though he had meant to do it all along, Harry seized the Basilisk fang on the floor next to him and plunged it straight into the heart of the book."
+    "For a split second, both Harry and Riddle, wand still raised, stared at it."
+   ]
+  },
+  {
+   "begin": "1750.520",
+   "children": [],
+   "end": "1761.920",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Then, without thinking, without considering, as though he had meant to do it all along, Harry seized the Basilisk fang on the floor next to him and plunged it straight into the heart of the book."
    ]
   },
   {
    "begin": "1761.920",
    "children": [],
-   "end": "1778.200",
-   "id": "f000151",
+   "end": "1766.720",
+   "id": "f000404",
    "language": "eng",
    "lines": [
-    "There was a long, dreadful, piercing scream. Ink spurted out of the diary in torrents, streaming over Harry's hands, flooding the floor. Riddle was writhing and twisting, screaming and flailing and then ..."
+    "There was a long, dreadful, piercing scream."
+   ]
+  },
+  {
+   "begin": "1766.720",
+   "children": [],
+   "end": "1773.120",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "Ink spurted out of the diary in torrents, streaming over Harry's hands, flooding the floor."
+   ]
+  },
+  {
+   "begin": "1773.120",
+   "children": [],
+   "end": "1778.200",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "Riddle was writhing and twisting, screaming and flailing and then ..."
    ]
   },
   {
    "begin": "1778.200",
    "children": [],
-   "end": "1797.360",
-   "id": "f000152",
+   "end": "1780.320",
+   "id": "f000407",
    "language": "eng",
    "lines": [
-    "He had gone. Harry's wand fell to the floor with a clatter and there was silence. Silence except for the steady drip drip of ink still oozing from the diary. The Basilisk venom had burned a sizzling hole right through it."
+    "He had gone."
+   ]
+  },
+  {
+   "begin": "1780.320",
+   "children": [],
+   "end": "1785.360",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "Harry's wand fell to the floor with a clatter and there was silence."
+   ]
+  },
+  {
+   "begin": "1785.360",
+   "children": [],
+   "end": "1792.360",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "Silence except for the steady drip drip of ink still oozing from the diary."
+   ]
+  },
+  {
+   "begin": "1792.360",
+   "children": [],
+   "end": "1797.360",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "The Basilisk venom had burned a sizzling hole right through it."
    ]
   },
   {
    "begin": "1797.360",
    "children": [],
-   "end": "1815.800",
-   "id": "f000153",
+   "end": "1801.040",
+   "id": "f000411",
    "language": "eng",
    "lines": [
-    "Shaking all over, Harry pulled himself up. His head was spinning as though he'd just travelled miles by Floo powder. Slowly, he gathered together his wand and the Sorting Hat, and, with a huge tug, retrieved the glittering sword from the roof of the Basilisk's mouth."
+    "Shaking all over, Harry pulled himself up."
+   ]
+  },
+  {
+   "begin": "1801.040",
+   "children": [],
+   "end": "1805.560",
+   "id": "f000412",
+   "language": "eng",
+   "lines": [
+    "His head was spinning as though he'd just travelled miles by Floo powder."
+   ]
+  },
+  {
+   "begin": "1805.560",
+   "children": [],
+   "end": "1815.800",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "Slowly, he gathered together his wand and the Sorting Hat, and, with a huge tug, retrieved the glittering sword from the roof of the Basilisk's mouth."
    ]
   },
   {
    "begin": "1815.800",
    "children": [],
-   "end": "1839.360",
-   "id": "f000154",
+   "end": "1819.240",
+   "id": "f000414",
    "language": "eng",
    "lines": [
-    "Then came a faint moan from the end of the Chamber. Ginny was stirring. As Harry hurried towards her, she sat up. Her bemused eyes travelled from the huge form of the dead Basilisk, over Harry, in his blood-soaked robes, then to the diary in his hand. She drew a great, shuddering gasp and tears began to pour down her face."
+    "Then came a faint moan from the end of the Chamber."
+   ]
+  },
+  {
+   "begin": "1819.240",
+   "children": [],
+   "end": "1820.920",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "Ginny was stirring."
+   ]
+  },
+  {
+   "begin": "1820.920",
+   "children": [],
+   "end": "1824.440",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "As Harry hurried towards her, she sat up."
+   ]
+  },
+  {
+   "begin": "1824.440",
+   "children": [],
+   "end": "1833.600",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "Her bemused eyes travelled from the huge form of the dead Basilisk, over Harry, in his blood-soaked robes, then to the diary in his hand."
+   ]
+  },
+  {
+   "begin": "1833.600",
+   "children": [],
+   "end": "1839.360",
+   "id": "f000418",
+   "language": "eng",
+   "lines": [
+    "She drew a great, shuddering gasp and tears began to pour down her face."
    ]
   },
   {
    "begin": "1839.360",
    "children": [],
-   "end": "1851.880",
-   "id": "f000155",
+   "end": "1848.800",
+   "id": "f000419",
    "language": "eng",
    "lines": [
-    "'Harry - oh, Harry - I tried to tell you at b-breakfast, but I c-couldn't say it in front of Percy. It was me, Harry - but I - I"
+    "'Harry - oh, Harry - I tried to tell you at b-breakfast, but I c-couldn't say it in front of Percy."
+   ]
+  },
+  {
+   "begin": "1848.800",
+   "children": [],
+   "end": "1851.880",
+   "id": "f000420",
+   "language": "eng",
+   "lines": [
+    "It was me, Harry - but I - I"
    ]
   },
   {
    "begin": "1851.880",
    "children": [],
-   "end": "1869.320",
-   "id": "f000156",
+   "end": "1863.040",
+   "id": "f000421",
    "language": "eng",
    "lines": [
-    "s-swear I d-didn't mean to - R-Riddle made me, he t-took me over - and - how did you kill that - that thing? W-where's Riddle? The last thing I r-remember is him coming out of the diary -'"
+    "s-swear I d-didn't mean to - R-Riddle made me, he t-took me over - and - how did you kill that - that thing?"
+   ]
+  },
+  {
+   "begin": "1863.040",
+   "children": [],
+   "end": "1864.600",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "W-where's Riddle?"
+   ]
+  },
+  {
+   "begin": "1864.600",
+   "children": [],
+   "end": "1869.320",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "The last thing I r-remember is him coming out of the diary -'"
    ]
   },
   {
    "begin": "1869.320",
    "children": [],
-   "end": "1882.480",
-   "id": "f000157",
+   "end": "1876.600",
+   "id": "f000424",
    "language": "eng",
    "lines": [
-    "'It's all right,' said Harry, holding up the diary, and showing Ginny the fang hole, 'Riddle's finished. Look! Him and the Basilisk. C'mon, Ginny, let's get out of here -'"
+    "'It's all right,' said Harry, holding up the diary, and showing Ginny the fang hole, 'Riddle's finished."
+   ]
+  },
+  {
+   "begin": "1876.600",
+   "children": [],
+   "end": "1877.040",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "Look!"
+   ]
+  },
+  {
+   "begin": "1877.040",
+   "children": [],
+   "end": "1879.680",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "Him and the Basilisk."
+   ]
+  },
+  {
+   "begin": "1879.680",
+   "children": [],
+   "end": "1882.480",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "C'mon, Ginny, let's get out of here -'"
    ]
   },
   {
    "begin": "1882.480",
    "children": [],
-   "end": "1898.680",
-   "id": "f000158",
+   "end": "1885.320",
+   "id": "f000428",
    "language": "eng",
    "lines": [
-    "'I'm going to be expelled!' Ginny wept, as Harry helped her awkwardly to her feet. 'I've looked forward to coming to Hogwarts ever since B-Bill came and n-now I'll have to leave and - w-what'll Mum and Dad say?'"
+    "'I'm going to be expelled!'"
+   ]
+  },
+  {
+   "begin": "1885.320",
+   "children": [],
+   "end": "1888.720",
+   "id": "f000429",
+   "language": "eng",
+   "lines": [
+    "Ginny wept, as Harry helped her awkwardly to her feet."
+   ]
+  },
+  {
+   "begin": "1888.720",
+   "children": [],
+   "end": "1898.680",
+   "id": "f000430",
+   "language": "eng",
+   "lines": [
+    "'I've looked forward to coming to Hogwarts ever since B-Bill came and n-now I'll have to leave and - w-what'll Mum and Dad say?'"
    ]
   },
   {
    "begin": "1898.680",
    "children": [],
-   "end": "1916.480",
-   "id": "f000159",
+   "end": "1903.040",
+   "id": "f000431",
    "language": "eng",
    "lines": [
-    "Fawkes was waiting for them, hovering in the Chamber entrance. Harry urged Ginny forward; they stepped over the motionless coils of the dead Basilisk, through the echoing gloom and back into the tunnel. Harry heard the stone doors close behind them with a soft hiss."
+    "Fawkes was waiting for them, hovering in the Chamber entrance."
+   ]
+  },
+  {
+   "begin": "1903.040",
+   "children": [],
+   "end": "1911.440",
+   "id": "f000432",
+   "language": "eng",
+   "lines": [
+    "Harry urged Ginny forward; they stepped over the motionless coils of the dead Basilisk, through the echoing gloom and back into the tunnel."
+   ]
+  },
+  {
+   "begin": "1911.440",
+   "children": [],
+   "end": "1916.480",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "Harry heard the stone doors close behind them with a soft hiss."
    ]
   },
   {
    "begin": "1916.480",
    "children": [],
    "end": "1923.800",
-   "id": "f000160",
+   "id": "f000434",
    "language": "eng",
    "lines": [
     "After a few minutes' progress up the dark tunnel, a distant sound of slowly shifting rock reached Harry's ears."
@@ -1603,18 +4343,48 @@
   {
    "begin": "1923.800",
    "children": [],
-   "end": "1928.520",
-   "id": "f000161",
+   "end": "1925.040",
+   "id": "f000435",
    "language": "eng",
    "lines": [
-    "'Ron!' Harry yelled, speeding up. 'Ginny's OK! I've got her!'"
+    "'Ron!'"
+   ]
+  },
+  {
+   "begin": "1925.040",
+   "children": [],
+   "end": "1926.440",
+   "id": "f000436",
+   "language": "eng",
+   "lines": [
+    "Harry yelled, speeding up."
+   ]
+  },
+  {
+   "begin": "1926.440",
+   "children": [],
+   "end": "1927.640",
+   "id": "f000437",
+   "language": "eng",
+   "lines": [
+    "'Ginny's OK!"
+   ]
+  },
+  {
+   "begin": "1927.640",
+   "children": [],
+   "end": "1928.520",
+   "id": "f000438",
+   "language": "eng",
+   "lines": [
+    "I've got her!'"
    ]
   },
   {
    "begin": "1928.520",
    "children": [],
    "end": "1937.480",
-   "id": "f000162",
+   "id": "f000439",
    "language": "eng",
    "lines": [
     "He heard Ron give a strangled cheer and they turned the next bend to see his eager face staring through the sizeable gap he had managed to make in the rock fall."
@@ -1623,38 +4393,88 @@
   {
    "begin": "1937.480",
    "children": [],
-   "end": "1944.560",
-   "id": "f000163",
+   "end": "1939.240",
+   "id": "f000440",
    "language": "eng",
    "lines": [
-    "'Ginny!' Ron thrust an arm through the gap in the rock to pull her through first. 'You're alive! I don't believe it! What happened?'"
+    "'Ginny!'"
+   ]
+  },
+  {
+   "begin": "1939.240",
+   "children": [],
+   "end": "1943.120",
+   "id": "f000441",
+   "language": "eng",
+   "lines": [
+    "Ron thrust an arm through the gap in the rock to pull her through first."
+   ]
+  },
+  {
+   "begin": "1943.120",
+   "children": [],
+   "end": "1943.320",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "'You're alive!"
+   ]
+  },
+  {
+   "begin": "1943.320",
+   "children": [],
+   "end": "1944.080",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "I don't believe it!"
+   ]
+  },
+  {
+   "begin": "1944.080",
+   "children": [],
+   "end": "1944.560",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "What happened?'"
    ]
   },
   {
    "begin": "1944.560",
    "children": [],
-   "end": "1946.360",
-   "id": "f000164",
+   "end": "1946.680",
+   "id": "f000445",
    "language": "eng",
    "lines": [
     "He tried to hug her but Ginny held him off, sobbing."
    ]
   },
   {
-   "begin": "1946.360",
+   "begin": "1946.680",
    "children": [],
-   "end": "1949.840",
-   "id": "f000165",
+   "end": "1947.800",
+   "id": "f000446",
    "language": "eng",
    "lines": [
-    "'But you're okay, Ginny,' said Ron, beaming at her. 'It's over now, it's - where did that bird come from?'"
+    "'But you're okay, Ginny,' said Ron, beaming at her."
+   ]
+  },
+  {
+   "begin": "1947.800",
+   "children": [],
+   "end": "1949.840",
+   "id": "f000447",
+   "language": "eng",
+   "lines": [
+    "'It's over now, it's - where did that bird come from?'"
    ]
   },
   {
    "begin": "1949.840",
    "children": [],
    "end": "1953.040",
-   "id": "f000166",
+   "id": "f000448",
    "language": "eng",
    "lines": [
     "Fawkes had swooped through the gap after Ginny."
@@ -1664,7 +4484,7 @@
    "begin": "1953.040",
    "children": [],
    "end": "1956.800",
-   "id": "f000167",
+   "id": "f000449",
    "language": "eng",
    "lines": [
     "'He's Dumbledore's,' said Harry, squeezing through himself."
@@ -1674,7 +4494,7 @@
    "begin": "1956.800",
    "children": [],
    "end": "1962.960",
-   "id": "f000168",
+   "id": "f000450",
    "language": "eng",
    "lines": [
     "'And how come you've got a sword?' said Ron, gaping at the glittering weapon in Harry's hand."
@@ -1684,7 +4504,7 @@
    "begin": "1962.960",
    "children": [],
    "end": "1968.440",
-   "id": "f000169",
+   "id": "f000451",
    "language": "eng",
    "lines": [
     "'I'll explain when we get out of here,' said Harry, with a sideways glance at Ginny."
@@ -1694,7 +4514,7 @@
    "begin": "1968.440",
    "children": [],
    "end": "1970.000",
-   "id": "f000170",
+   "id": "f000452",
    "language": "eng",
    "lines": [
     "'But -'"
@@ -1703,58 +4523,158 @@
   {
    "begin": "1970.000",
    "children": [],
-   "end": "1981.160",
-   "id": "f000171",
+   "end": "1973.120",
+   "id": "f000453",
    "language": "eng",
    "lines": [
-    "'Later,' Harry said quickly. He didn't think it was a good idea to tell Ron yet who'd been opening the Chamber, not in front of Ginny, anyway. 'Where's Lockhart?'"
+    "'Later,' Harry said quickly."
+   ]
+  },
+  {
+   "begin": "1973.120",
+   "children": [],
+   "end": "1979.680",
+   "id": "f000454",
+   "language": "eng",
+   "lines": [
+    "He didn't think it was a good idea to tell Ron yet who'd been opening the Chamber, not in front of Ginny, anyway."
+   ]
+  },
+  {
+   "begin": "1979.680",
+   "children": [],
+   "end": "1981.160",
+   "id": "f000455",
+   "language": "eng",
+   "lines": [
+    "'Where's Lockhart?'"
    ]
   },
   {
    "begin": "1981.160",
    "children": [],
-   "end": "1989.080",
-   "id": "f000172",
+   "end": "1987.240",
+   "id": "f000456",
    "language": "eng",
    "lines": [
-    "'Back there,' said Ron, grinning and jerking his head up the tunnel towards the pipe. 'He's in a bad way. Come and see.'"
+    "'Back there,' said Ron, grinning and jerking his head up the tunnel towards the pipe."
+   ]
+  },
+  {
+   "begin": "1987.240",
+   "children": [],
+   "end": "1988.400",
+   "id": "f000457",
+   "language": "eng",
+   "lines": [
+    "'He's in a bad way."
+   ]
+  },
+  {
+   "begin": "1988.400",
+   "children": [],
+   "end": "1989.080",
+   "id": "f000458",
+   "language": "eng",
+   "lines": [
+    "Come and see.'"
    ]
   },
   {
    "begin": "1989.080",
    "children": [],
-   "end": "1998.080",
-   "id": "f000173",
+   "end": "1998.040",
+   "id": "f000459",
    "language": "eng",
    "lines": [
     "Led by Fawkes, whose wide scarlet wings emitted a soft golden glow in the darkness, they walked all the way back to the mouth"
    ]
   },
   {
-   "begin": "1998.080",
+   "begin": "1998.040",
    "children": [],
-   "end": "2003.120",
-   "id": "f000174",
+   "end": "1998.600",
+   "id": "f000460",
    "language": "eng",
    "lines": [
-    "of the pipe. Gilderoy Lockhart was sitting there, humming placidly to himself."
+    "of the pipe."
+   ]
+  },
+  {
+   "begin": "1998.600",
+   "children": [],
+   "end": "2003.120",
+   "id": "f000461",
+   "language": "eng",
+   "lines": [
+    "Gilderoy Lockhart was sitting there, humming placidly to himself."
    ]
   },
   {
    "begin": "2003.120",
    "children": [],
-   "end": "2017.280",
-   "id": "f000175",
+   "end": "2005.680",
+   "id": "f000462",
    "language": "eng",
    "lines": [
-    "'His memory's gone,' said Ron. 'The Memory Charm backfired. Hit him instead of us. Hasn't got a clue who he is, or where he is, or who we are. I told him to come and wait here. He's a danger to himself.'"
+    "'His memory's gone,' said Ron."
+   ]
+  },
+  {
+   "begin": "2005.680",
+   "children": [],
+   "end": "2007.840",
+   "id": "f000463",
+   "language": "eng",
+   "lines": [
+    "'The Memory Charm backfired."
+   ]
+  },
+  {
+   "begin": "2007.840",
+   "children": [],
+   "end": "2009.560",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "Hit him instead of us."
+   ]
+  },
+  {
+   "begin": "2009.560",
+   "children": [],
+   "end": "2013.440",
+   "id": "f000465",
+   "language": "eng",
+   "lines": [
+    "Hasn't got a clue who he is, or where he is, or who we are."
+   ]
+  },
+  {
+   "begin": "2013.440",
+   "children": [],
+   "end": "2015.400",
+   "id": "f000466",
+   "language": "eng",
+   "lines": [
+    "I told him to come and wait here."
+   ]
+  },
+  {
+   "begin": "2015.400",
+   "children": [],
+   "end": "2017.280",
+   "id": "f000467",
+   "language": "eng",
+   "lines": [
+    "He's a danger to himself.'"
    ]
   },
   {
    "begin": "2017.280",
    "children": [],
    "end": "2020.480",
-   "id": "f000176",
+   "id": "f000468",
    "language": "eng",
    "lines": [
     "Lockhart peered good-naturedly up at them all."
@@ -1763,18 +4683,38 @@
   {
    "begin": "2020.480",
    "children": [],
-   "end": "2025.320",
-   "id": "f000177",
+   "end": "2022.000",
+   "id": "f000469",
    "language": "eng",
    "lines": [
-    "'Hello,' he said. 'Odd sort of place, this, isn't it? Do you live here?'"
+    "'Hello,' he said."
+   ]
+  },
+  {
+   "begin": "2022.000",
+   "children": [],
+   "end": "2023.920",
+   "id": "f000470",
+   "language": "eng",
+   "lines": [
+    "'Odd sort of place, this, isn't it?"
+   ]
+  },
+  {
+   "begin": "2023.920",
+   "children": [],
+   "end": "2025.320",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "Do you live here?'"
    ]
   },
   {
    "begin": "2025.320",
    "children": [],
    "end": "2029.000",
-   "id": "f000178",
+   "id": "f000472",
    "language": "eng",
    "lines": [
     "'No,' said Ron, raising his eyebrows at Harry."
@@ -1783,18 +4723,18 @@
   {
    "begin": "2029.000",
    "children": [],
-   "end": "2031.960",
-   "id": "f000179",
+   "end": "2032.120",
+   "id": "f000473",
    "language": "eng",
    "lines": [
     "Harry bent down and looked up the long, dark pipe."
    ]
   },
   {
-   "begin": "2031.960",
+   "begin": "2032.120",
    "children": [],
    "end": "2036.560",
-   "id": "f000180",
+   "id": "f000474",
    "language": "eng",
    "lines": [
     "'Have you thought how we're going to get back up this?' he said to Ron."
@@ -1803,48 +4743,118 @@
   {
    "begin": "2036.560",
    "children": [],
-   "end": "2050.840",
-   "id": "f000181",
+   "end": "2045.520",
+   "id": "f000475",
    "language": "eng",
    "lines": [
-    "Ron shook his head, but Fawkes the phoenix had swooped past Harry and was now fluttering in front of him, his beady eyes bright in the dark. He was waving his long golden tail feathers. Harry looked uncertainly at him."
+    "Ron shook his head, but Fawkes the phoenix had swooped past Harry and was now fluttering in front of him, his beady eyes bright in the dark."
+   ]
+  },
+  {
+   "begin": "2045.520",
+   "children": [],
+   "end": "2048.440",
+   "id": "f000476",
+   "language": "eng",
+   "lines": [
+    "He was waving his long golden tail feathers."
+   ]
+  },
+  {
+   "begin": "2048.440",
+   "children": [],
+   "end": "2050.840",
+   "id": "f000477",
+   "language": "eng",
+   "lines": [
+    "Harry looked uncertainly at him."
    ]
   },
   {
    "begin": "2050.840",
    "children": [],
-   "end": "2059.360",
-   "id": "f000182",
+   "end": "2056.360",
+   "id": "f000478",
    "language": "eng",
    "lines": [
-    "'He looks like he wants you to grab hold ...' said Ron, looking perplexed. 'But you're much too heavy for a bird to pull up there.'"
+    "'He looks like he wants you to grab hold ...' said Ron, looking perplexed."
+   ]
+  },
+  {
+   "begin": "2056.360",
+   "children": [],
+   "end": "2059.360",
+   "id": "f000479",
+   "language": "eng",
+   "lines": [
+    "'But you're much too heavy for a bird to pull up there.'"
    ]
   },
   {
    "begin": "2059.360",
    "children": [],
-   "end": "2070.720",
-   "id": "f000183",
+   "end": "2063.360",
+   "id": "f000480",
    "language": "eng",
    "lines": [
-    "'Fawkes,' said Harry, 'isn't an ordinary bird.' He turned quickly to the others. 'We've got to hold on to each other. Ginny, grab Ron's hand. Professor Lockhart -'"
+    "'Fawkes,' said Harry, 'isn't an ordinary bird.'"
+   ]
+  },
+  {
+   "begin": "2063.360",
+   "children": [],
+   "end": "2065.640",
+   "id": "f000481",
+   "language": "eng",
+   "lines": [
+    "He turned quickly to the others."
+   ]
+  },
+  {
+   "begin": "2065.640",
+   "children": [],
+   "end": "2067.680",
+   "id": "f000482",
+   "language": "eng",
+   "lines": [
+    "'We've got to hold on to each other."
+   ]
+  },
+  {
+   "begin": "2067.680",
+   "children": [],
+   "end": "2069.800",
+   "id": "f000483",
+   "language": "eng",
+   "lines": [
+    "Ginny, grab Ron's hand."
+   ]
+  },
+  {
+   "begin": "2069.800",
+   "children": [],
+   "end": "2070.720",
+   "id": "f000484",
+   "language": "eng",
+   "lines": [
+    "Professor Lockhart -'"
    ]
   },
   {
    "begin": "2070.720",
    "children": [],
-   "end": "2074.080",
-   "id": "f000184",
+   "end": "2074.160",
+   "id": "f000485",
    "language": "eng",
    "lines": [
     "'He means you,' said Ron sharply to Lockhart."
    ]
   },
   {
-   "begin": "2074.080",
+   "begin": "2074.160",
    "children": [],
    "end": "2076.080",
-   "id": "f000185",
+   "id": "f000486",
    "language": "eng",
    "lines": [
     "'You hold Ginny's other hand.'"
@@ -1854,7 +4864,7 @@
    "begin": "2076.080",
    "children": [],
    "end": "2086.520",
-   "id": "f000186",
+   "id": "f000487",
    "language": "eng",
    "lines": [
     "Harry tucked the sword and the Sorting Hat into his belt, Ron took hold of the back of Harry's robes, and Harry reached out and took hold of Fawkes's strangely hot tail feathers."
@@ -1863,28 +4873,68 @@
   {
    "begin": "2086.520",
    "children": [],
-   "end": "2119.800",
-   "id": "f000187",
+   "end": "2095.280",
+   "id": "f000488",
    "language": "eng",
    "lines": [
-    "An extraordinary lightness seemed to spread through his whole body, and next second, with a whoosh, they were flying upwards through the pipe. Harry could hear Lockhart dangling below him, saying, 'Amazing! Amazing! This is just like magic!' The chill air was whipping through Harry's hair, and before he'd stopped enjoying the ride, it was over - all four of them were hitting the wet floor of Moaning Myrtle's bathroom, and as Lockhart straightened his hat, the sink that hid the pipe was sliding back into place."
+    "An extraordinary lightness seemed to spread through his whole body, and next second, with a whoosh, they were flying upwards through the pipe."
+   ]
+  },
+  {
+   "begin": "2095.280",
+   "children": [],
+   "end": "2100.240",
+   "id": "f000489",
+   "language": "eng",
+   "lines": [
+    "Harry could hear Lockhart dangling below him, saying, 'Amazing!"
+   ]
+  },
+  {
+   "begin": "2100.240",
+   "children": [],
+   "end": "2101.440",
+   "id": "f000490",
+   "language": "eng",
+   "lines": [
+    "Amazing!"
+   ]
+  },
+  {
+   "begin": "2101.440",
+   "children": [],
+   "end": "2103.800",
+   "id": "f000491",
+   "language": "eng",
+   "lines": [
+    "This is just like magic!'"
+   ]
+  },
+  {
+   "begin": "2103.800",
+   "children": [],
+   "end": "2119.800",
+   "id": "f000492",
+   "language": "eng",
+   "lines": [
+    "The chill air was whipping through Harry's hair, and before he'd stopped enjoying the ride, it was over - all four of them were hitting the wet floor of Moaning Myrtle's bathroom, and as Lockhart straightened his hat, the sink that hid the pipe was sliding back into place."
    ]
   },
   {
    "begin": "2119.800",
    "children": [],
-   "end": "2123.920",
-   "id": "f000188",
+   "end": "2122.520",
+   "id": "f000493",
    "language": "eng",
    "lines": [
     "Myrtle goggled at them."
    ]
   },
   {
-   "begin": "2123.920",
+   "begin": "2122.520",
    "children": [],
    "end": "2127.400",
-   "id": "f000189",
+   "id": "f000494",
    "language": "eng",
    "lines": [
     "'You're alive,' she said blankly to Harry."
@@ -1894,7 +4944,7 @@
    "begin": "2127.400",
    "children": [],
    "end": "2134.440",
-   "id": "f000190",
+   "id": "f000495",
    "language": "eng",
    "lines": [
     "'There's no need to sound so disappointed,' he said grimly, wiping flecks of blood and slime off his glasses."
@@ -1903,18 +4953,38 @@
   {
    "begin": "2134.440",
    "children": [],
-   "end": "2139.320",
-   "id": "f000191",
+   "end": "2135.920",
+   "id": "f000496",
    "language": "eng",
    "lines": [
-    "'Oh, well ... I'd just been thinking. If you had died, you'd have"
+    "'Oh, well ..."
    ]
   },
   {
-   "begin": "2139.320",
+   "begin": "2135.920",
+   "children": [],
+   "end": "2137.720",
+   "id": "f000497",
+   "language": "eng",
+   "lines": [
+    "I'd just been thinking."
+   ]
+  },
+  {
+   "begin": "2137.720",
+   "children": [],
+   "end": "2140.000",
+   "id": "f000498",
+   "language": "eng",
+   "lines": [
+    "If you had died, you'd have"
+   ]
+  },
+  {
+   "begin": "2140.000",
    "children": [],
    "end": "2144.800",
-   "id": "f000192",
+   "id": "f000499",
    "language": "eng",
    "lines": [
     "been welcome to share my toilet,' said Myrtle, blushing silver."
@@ -1923,18 +4993,48 @@
   {
    "begin": "2144.800",
    "children": [],
-   "end": "2156.040",
-   "id": "f000193",
+   "end": "2151.280",
+   "id": "f000500",
    "language": "eng",
    "lines": [
-    "'Urgh!' said Ron, as they left the bathroom for the dark, deserted corridor outside. 'Harry! I think Myrtle's got fond of you! You've got competition, Ginny!'"
+    "'Urgh!' said Ron, as they left the bathroom for the dark, deserted corridor outside."
+   ]
+  },
+  {
+   "begin": "2151.280",
+   "children": [],
+   "end": "2151.960",
+   "id": "f000501",
+   "language": "eng",
+   "lines": [
+    "'Harry!"
+   ]
+  },
+  {
+   "begin": "2151.960",
+   "children": [],
+   "end": "2154.320",
+   "id": "f000502",
+   "language": "eng",
+   "lines": [
+    "I think Myrtle's got fond of you!"
+   ]
+  },
+  {
+   "begin": "2154.320",
+   "children": [],
+   "end": "2156.040",
+   "id": "f000503",
+   "language": "eng",
+   "lines": [
+    "You've got competition, Ginny!'"
    ]
   },
   {
    "begin": "2156.040",
    "children": [],
    "end": "2160.360",
-   "id": "f000194",
+   "id": "f000504",
    "language": "eng",
    "lines": [
     "But tears were still flooding silently down Ginny's face."
@@ -1943,28 +5043,48 @@
   {
    "begin": "2160.360",
    "children": [],
-   "end": "2165.760",
-   "id": "f000195",
+   "end": "2164.160",
+   "id": "f000505",
    "language": "eng",
    "lines": [
-    "'Where now?' said Ron, with an anxious look at Ginny. Harry pointed."
+    "'Where now?' said Ron, with an anxious look at Ginny."
+   ]
+  },
+  {
+   "begin": "2164.160",
+   "children": [],
+   "end": "2165.760",
+   "id": "f000506",
+   "language": "eng",
+   "lines": [
+    "Harry pointed."
    ]
   },
   {
    "begin": "2165.760",
    "children": [],
-   "end": "2177.000",
-   "id": "f000196",
+   "end": "2169.960",
+   "id": "f000507",
    "language": "eng",
    "lines": [
-    "Fawkes was leading the way, glowing gold along the corridor. They strode after him, and moments later, found themselves outside Professor McGonagall's office."
+    "Fawkes was leading the way, glowing gold along the corridor."
+   ]
+  },
+  {
+   "begin": "2169.960",
+   "children": [],
+   "end": "2177.000",
+   "id": "f000508",
+   "language": "eng",
+   "lines": [
+    "They strode after him, and moments later, found themselves outside Professor McGonagall's office."
    ]
   },
   {
    "begin": "2177.000",
    "children": [],
    "end": "2182.000",
-   "id": "f000197",
+   "id": "f000509",
    "language": "eng",
    "lines": [
     "Harry knocked and pushed the door open."

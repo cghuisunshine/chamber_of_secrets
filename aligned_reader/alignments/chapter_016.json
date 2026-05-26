@@ -3,118 +3,228 @@
   {
    "begin": "0.000",
    "children": [],
-   "end": "6.160",
+   "end": "2.960",
    "id": "f000001",
    "language": "eng",
    "lines": [
-    "Chapter Sixteen. The Chamber of Secrets."
+    "Chapter Sixteen."
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "6.160",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "The Chamber of Secrets."
    ]
   },
   {
    "begin": "6.160",
    "children": [],
-   "end": "16.080",
-   "id": "f000002",
+   "end": "16.040",
+   "id": "f000003",
    "language": "eng",
    "lines": [
     "'All those times we were in that bathroom, and she was just three toilets away,' said Ron bitterly at breakfast next day, 'and we could've asked her, and now ...'"
    ]
   },
   {
-   "begin": "16.080",
+   "begin": "16.040",
    "children": [],
-   "end": "28.920",
-   "id": "f000003",
+   "end": "18.920",
+   "id": "f000004",
    "language": "eng",
    "lines": [
-    "It had been hard enough trying to look for spiders. Escaping their teachers long enough to sneak into a girls' bathroom, the girls' bathroom, moreover, right next to the scene of the first attack, was going to be almost impossible."
+    "It had been hard enough trying to look for spiders."
+   ]
+  },
+  {
+   "begin": "18.920",
+   "children": [],
+   "end": "28.920",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Escaping their teachers long enough to sneak into a girls' bathroom, the girls' bathroom, moreover, right next to the scene of the first attack, was going to be almost impossible."
    ]
   },
   {
    "begin": "28.920",
    "children": [],
-   "end": "44.800",
-   "id": "f000004",
+   "end": "36.160",
+   "id": "f000006",
    "language": "eng",
    "lines": [
-    "But something happened in their first lesson, Transfiguration, which drove the Chamber of Secrets out of their minds for the first time in weeks. Ten minutes into the class, Professor McGonagall told them that their exams would start on the first of June, one week from today."
+    "But something happened in their first lesson, Transfiguration, which drove the Chamber of Secrets out of their minds for the first time in weeks."
    ]
   },
   {
-   "begin": "44.800",
+   "begin": "36.160",
    "children": [],
-   "end": "50.040",
-   "id": "f000005",
+   "end": "44.760",
+   "id": "f000007",
    "language": "eng",
    "lines": [
-    "'Exams?' howled Seamus Finnigan. 'We're still getting exams?'"
+    "Ten minutes into the class, Professor McGonagall told them that their exams would start on the first of June, one week from today."
+   ]
+  },
+  {
+   "begin": "44.760",
+   "children": [],
+   "end": "47.360",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "'Exams?' howled Seamus Finnigan."
+   ]
+  },
+  {
+   "begin": "47.360",
+   "children": [],
+   "end": "50.040",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "'We're still getting exams?'"
    ]
   },
   {
    "begin": "50.040",
    "children": [],
-   "end": "63.240",
-   "id": "f000006",
+   "end": "56.200",
+   "id": "f000010",
    "language": "eng",
    "lines": [
-    "There was a loud bang behind Harry as Neville Longbottom's wand slipped, vanishing one of the legs on his desk. Professor McGonagall restored it with a wave of her own wand, and turned, frowning, to Seamus."
+    "There was a loud bang behind Harry as Neville Longbottom's wand slipped, vanishing one of the legs on his desk."
+   ]
+  },
+  {
+   "begin": "56.200",
+   "children": [],
+   "end": "63.240",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Professor McGonagall restored it with a wave of her own wand, and turned, frowning, to Seamus."
    ]
   },
   {
    "begin": "63.240",
    "children": [],
-   "end": "76.600",
-   "id": "f000007",
+   "end": "70.480",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "'The whole point of keeping the school open at this time is for you to receive your education,' she said sternly. 'The exams will therefore take place as usual, and I trust you are all revising hard.'"
+    "'The whole point of keeping the school open at this time is for you to receive your education,' she said sternly."
+   ]
+  },
+  {
+   "begin": "70.480",
+   "children": [],
+   "end": "76.600",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "'The exams will therefore take place as usual, and I trust you are all revising hard.'"
    ]
   },
   {
    "begin": "76.600",
    "children": [],
-   "end": "88.440",
-   "id": "f000008",
+   "end": "78.240",
+   "id": "f000014",
    "language": "eng",
    "lines": [
-    "Revising hard! It had never occurred to Harry that there would be exams with the castle in this state. There was a great deal of mutinous muttering around the room, which made Professor McGonagall scowl even more darkly."
+    "Revising hard!"
    ]
   },
   {
-   "begin": "88.440",
+   "begin": "78.240",
    "children": [],
-   "end": "101.320",
-   "id": "f000009",
+   "end": "82.600",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "'Professor Dumbledore's instructions were to keep the school running as normally as possible,' she said. 'And that, I need hardly point out, means finding out how much you have learned this year.'"
+    "It had never occurred to Harry that there would be exams with the castle in this state."
+   ]
+  },
+  {
+   "begin": "82.600",
+   "children": [],
+   "end": "88.640",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "There was a great deal of mutinous muttering around the room, which made Professor McGonagall scowl even more darkly."
+   ]
+  },
+  {
+   "begin": "88.640",
+   "children": [],
+   "end": "94.920",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "'Professor Dumbledore's instructions were to keep the school running as normally as possible,' she said."
+   ]
+  },
+  {
+   "begin": "94.920",
+   "children": [],
+   "end": "101.320",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "'And that, I need hardly point out, means finding out how much you have learned this year.'"
    ]
   },
   {
    "begin": "101.320",
    "children": [],
-   "end": "108.080",
-   "id": "f000010",
+   "end": "106.480",
+   "id": "f000019",
    "language": "eng",
    "lines": [
-    "Harry looked down at the pair of white rabbits he was supposed to be turning into slippers. What had he learned so far this"
+    "Harry looked down at the pair of white rabbits he was supposed to be turning into slippers."
    ]
   },
   {
-   "begin": "108.080",
+   "begin": "106.480",
    "children": [],
-   "end": "112.800",
-   "id": "f000011",
+   "end": "108.120",
+   "id": "f000020",
    "language": "eng",
    "lines": [
-    "year? He couldn't seem to think of anything that would be useful in an exam."
+    "What had he learned so far this"
    ]
   },
   {
-   "begin": "112.800",
+   "begin": "108.120",
+   "children": [],
+   "end": "108.920",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "year?"
+   ]
+  },
+  {
+   "begin": "108.920",
+   "children": [],
+   "end": "112.920",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "He couldn't seem to think of anything that would be useful in an exam."
+   ]
+  },
+  {
+   "begin": "112.920",
    "children": [],
    "end": "116.840",
-   "id": "f000012",
+   "id": "f000023",
    "language": "eng",
    "lines": [
     "Ron looked as though he'd just been told he had to go and live in the Forbidden Forest."
@@ -123,28 +233,28 @@
   {
    "begin": "116.840",
    "children": [],
-   "end": "133.200",
-   "id": "f000013",
+   "end": "133.160",
+   "id": "f000024",
    "language": "eng",
    "lines": [
     "'Can you imagine me taking exams with this?' he asked Harry, holding up his wand, which had just started whistling loudly. * Three days before their first exam, Professor McGonagall made another announcement at breakfast."
    ]
   },
   {
-   "begin": "133.200",
+   "begin": "133.160",
    "children": [],
-   "end": "139.280",
-   "id": "f000014",
+   "end": "139.240",
+   "id": "f000025",
    "language": "eng",
    "lines": [
     "'I have good news,' she said, and the Great Hall, instead of falling silent, erupted."
    ]
   },
   {
-   "begin": "139.280",
+   "begin": "139.240",
    "children": [],
    "end": "143.000",
-   "id": "f000015",
+   "id": "f000026",
    "language": "eng",
    "lines": [
     "'Dumbledore's coming back!' several people yelled joyfully."
@@ -154,7 +264,7 @@
    "begin": "143.000",
    "children": [],
    "end": "147.240",
-   "id": "f000016",
+   "id": "f000027",
    "language": "eng",
    "lines": [
     "'You've caught the heir of Slytherin!' squealed a girl on the Ravenclaw table."
@@ -164,7 +274,7 @@
    "begin": "147.240",
    "children": [],
    "end": "152.240",
-   "id": "f000017",
+   "id": "f000028",
    "language": "eng",
    "lines": [
     "'Quidditch matches are back on!' roared Wood excitedly."
@@ -173,48 +283,148 @@
   {
    "begin": "152.240",
    "children": [],
-   "end": "179.280",
-   "id": "f000018",
+   "end": "160.800",
+   "id": "f000029",
    "language": "eng",
    "lines": [
-    "When the hubbub had subsided, Professor McGonagall said, 'Professor Sprout has informed me that the Mandrakes are ready for cutting at last. Tonight, we will be able to revive those people who have been Petrified. I need hardly remind you all that one of them may well be able to tell us who, or what, attacked them. I am hopeful that this dreadful year will end with our catching the culprit.'"
+    "When the hubbub had subsided, Professor McGonagall said, 'Professor Sprout has informed me that the Mandrakes are ready for cutting at last."
+   ]
+  },
+  {
+   "begin": "160.800",
+   "children": [],
+   "end": "165.680",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Tonight, we will be able to revive those people who have been Petrified."
+   ]
+  },
+  {
+   "begin": "165.680",
+   "children": [],
+   "end": "172.440",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "I need hardly remind you all that one of them may well be able to tell us who, or what, attacked them."
+   ]
+  },
+  {
+   "begin": "172.440",
+   "children": [],
+   "end": "179.280",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "I am hopeful that this dreadful year will end with our catching the culprit.'"
    ]
   },
   {
    "begin": "179.280",
    "children": [],
-   "end": "191.400",
-   "id": "f000019",
+   "end": "181.080",
+   "id": "f000033",
    "language": "eng",
    "lines": [
-    "There was an explosion of cheering. Harry looked over at the Slytherin table and wasn't at all surprised to see that Draco Malfoy hadn't joined in. Ron, however, was looking happier than he'd looked in days."
+    "There was an explosion of cheering."
    ]
   },
   {
-   "begin": "191.400",
+   "begin": "181.080",
    "children": [],
-   "end": "207.880",
-   "id": "f000020",
+   "end": "187.200",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "'It won't matter that we never asked Myrtle, then!' he said to Harry. 'Hermione'll probably have all the answers when they wake her up! Mind you, she'll go mad when she finds out we've got exams in three days' time. She hasn't revised. It might be kinder to leave her where she is till they're over.'"
+    "Harry looked over at the Slytherin table and wasn't at all surprised to see that Draco Malfoy hadn't joined in."
+   ]
+  },
+  {
+   "begin": "187.200",
+   "children": [],
+   "end": "191.440",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "Ron, however, was looking happier than he'd looked in days."
+   ]
+  },
+  {
+   "begin": "191.440",
+   "children": [],
+   "end": "194.920",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "'It won't matter that we never asked Myrtle, then!' he said to Harry."
+   ]
+  },
+  {
+   "begin": "194.920",
+   "children": [],
+   "end": "198.000",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "'Hermione'll probably have all the answers when they wake her up!"
+   ]
+  },
+  {
+   "begin": "198.000",
+   "children": [],
+   "end": "202.640",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Mind you, she'll go mad when she finds out we've got exams in three days' time."
+   ]
+  },
+  {
+   "begin": "202.640",
+   "children": [],
+   "end": "204.280",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "She hasn't revised."
+   ]
+  },
+  {
+   "begin": "204.280",
+   "children": [],
+   "end": "207.880",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "It might be kinder to leave her where she is till they're over.'"
    ]
   },
   {
    "begin": "207.880",
    "children": [],
-   "end": "217.160",
-   "id": "f000021",
+   "end": "211.760",
+   "id": "f000041",
    "language": "eng",
    "lines": [
-    "Just then, Ginny Weasley came over and sat down next to Ron. She looked tense and nervous, and Harry noticed that her hands were twisting in her lap."
+    "Just then, Ginny Weasley came over and sat down next to Ron."
    ]
   },
   {
-   "begin": "217.160",
+   "begin": "211.760",
+   "children": [],
+   "end": "217.120",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "She looked tense and nervous, and Harry noticed that her hands were twisting in her lap."
+   ]
+  },
+  {
+   "begin": "217.120",
    "children": [],
    "end": "220.920",
-   "id": "f000022",
+   "id": "f000043",
    "language": "eng",
    "lines": [
     "'What's up?' said Ron, helping himself to more porridge."
@@ -223,38 +433,48 @@
   {
    "begin": "220.920",
    "children": [],
-   "end": "230.320",
-   "id": "f000023",
+   "end": "229.440",
+   "id": "f000044",
    "language": "eng",
    "lines": [
     "Ginny didn't say anything, but glanced up and down the Gryffindor table with a scared look on her face that reminded Harry of someone, though he couldn't think who."
    ]
   },
   {
-   "begin": "230.320",
+   "begin": "229.440",
    "children": [],
-   "end": "233.560",
-   "id": "f000024",
+   "end": "232.920",
+   "id": "f000045",
    "language": "eng",
    "lines": [
     "'Spit it out,' said Ron, watching her."
    ]
   },
   {
-   "begin": "233.560",
+   "begin": "232.920",
    "children": [],
-   "end": "236.960",
-   "id": "f000025",
+   "end": "236.200",
+   "id": "f000046",
    "language": "eng",
    "lines": [
-    "Harry suddenly realised who Ginny looked like. She was"
+    "Harry suddenly realised who Ginny looked like."
+   ]
+  },
+  {
+   "begin": "236.200",
+   "children": [],
+   "end": "236.960",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "She was"
    ]
   },
   {
    "begin": "236.960",
    "children": [],
    "end": "245.800",
-   "id": "f000026",
+   "id": "f000048",
    "language": "eng",
    "lines": [
     "rocking backwards and forwards slightly in her chair, exactly like Dobby did when he was teetering on the edge of revealing forbidden information."
@@ -264,7 +484,7 @@
    "begin": "245.800",
    "children": [],
    "end": "252.400",
-   "id": "f000027",
+   "id": "f000049",
    "language": "eng",
    "lines": [
     "'I've got to tell you something,' Ginny mumbled, carefully not looking at Harry."
@@ -273,18 +493,18 @@
   {
    "begin": "252.400",
    "children": [],
-   "end": "253.880",
-   "id": "f000028",
+   "end": "253.840",
+   "id": "f000050",
    "language": "eng",
    "lines": [
     "'What is it?' said Harry."
    ]
   },
   {
-   "begin": "253.880",
+   "begin": "253.840",
    "children": [],
    "end": "257.360",
-   "id": "f000029",
+   "id": "f000051",
    "language": "eng",
    "lines": [
     "Ginny looked as though she couldn't find the right words."
@@ -294,7 +514,7 @@
    "begin": "257.360",
    "children": [],
    "end": "258.920",
-   "id": "f000030",
+   "id": "f000052",
    "language": "eng",
    "lines": [
     "'What?' said Ron."
@@ -303,68 +523,128 @@
   {
    "begin": "258.920",
    "children": [],
-   "end": "267.240",
-   "id": "f000031",
+   "end": "262.560",
+   "id": "f000053",
    "language": "eng",
    "lines": [
-    "Ginny opened her mouth, but no sound came out. Harry leaned forward and spoke quietly, so that only Ginny and Ron could hear him."
+    "Ginny opened her mouth, but no sound came out."
+   ]
+  },
+  {
+   "begin": "262.560",
+   "children": [],
+   "end": "267.240",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Harry leaned forward and spoke quietly, so that only Ginny and Ron could hear him."
    ]
   },
   {
    "begin": "267.240",
    "children": [],
-   "end": "273.720",
-   "id": "f000032",
+   "end": "270.160",
+   "id": "f000055",
    "language": "eng",
    "lines": [
-    "'Is it something about the Chamber of Secrets? Have you seen something? Someone acting oddly?'"
+    "'Is it something about the Chamber of Secrets?"
    ]
   },
   {
-   "begin": "273.720",
+   "begin": "270.160",
    "children": [],
-   "end": "280.120",
-   "id": "f000033",
+   "end": "271.600",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "Have you seen something?"
+   ]
+  },
+  {
+   "begin": "271.600",
+   "children": [],
+   "end": "273.520",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Someone acting oddly?'"
+   ]
+  },
+  {
+   "begin": "273.520",
+   "children": [],
+   "end": "280.040",
+   "id": "f000058",
    "language": "eng",
    "lines": [
     "Ginny drew a deep breath and, at that precise moment, Percy Weasley appeared, looking tired and wan."
    ]
   },
   {
-   "begin": "280.120",
+   "begin": "280.040",
    "children": [],
-   "end": "286.480",
-   "id": "f000034",
+   "end": "282.920",
+   "id": "f000059",
    "language": "eng",
    "lines": [
-    "'If you've finished eating, I'll take that seat, Ginny. I'm starving, I've only just come off patrol duty.'"
+    "'If you've finished eating, I'll take that seat, Ginny."
+   ]
+  },
+  {
+   "begin": "282.920",
+   "children": [],
+   "end": "286.480",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "I'm starving, I've only just come off patrol duty.'"
    ]
   },
   {
    "begin": "286.480",
    "children": [],
-   "end": "295.800",
-   "id": "f000035",
+   "end": "292.400",
+   "id": "f000061",
    "language": "eng",
    "lines": [
-    "Ginny jumped up as though her chair had just been electrified, gave Percy a fleeting, frightened look, and scarpered away. Percy sat down and grabbed a mug from the centre of the table."
+    "Ginny jumped up as though her chair had just been electrified, gave Percy a fleeting, frightened look, and scarpered away."
+   ]
+  },
+  {
+   "begin": "292.400",
+   "children": [],
+   "end": "295.800",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "Percy sat down and grabbed a mug from the centre of the table."
    ]
   },
   {
    "begin": "295.800",
    "children": [],
-   "end": "301.480",
-   "id": "f000036",
+   "end": "298.520",
+   "id": "f000063",
    "language": "eng",
    "lines": [
-    "'Percy!' said Ron angrily. 'She was just about to tell us something important!'"
+    "'Percy!' said Ron angrily."
    ]
   },
   {
-   "begin": "301.480",
+   "begin": "298.520",
+   "children": [],
+   "end": "300.880",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "'She was just about to tell us something important!'"
+   ]
+  },
+  {
+   "begin": "300.880",
    "children": [],
    "end": "304.920",
-   "id": "f000037",
+   "id": "f000065",
    "language": "eng",
    "lines": [
     "Halfway through a gulp of tea, Percy choked."
@@ -374,7 +654,7 @@
    "begin": "304.920",
    "children": [],
    "end": "307.760",
-   "id": "f000038",
+   "id": "f000066",
    "language": "eng",
    "lines": [
     "'What sort of thing?' he said, coughing."
@@ -384,7 +664,7 @@
    "begin": "307.760",
    "children": [],
    "end": "311.400",
-   "id": "f000039",
+   "id": "f000067",
    "language": "eng",
    "lines": [
     "'I just asked her if she'd seen anything odd, and she started to say -'"
@@ -393,18 +673,18 @@
   {
    "begin": "311.400",
    "children": [],
-   "end": "316.560",
-   "id": "f000040",
+   "end": "316.000",
+   "id": "f000068",
    "language": "eng",
    "lines": [
     "'Oh - that - that's nothing to do with the Chamber of Secrets,' said Percy at once."
    ]
   },
   {
-   "begin": "316.560",
+   "begin": "316.000",
    "children": [],
    "end": "319.520",
-   "id": "f000041",
+   "id": "f000069",
    "language": "eng",
    "lines": [
     "'How do you know?' said Ron, his eyebrows raised."
@@ -413,18 +693,38 @@
   {
    "begin": "319.520",
    "children": [],
-   "end": "338.840",
-   "id": "f000042",
+   "end": "333.560",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "'Well, er, if you must know, Ginny, er, walked in on me the other day when I was - well, never mind - the point is, she spotted me doing something and I, um, I asked her not to mention it to anybody. I must say, I did think she'd keep her word. It's nothing, really, I'd just rather -'"
+    "'Well, er, if you must know, Ginny, er, walked in on me the other day when I was - well, never mind - the point is, she spotted me doing something and I, um, I asked her not to mention it to anybody."
    ]
   },
   {
-   "begin": "338.840",
+   "begin": "333.560",
+   "children": [],
+   "end": "335.840",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "I must say, I did think she'd keep her word."
+   ]
+  },
+  {
+   "begin": "335.840",
+   "children": [],
+   "end": "338.120",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "It's nothing, really, I'd just rather -'"
+   ]
+  },
+  {
+   "begin": "338.120",
    "children": [],
    "end": "342.800",
-   "id": "f000043",
+   "id": "f000073",
    "language": "eng",
    "lines": [
     "Harry had never seen Percy look so uncomfortable."
@@ -433,18 +733,28 @@
   {
    "begin": "342.800",
    "children": [],
-   "end": "349.760",
-   "id": "f000044",
+   "end": "346.600",
+   "id": "f000074",
    "language": "eng",
    "lines": [
-    "'What were you doing, Percy?' said Ron, grinning. 'Go on, tell us, we won't laugh.'"
+    "'What were you doing, Percy?' said Ron, grinning."
+   ]
+  },
+  {
+   "begin": "346.600",
+   "children": [],
+   "end": "349.760",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "'Go on, tell us, we won't laugh.'"
    ]
   },
   {
    "begin": "349.760",
    "children": [],
    "end": "352.040",
-   "id": "f000045",
+   "id": "f000076",
    "language": "eng",
    "lines": [
     "Percy didn't smile back."
@@ -454,7 +764,7 @@
    "begin": "352.040",
    "children": [],
    "end": "358.520",
-   "id": "f000046",
+   "id": "f000077",
    "language": "eng",
    "lines": [
     "'Pass me those rolls, Harry, I'm starving.' *"
@@ -464,7 +774,7 @@
    "begin": "358.520",
    "children": [],
    "end": "374.320",
-   "id": "f000047",
+   "id": "f000078",
    "language": "eng",
    "lines": [
     "Harry knew the whole mystery might be solved tomorrow without their help, but he wasn't about to pass up a chance to speak to Myrtle if it turned up - and to his delight it did, mid-morning, when they were being led to History of Magic by Gilderoy Lockhart."
@@ -473,68 +783,118 @@
   {
    "begin": "374.320",
    "children": [],
-   "end": "392.360",
-   "id": "f000048",
+   "end": "385.440",
+   "id": "f000079",
    "language": "eng",
    "lines": [
-    "Lockhart, who had so often assured them that all danger had passed, only to be proved wrong straight away, was now wholeheartedly convinced that it was hardly worth the trouble to see them safely down the corridors. His hair wasn't as sleek as usual; it seemed he had been up most of the night, patrolling the fourth floor."
+    "Lockhart, who had so often assured them that all danger had passed, only to be proved wrong straight away, was now wholeheartedly convinced that it was hardly worth the trouble to see them safely down the corridors."
    ]
   },
   {
-   "begin": "392.360",
+   "begin": "385.440",
    "children": [],
-   "end": "409.560",
-   "id": "f000049",
+   "end": "392.320",
+   "id": "f000080",
    "language": "eng",
    "lines": [
-    "'Mark my words,' he said, ushering them around a corner, 'the first words out of those poor Petrified people's mouths will be, \"It was Hagrid.\" Frankly I'm astounded Professor McGonagall thinks all these security measures are necessary.'"
+    "His hair wasn't as sleek as usual; it seemed he had been up most of the night, patrolling the fourth floor."
+   ]
+  },
+  {
+   "begin": "392.320",
+   "children": [],
+   "end": "403.240",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "'Mark my words,' he said, ushering them around a corner, 'the first words out of those poor Petrified people's mouths will be, \"It was Hagrid.\""
+   ]
+  },
+  {
+   "begin": "403.240",
+   "children": [],
+   "end": "409.560",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "Frankly I'm astounded Professor McGonagall thinks all these security measures are necessary.'"
    ]
   },
   {
    "begin": "409.560",
    "children": [],
-   "end": "414.080",
-   "id": "f000050",
+   "end": "413.480",
+   "id": "f000083",
    "language": "eng",
    "lines": [
     "'I agree, sir,' said Harry, making Ron drop his books in surprise."
    ]
   },
   {
-   "begin": "414.080",
+   "begin": "413.480",
    "children": [],
-   "end": "429.800",
-   "id": "f000051",
+   "end": "420.680",
+   "id": "f000084",
    "language": "eng",
    "lines": [
-    "'Thank you, Harry,' said Lockhart graciously, while they waited for a long line of Hufflepuffs to pass. 'I mean, we teachers have quite enough to be getting on with, without walking students to classes and standing guard all night ...'"
+    "'Thank you, Harry,' said Lockhart graciously, while they waited for a long line of Hufflepuffs to pass."
    ]
   },
   {
-   "begin": "429.800",
+   "begin": "420.680",
    "children": [],
-   "end": "436.680",
-   "id": "f000052",
+   "end": "428.960",
+   "id": "f000085",
    "language": "eng",
    "lines": [
-    "'That's right,' said Ron, catching on. 'Why don't you leave us here, sir, we've only got one more corridor to go.'"
+    "'I mean, we teachers have quite enough to be getting on with, without walking students to classes and standing guard all night ...'"
+   ]
+  },
+  {
+   "begin": "428.960",
+   "children": [],
+   "end": "431.880",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "'That's right,' said Ron, catching on."
+   ]
+  },
+  {
+   "begin": "431.880",
+   "children": [],
+   "end": "436.680",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "'Why don't you leave us here, sir, we've only got one more corridor to go.'"
    ]
   },
   {
    "begin": "436.680",
    "children": [],
-   "end": "443.640",
-   "id": "f000053",
+   "end": "439.880",
+   "id": "f000088",
    "language": "eng",
    "lines": [
-    "'You know, Weasley, I think I will,' said Lockhart. 'I really should go and prepare my next class.'"
+    "'You know, Weasley, I think I will,' said Lockhart."
+   ]
+  },
+  {
+   "begin": "439.880",
+   "children": [],
+   "end": "443.640",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "'I really should go and prepare my next class.'"
    ]
   },
   {
    "begin": "443.640",
    "children": [],
    "end": "444.560",
-   "id": "f000054",
+   "id": "f000090",
    "language": "eng",
    "lines": [
     "And he hurried off."
@@ -543,48 +903,88 @@
   {
    "begin": "444.560",
    "children": [],
-   "end": "451.880",
-   "id": "f000055",
+   "end": "448.840",
+   "id": "f000091",
    "language": "eng",
    "lines": [
-    "'Prepare his class,' Ron sneered after him. 'Gone to curl his hair, more like.'"
+    "'Prepare his class,' Ron sneered after him."
    ]
   },
   {
-   "begin": "451.880",
+   "begin": "448.840",
    "children": [],
-   "end": "463.200",
-   "id": "f000056",
+   "end": "450.680",
+   "id": "f000092",
    "language": "eng",
    "lines": [
-    "They let the rest of the Gryffindors draw ahead of them, then darted down a side passage and hurried off towards Moaning Myrtle's bathroom. But just as they were congratulating each other on their brilliant scheme ..."
+    "'Gone to curl his hair, more like.'"
+   ]
+  },
+  {
+   "begin": "450.680",
+   "children": [],
+   "end": "459.600",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "They let the rest of the Gryffindors draw ahead of them, then darted down a side passage and hurried off towards Moaning Myrtle's bathroom."
+   ]
+  },
+  {
+   "begin": "459.600",
+   "children": [],
+   "end": "463.200",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "But just as they were congratulating each other on their brilliant scheme ..."
    ]
   },
   {
    "begin": "463.200",
    "children": [],
-   "end": "466.800",
-   "id": "f000057",
+   "end": "464.360",
+   "id": "f000095",
    "language": "eng",
    "lines": [
-    "'Potter! Weasley! What are you doing?'"
+    "'Potter!"
    ]
   },
   {
-   "begin": "466.800",
+   "begin": "464.360",
    "children": [],
-   "end": "471.800",
-   "id": "f000058",
+   "end": "464.800",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "Weasley!"
+   ]
+  },
+  {
+   "begin": "464.800",
+   "children": [],
+   "end": "466.760",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "What are you doing?'"
+   ]
+  },
+  {
+   "begin": "466.760",
+   "children": [],
+   "end": "470.960",
+   "id": "f000098",
    "language": "eng",
    "lines": [
     "It was Professor McGonagall, and her mouth was the thinnest of thin lines."
    ]
   },
   {
-   "begin": "471.800",
+   "begin": "470.960",
    "children": [],
    "end": "475.920",
-   "id": "f000059",
+   "id": "f000099",
    "language": "eng",
    "lines": [
     "'We were - we were -' Ron stammered, 'we were going to - to go and see -'"
@@ -593,18 +993,28 @@
   {
    "begin": "475.920",
    "children": [],
-   "end": "481.440",
-   "id": "f000060",
+   "end": "477.600",
+   "id": "f000100",
    "language": "eng",
    "lines": [
-    "'Hermione,' said Harry. Ron and Professor McGonagall both looked at him."
+    "'Hermione,' said Harry."
+   ]
+  },
+  {
+   "begin": "477.600",
+   "children": [],
+   "end": "481.440",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "Ron and Professor McGonagall both looked at him."
    ]
   },
   {
    "begin": "481.440",
    "children": [],
    "end": "487.760",
-   "id": "f000061",
+   "id": "f000102",
    "language": "eng",
    "lines": [
     "'We haven't seen her for ages, Professor,' Harry went on hurriedly, treading on Ron's foot, 'and we thought we'd sneak into the"
@@ -614,7 +1024,7 @@
    "begin": "487.760",
    "children": [],
    "end": "493.160",
-   "id": "f000062",
+   "id": "f000103",
    "language": "eng",
    "lines": [
     "hospital wing, you know, and tell her the Mandrakes are nearly ready and, er, not to worry.'"
@@ -624,7 +1034,7 @@
    "begin": "493.160",
    "children": [],
    "end": "503.880",
-   "id": "f000063",
+   "id": "f000104",
    "language": "eng",
    "lines": [
     "Professor McGonagall was still staring at him, and for a moment, Harry thought she was going to explode, but when she spoke, it was in a strangely croaky voice."
@@ -633,48 +1043,108 @@
   {
    "begin": "503.880",
    "children": [],
-   "end": "529.320",
-   "id": "f000064",
+   "end": "509.880",
+   "id": "f000105",
    "language": "eng",
    "lines": [
-    "'Of course,' she said, and Harry, amazed, saw a tear glistening in her beady eye. 'Of course, I realise this has all been hardest on the friends of those who have been ... I quite understand. Yes, Potter, of course you may visit Miss Granger. I will inform Professor Binns where you've gone. Tell Madam Pomfrey I have given my permission.'"
+    "'Of course,' she said, and Harry, amazed, saw a tear glistening in her beady eye."
    ]
   },
   {
-   "begin": "529.320",
+   "begin": "509.880",
    "children": [],
-   "end": "539.280",
-   "id": "f000065",
+   "end": "517.360",
+   "id": "f000106",
    "language": "eng",
    "lines": [
-    "Harry and Ron walked away, hardly daring to believe that they'd avoided detention. As they turned the corner, they distinctly heard Professor McGonagall blow her nose."
+    "'Of course, I realise this has all been hardest on the friends of those who have been ..."
    ]
   },
   {
-   "begin": "539.280",
+   "begin": "517.360",
    "children": [],
-   "end": "545.960",
-   "id": "f000066",
+   "end": "518.560",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "I quite understand."
+   ]
+  },
+  {
+   "begin": "518.560",
+   "children": [],
+   "end": "521.280",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "Yes, Potter, of course you may visit Miss Granger."
+   ]
+  },
+  {
+   "begin": "521.280",
+   "children": [],
+   "end": "524.400",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "I will inform Professor Binns where you've gone."
+   ]
+  },
+  {
+   "begin": "524.400",
+   "children": [],
+   "end": "528.040",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Tell Madam Pomfrey I have given my permission.'"
+   ]
+  },
+  {
+   "begin": "528.040",
+   "children": [],
+   "end": "533.800",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "Harry and Ron walked away, hardly daring to believe that they'd avoided detention."
+   ]
+  },
+  {
+   "begin": "533.800",
+   "children": [],
+   "end": "538.480",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "As they turned the corner, they distinctly heard Professor McGonagall blow her nose."
+   ]
+  },
+  {
+   "begin": "538.480",
+   "children": [],
+   "end": "544.720",
+   "id": "f000113",
    "language": "eng",
    "lines": [
     "'That,' said Ron fervently, 'was the best story you've ever come up with.'"
    ]
   },
   {
-   "begin": "545.960",
+   "begin": "544.720",
    "children": [],
-   "end": "553.000",
-   "id": "f000067",
+   "end": "553.720",
+   "id": "f000114",
    "language": "eng",
    "lines": [
     "They had no choice now but to go to the hospital wing and tell Madam Pomfrey that they had Professor McGonagall's permission to visit Hermione."
    ]
   },
   {
-   "begin": "553.000",
+   "begin": "553.720",
    "children": [],
    "end": "556.680",
-   "id": "f000068",
+   "id": "f000115",
    "language": "eng",
    "lines": [
     "Madam Pomfrey let them in, but reluctantly."
@@ -683,38 +1153,78 @@
   {
    "begin": "556.680",
    "children": [],
-   "end": "577.040",
-   "id": "f000069",
+   "end": "566.200",
+   "id": "f000116",
    "language": "eng",
    "lines": [
-    "'There's just no point talking to a Petrified person,' she said, and they had to admit she was right when they'd taken their seats next to Hermione. It was plain that Hermione didn't have the faintest inkling that she had visitors, and that they might just as well tell her bedside cabinet not to worry for all the good it would do."
+    "'There's just no point talking to a Petrified person,' she said, and they had to admit she was right when they'd taken their seats next to Hermione."
    ]
   },
   {
-   "begin": "577.040",
+   "begin": "566.200",
    "children": [],
-   "end": "586.440",
-   "id": "f000070",
+   "end": "577.000",
+   "id": "f000117",
    "language": "eng",
    "lines": [
-    "'Wonder if she did see the attacker, though?' said Ron, looking sadly at Hermione's rigid face. 'Because if he sneaked up on them all, no one'll ever know ...'"
+    "It was plain that Hermione didn't have the faintest inkling that she had visitors, and that they might just as well tell her bedside cabinet not to worry for all the good it would do."
    ]
   },
   {
-   "begin": "586.440",
+   "begin": "577.000",
    "children": [],
-   "end": "599.600",
-   "id": "f000071",
+   "end": "582.200",
+   "id": "f000118",
    "language": "eng",
    "lines": [
-    "But Harry wasn't looking at Hermione's face. He was more interested in her right hand. It lay clenched on top of her blankets, and bending closer, he saw that a piece of paper was scrunched inside her fist."
+    "'Wonder if she did see the attacker, though?' said Ron, looking sadly at Hermione's rigid face."
    ]
   },
   {
-   "begin": "599.600",
+   "begin": "582.200",
+   "children": [],
+   "end": "585.560",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "'Because if he sneaked up on them all, no one'll ever know ...'"
+   ]
+  },
+  {
+   "begin": "585.560",
+   "children": [],
+   "end": "588.640",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "But Harry wasn't looking at Hermione's face."
+   ]
+  },
+  {
+   "begin": "588.640",
+   "children": [],
+   "end": "591.080",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "He was more interested in her right hand."
+   ]
+  },
+  {
+   "begin": "591.080",
+   "children": [],
+   "end": "598.600",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "It lay clenched on top of her blankets, and bending closer, he saw that a piece of paper was scrunched inside her fist."
+   ]
+  },
+  {
+   "begin": "598.600",
    "children": [],
    "end": "603.920",
-   "id": "f000072",
+   "id": "f000123",
    "language": "eng",
    "lines": [
     "Making sure that Madam Pomfrey was nowhere near, he pointed this out to Ron."
@@ -723,38 +1233,68 @@
   {
    "begin": "603.920",
    "children": [],
-   "end": "611.760",
-   "id": "f000073",
+   "end": "610.760",
+   "id": "f000124",
    "language": "eng",
    "lines": [
     "'Try and get it out,' Ron whispered, shifting his chair so that he blocked Harry from Madam Pomfrey's view."
    ]
   },
   {
-   "begin": "611.760",
+   "begin": "610.760",
    "children": [],
-   "end": "626.000",
-   "id": "f000074",
+   "end": "612.920",
+   "id": "f000125",
    "language": "eng",
    "lines": [
-    "It was no easy task. Hermione's hand was clamped so tightly around the paper that Harry was sure he was going to tear it. While Ron kept watch he tugged and twisted, and at last, after several tense minutes, the paper came free."
+    "It was no easy task."
    ]
   },
   {
-   "begin": "626.000",
+   "begin": "612.920",
    "children": [],
-   "end": "635.040",
-   "id": "f000075",
+   "end": "618.200",
+   "id": "f000126",
    "language": "eng",
    "lines": [
-    "It was a page torn from a very old library book. Harry smoothed it out eagerly and Ron leaned close to read it too."
+    "Hermione's hand was clamped so tightly around the paper that Harry was sure he was going to tear it."
+   ]
+  },
+  {
+   "begin": "618.200",
+   "children": [],
+   "end": "625.040",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "While Ron kept watch he tugged and twisted, and at last, after several tense minutes, the paper came free."
+   ]
+  },
+  {
+   "begin": "625.040",
+   "children": [],
+   "end": "629.280",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "It was a page torn from a very old library book."
+   ]
+  },
+  {
+   "begin": "629.280",
+   "children": [],
+   "end": "635.040",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "Harry smoothed it out eagerly and Ron leaned close to read it too."
    ]
   },
   {
    "begin": "635.040",
    "children": [],
    "end": "638.880",
-   "id": "f000076",
+   "id": "f000130",
    "language": "eng",
    "lines": [
     "Of the many fearsome beasts and monsters that roam our land,"
@@ -764,7 +1304,7 @@
    "begin": "638.880",
    "children": [],
    "end": "643.000",
-   "id": "f000077",
+   "id": "f000131",
    "language": "eng",
    "lines": [
     "there is none more curious or more deadly than the Basilisk,"
@@ -773,18 +1313,28 @@
   {
    "begin": "643.000",
    "children": [],
-   "end": "647.280",
-   "id": "f000078",
+   "end": "645.680",
+   "id": "f000132",
    "language": "eng",
    "lines": [
-    "known also as the King of Serpents. This snake, which may"
+    "known also as the King of Serpents."
+   ]
+  },
+  {
+   "begin": "645.680",
+   "children": [],
+   "end": "647.280",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "This snake, which may"
    ]
   },
   {
    "begin": "647.280",
    "children": [],
    "end": "651.040",
-   "id": "f000079",
+   "id": "f000134",
    "language": "eng",
    "lines": [
     "reach gigantic size, and live many hundreds of years, is born"
@@ -793,48 +1343,68 @@
   {
    "begin": "651.040",
    "children": [],
-   "end": "655.080",
-   "id": "f000080",
+   "end": "654.240",
+   "id": "f000135",
    "language": "eng",
    "lines": [
-    "from a chicken's egg, hatched beneath a toad. Its methods of"
+    "from a chicken's egg, hatched beneath a toad."
+   ]
+  },
+  {
+   "begin": "654.240",
+   "children": [],
+   "end": "655.080",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Its methods of"
    ]
   },
   {
    "begin": "655.080",
    "children": [],
-   "end": "658.880",
-   "id": "f000081",
+   "end": "658.840",
+   "id": "f000137",
    "language": "eng",
    "lines": [
     "killing are most wondrous, for aside from its deadly and ven-"
    ]
   },
   {
-   "begin": "658.880",
+   "begin": "658.840",
    "children": [],
-   "end": "663.080",
-   "id": "f000082",
+   "end": "663.040",
+   "id": "f000138",
    "language": "eng",
    "lines": [
     "omous fangs, the Basilisk has a murderous stare, and all who are"
    ]
   },
   {
-   "begin": "663.080",
+   "begin": "663.040",
    "children": [],
-   "end": "667.800",
-   "id": "f000083",
+   "end": "666.400",
+   "id": "f000139",
    "language": "eng",
    "lines": [
-    "fixed with the beam of its eye shall suffer instant death. Spiders"
+    "fixed with the beam of its eye shall suffer instant death."
    ]
   },
   {
-   "begin": "667.800",
+   "begin": "666.400",
+   "children": [],
+   "end": "668.120",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "Spiders"
+   ]
+  },
+  {
+   "begin": "668.120",
    "children": [],
    "end": "671.680",
-   "id": "f000084",
+   "id": "f000141",
    "language": "eng",
    "lines": [
     "flee before the Basilisk, for it is their mortal enemy, and the"
@@ -844,7 +1414,7 @@
    "begin": "671.680",
    "children": [],
    "end": "675.640",
-   "id": "f000085",
+   "id": "f000142",
    "language": "eng",
    "lines": [
     "Basilisk flees only from the crowing of the rooster, which is fatal"
@@ -853,48 +1423,98 @@
   {
    "begin": "675.640",
    "children": [],
-   "end": "677.480",
-   "id": "f000086",
+   "end": "676.200",
+   "id": "f000143",
    "language": "eng",
    "lines": [
     "to it."
    ]
   },
   {
-   "begin": "677.480",
+   "begin": "676.200",
    "children": [],
-   "end": "684.760",
-   "id": "f000087",
+   "end": "682.040",
+   "id": "f000144",
    "language": "eng",
    "lines": [
-    "And beneath this, a single word had been written, in a hand Harry recognised as Hermione's. Pipes."
+    "And beneath this, a single word had been written, in a hand Harry recognised as Hermione's."
    ]
   },
   {
-   "begin": "684.760",
+   "begin": "682.040",
    "children": [],
-   "end": "688.880",
-   "id": "f000088",
+   "end": "683.800",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "Pipes."
+   ]
+  },
+  {
+   "begin": "683.800",
+   "children": [],
+   "end": "688.560",
+   "id": "f000146",
    "language": "eng",
    "lines": [
     "It was as though somebody had just flicked a light on in his brain."
    ]
   },
   {
-   "begin": "688.880",
+   "begin": "688.560",
    "children": [],
-   "end": "705.680",
-   "id": "f000089",
+   "end": "691.520",
+   "id": "f000147",
    "language": "eng",
    "lines": [
-    "'Ron,' he breathed, 'this is it. This is the answer. The monster in the Chamber's a Basilisk - a giant serpent! That's why I've been hearing that voice all over the place, and nobody else has heard it. It's because I understand Parseltongue ...'"
+    "'Ron,' he breathed, 'this is it."
+   ]
+  },
+  {
+   "begin": "691.520",
+   "children": [],
+   "end": "693.240",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "This is the answer."
+   ]
+  },
+  {
+   "begin": "693.240",
+   "children": [],
+   "end": "697.880",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "The monster in the Chamber's a Basilisk - a giant serpent!"
+   ]
+  },
+  {
+   "begin": "697.880",
+   "children": [],
+   "end": "703.120",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "That's why I've been hearing that voice all over the place, and nobody else has heard it."
+   ]
+  },
+  {
+   "begin": "703.120",
+   "children": [],
+   "end": "705.680",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "It's because I understand Parseltongue ...'"
    ]
   },
   {
    "begin": "705.680",
    "children": [],
    "end": "708.360",
-   "id": "f000090",
+   "id": "f000152",
    "language": "eng",
    "lines": [
     "Harry looked up at the beds around him."
@@ -903,18 +1523,108 @@
   {
    "begin": "708.360",
    "children": [],
-   "end": "751.000",
-   "id": "f000091",
+   "end": "711.960",
+   "id": "f000153",
    "language": "eng",
    "lines": [
-    "'The Basilisk kills people by looking at them. But no one's died - because no one looked it straight in the eye. Colin saw it through his camera. The Basilisk burned up all the film inside it, but Colin just got Petrified. Justin ... Justin must've seen the Basilisk through Nearly Headless Nick! Nick got the full blast of it, but he couldn't die again ... and Hermione and that Ravenclaw Prefect were found with a mirror next to them. Hermione had just realised the monster was a Basilisk. I bet you anything she warned the first person she met to look round corners with a mirror first! And that girl pulled out her mirror - and -'"
+    "'The Basilisk kills people by looking at them."
+   ]
+  },
+  {
+   "begin": "711.960",
+   "children": [],
+   "end": "716.440",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "But no one's died - because no one looked it straight in the eye."
+   ]
+  },
+  {
+   "begin": "716.440",
+   "children": [],
+   "end": "718.520",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "Colin saw it through his camera."
+   ]
+  },
+  {
+   "begin": "718.520",
+   "children": [],
+   "end": "724.560",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "The Basilisk burned up all the film inside it, but Colin just got Petrified."
+   ]
+  },
+  {
+   "begin": "724.560",
+   "children": [],
+   "end": "725.880",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "Justin ..."
+   ]
+  },
+  {
+   "begin": "725.880",
+   "children": [],
+   "end": "729.600",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "Justin must've seen the Basilisk through Nearly Headless Nick!"
+   ]
+  },
+  {
+   "begin": "729.600",
+   "children": [],
+   "end": "738.760",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "Nick got the full blast of it, but he couldn't die again ... and Hermione and that Ravenclaw Prefect were found with a mirror next to them."
+   ]
+  },
+  {
+   "begin": "738.760",
+   "children": [],
+   "end": "742.000",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "Hermione had just realised the monster was a Basilisk."
+   ]
+  },
+  {
+   "begin": "742.000",
+   "children": [],
+   "end": "748.000",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "I bet you anything she warned the first person she met to look round corners with a mirror first!"
+   ]
+  },
+  {
+   "begin": "748.000",
+   "children": [],
+   "end": "751.000",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "And that girl pulled out her mirror - and -'"
    ]
   },
   {
    "begin": "751.000",
    "children": [],
    "end": "753.080",
-   "id": "f000092",
+   "id": "f000163",
    "language": "eng",
    "lines": [
     "Ron's jaw had dropped."
@@ -923,18 +1633,18 @@
   {
    "begin": "753.080",
    "children": [],
-   "end": "757.240",
-   "id": "f000093",
+   "end": "756.280",
+   "id": "f000164",
    "language": "eng",
    "lines": [
     "'And Mrs Norris?' he whispered eagerly."
    ]
   },
   {
-   "begin": "757.240",
+   "begin": "756.280",
    "children": [],
    "end": "761.320",
-   "id": "f000094",
+   "id": "f000165",
    "language": "eng",
    "lines": [
     "Harry thought hard, picturing the scene on the night of Hallowe'en."
@@ -943,48 +1653,128 @@
   {
    "begin": "761.320",
    "children": [],
-   "end": "771.360",
-   "id": "f000095",
+   "end": "767.200",
+   "id": "f000166",
    "language": "eng",
    "lines": [
-    "'The water ...' he said slowly, 'the flood from Moaning Myrtle's bathroom. I bet you Mrs Norris only saw the reflection ...'"
+    "'The water ...' he said slowly, 'the flood from Moaning Myrtle's bathroom."
+   ]
+  },
+  {
+   "begin": "767.200",
+   "children": [],
+   "end": "771.360",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "I bet you Mrs Norris only saw the reflection ...'"
    ]
   },
   {
    "begin": "771.360",
    "children": [],
-   "end": "776.400",
-   "id": "f000096",
+   "end": "774.080",
+   "id": "f000168",
    "language": "eng",
    "lines": [
-    "He scanned the page in his hand eagerly. The more he looked at it, the more it made sense."
+    "He scanned the page in his hand eagerly."
+   ]
+  },
+  {
+   "begin": "774.080",
+   "children": [],
+   "end": "776.400",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "The more he looked at it, the more it made sense."
    ]
   },
   {
    "begin": "776.400",
    "children": [],
-   "end": "792.080",
-   "id": "f000097",
+   "end": "780.840",
+   "id": "f000170",
    "language": "eng",
    "lines": [
-    "'The Basilisk flees only from the crowing of the rooster, which is fatal to it!' he read aloud. 'Hagrid's roosters were killed! The heir of Slytherin didn't want one anywhere near the castle once the Chamber was opened! Spiders flee before the Basilisk! It all fits!'"
+    "'The Basilisk flees only from the crowing of the rooster, which is fatal to it!' he read aloud."
+   ]
+  },
+  {
+   "begin": "780.840",
+   "children": [],
+   "end": "783.280",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "'Hagrid's roosters were killed!"
+   ]
+  },
+  {
+   "begin": "783.280",
+   "children": [],
+   "end": "788.080",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "The heir of Slytherin didn't want one anywhere near the castle once the Chamber was opened!"
+   ]
+  },
+  {
+   "begin": "788.080",
+   "children": [],
+   "end": "790.720",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "Spiders flee before the Basilisk!"
+   ]
+  },
+  {
+   "begin": "790.720",
+   "children": [],
+   "end": "792.080",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "It all fits!'"
    ]
   },
   {
    "begin": "792.080",
    "children": [],
-   "end": "798.200",
-   "id": "f000098",
+   "end": "795.680",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "'But how's the Basilisk been getting around the place?' said Ron. 'A dirty great snake ... Someone would've seen ...'"
+    "'But how's the Basilisk been getting around the place?' said Ron."
+   ]
+  },
+  {
+   "begin": "795.680",
+   "children": [],
+   "end": "797.040",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "'A dirty great snake ..."
+   ]
+  },
+  {
+   "begin": "797.040",
+   "children": [],
+   "end": "798.200",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "Someone would've seen ...'"
    ]
   },
   {
    "begin": "798.200",
    "children": [],
    "end": "802.960",
-   "id": "f000099",
+   "id": "f000178",
    "language": "eng",
    "lines": [
     "Harry, however, pointed at the word Hermione had scribbled at the foot of the page."
@@ -993,38 +1783,88 @@
   {
    "begin": "802.960",
    "children": [],
-   "end": "813.480",
-   "id": "f000100",
+   "end": "805.440",
+   "id": "f000179",
    "language": "eng",
    "lines": [
-    "'Pipes,' he said. 'Pipes ... Ron, it's been using the plumbing. I've been hearing that voice inside the walls ...'"
+    "'Pipes,' he said."
    ]
   },
   {
-   "begin": "813.480",
+   "begin": "805.440",
    "children": [],
-   "end": "815.760",
-   "id": "f000101",
+   "end": "806.560",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "'Pipes ..."
+   ]
+  },
+  {
+   "begin": "806.560",
+   "children": [],
+   "end": "809.080",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "Ron, it's been using the plumbing."
+   ]
+  },
+  {
+   "begin": "809.080",
+   "children": [],
+   "end": "812.560",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "I've been hearing that voice inside the walls ...'"
+   ]
+  },
+  {
+   "begin": "812.560",
+   "children": [],
+   "end": "815.200",
+   "id": "f000183",
    "language": "eng",
    "lines": [
     "Ron suddenly grabbed Harry's arm."
    ]
   },
   {
-   "begin": "815.760",
+   "begin": "815.200",
    "children": [],
-   "end": "821.080",
-   "id": "f000102",
+   "end": "818.720",
+   "id": "f000184",
    "language": "eng",
    "lines": [
-    "'The entrance to the Chamber of Secrets!' he said hoarsely. 'What if it's a bathroom? What if it's in -'"
+    "'The entrance to the Chamber of Secrets!' he said hoarsely."
+   ]
+  },
+  {
+   "begin": "818.720",
+   "children": [],
+   "end": "820.320",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "'What if it's a bathroom?"
+   ]
+  },
+  {
+   "begin": "820.320",
+   "children": [],
+   "end": "821.080",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "What if it's in -'"
    ]
   },
   {
    "begin": "821.080",
    "children": [],
    "end": "824.760",
-   "id": "f000103",
+   "id": "f000187",
    "language": "eng",
    "lines": [
     "'- Moaning Myrtle's bathroom,' said Harry."
@@ -1034,7 +1874,7 @@
    "begin": "824.760",
    "children": [],
    "end": "829.960",
-   "id": "f000104",
+   "id": "f000188",
    "language": "eng",
    "lines": [
     "They sat there, excitement coursing through them, hardly able to believe it."
@@ -1043,58 +1883,128 @@
   {
    "begin": "829.960",
    "children": [],
-   "end": "838.800",
-   "id": "f000105",
+   "end": "834.160",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "'This means,' said Harry, 'I can't be the only Parselmouth in the school. The heir of Slytherin's one, too. That's how they've been controlling the Basilisk.'"
+    "'This means,' said Harry, 'I can't be the only Parselmouth in the school."
+   ]
+  },
+  {
+   "begin": "834.160",
+   "children": [],
+   "end": "836.320",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "The heir of Slytherin's one, too."
+   ]
+  },
+  {
+   "begin": "836.320",
+   "children": [],
+   "end": "838.800",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "That's how they've been controlling the Basilisk.'"
    ]
   },
   {
    "begin": "838.800",
    "children": [],
-   "end": "844.720",
-   "id": "f000106",
+   "end": "842.320",
+   "id": "f000192",
    "language": "eng",
    "lines": [
-    "'What're we going to do?' said Ron, whose eyes were flashing. 'Shall we go straight to McGonagall?'"
+    "'What're we going to do?' said Ron, whose eyes were flashing."
    ]
   },
   {
-   "begin": "844.720",
+   "begin": "842.320",
    "children": [],
-   "end": "850.040",
-   "id": "f000107",
+   "end": "843.960",
+   "id": "f000193",
    "language": "eng",
    "lines": [
-    "'Let's go to the staff room,' said Harry, jumping up. 'She'll be there in ten minutes, it's nearly break.'"
+    "'Shall we go straight to McGonagall?'"
+   ]
+  },
+  {
+   "begin": "843.960",
+   "children": [],
+   "end": "847.880",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "'Let's go to the staff room,' said Harry, jumping up."
+   ]
+  },
+  {
+   "begin": "847.880",
+   "children": [],
+   "end": "850.040",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "'She'll be there in ten minutes, it's nearly break.'"
    ]
   },
   {
    "begin": "850.040",
    "children": [],
-   "end": "865.560",
-   "id": "f000108",
+   "end": "852.280",
+   "id": "f000196",
    "language": "eng",
    "lines": [
-    "They ran downstairs. Not wanting to be discovered hanging around in another corridor, they went straight into the deserted staff room. It was a large, panelled room full of dark wooden chairs. Harry and Ron paced around it, too excited to sit down."
+    "They ran downstairs."
+   ]
+  },
+  {
+   "begin": "852.280",
+   "children": [],
+   "end": "858.040",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "Not wanting to be discovered hanging around in another corridor, they went straight into the deserted staff room."
+   ]
+  },
+  {
+   "begin": "858.040",
+   "children": [],
+   "end": "861.840",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "It was a large, panelled room full of dark wooden chairs."
+   ]
+  },
+  {
+   "begin": "861.840",
+   "children": [],
+   "end": "865.560",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "Harry and Ron paced around it, too excited to sit down."
    ]
   },
   {
    "begin": "865.560",
    "children": [],
-   "end": "869.360",
-   "id": "f000109",
+   "end": "868.680",
+   "id": "f000200",
    "language": "eng",
    "lines": [
     "But the bell to signal break never came."
    ]
   },
   {
-   "begin": "869.360",
+   "begin": "868.680",
    "children": [],
    "end": "875.000",
-   "id": "f000110",
+   "id": "f000201",
    "language": "eng",
    "lines": [
     "Instead, echoing through the corridors came Professor McGonagall's voice, magically magnified."
@@ -1103,18 +2013,38 @@
   {
    "begin": "875.000",
    "children": [],
-   "end": "884.560",
-   "id": "f000111",
+   "end": "879.680",
+   "id": "f000202",
    "language": "eng",
    "lines": [
-    "'All students to return to their house dormitories at once. All teachers return to the staff room. Immediately, please.'"
+    "'All students to return to their house dormitories at once."
    ]
   },
   {
-   "begin": "884.560",
+   "begin": "879.680",
+   "children": [],
+   "end": "882.440",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "All teachers return to the staff room."
+   ]
+  },
+  {
+   "begin": "882.440",
+   "children": [],
+   "end": "883.760",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Immediately, please.'"
+   ]
+  },
+  {
+   "begin": "883.760",
    "children": [],
    "end": "886.600",
-   "id": "f000112",
+   "id": "f000205",
    "language": "eng",
    "lines": [
     "Harry wheeled around to stare at Ron."
@@ -1123,78 +2053,228 @@
   {
    "begin": "886.600",
    "children": [],
-   "end": "890.440",
-   "id": "f000113",
+   "end": "888.600",
+   "id": "f000206",
    "language": "eng",
    "lines": [
-    "'Not another attack? Not now?'"
+    "'Not another attack?"
    ]
   },
   {
-   "begin": "890.440",
+   "begin": "888.600",
    "children": [],
-   "end": "894.040",
-   "id": "f000114",
+   "end": "889.600",
+   "id": "f000207",
    "language": "eng",
    "lines": [
-    "'What'll we do?' said Ron, aghast. 'Go back to the dormitory?'"
+    "Not now?'"
+   ]
+  },
+  {
+   "begin": "889.600",
+   "children": [],
+   "end": "892.760",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "'What'll we do?' said Ron, aghast."
+   ]
+  },
+  {
+   "begin": "892.760",
+   "children": [],
+   "end": "894.040",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "'Go back to the dormitory?'"
    ]
   },
   {
    "begin": "894.040",
    "children": [],
-   "end": "905.720",
-   "id": "f000115",
+   "end": "896.560",
+   "id": "f000210",
    "language": "eng",
    "lines": [
-    "'No,' said Harry, glancing around. There was an ugly sort of wardrobe to his left, full of the teachers' cloaks. 'In here. Let's hear what it's all about. Then we can tell them what we've found out.'"
+    "'No,' said Harry, glancing around."
+   ]
+  },
+  {
+   "begin": "896.560",
+   "children": [],
+   "end": "900.720",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "There was an ugly sort of wardrobe to his left, full of the teachers' cloaks."
+   ]
+  },
+  {
+   "begin": "900.720",
+   "children": [],
+   "end": "902.040",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "'In here."
+   ]
+  },
+  {
+   "begin": "902.040",
+   "children": [],
+   "end": "903.760",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "Let's hear what it's all about."
+   ]
+  },
+  {
+   "begin": "903.760",
+   "children": [],
+   "end": "905.720",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "Then we can tell them what we've found out.'"
    ]
   },
   {
    "begin": "905.720",
    "children": [],
-   "end": "926.200",
-   "id": "f000116",
+   "end": "913.680",
+   "id": "f000215",
    "language": "eng",
    "lines": [
-    "They hid themselves inside it, listening to the rumbling of hundreds of people moving overhead, and the staff-room door banging open. From between the musty folds of the cloaks, they watched the teachers filtering into the room. Some of them were looking puzzled, others downright scared. Then Professor McGonagall arrived."
+    "They hid themselves inside it, listening to the rumbling of hundreds of people moving overhead, and the staff-room door banging open."
    ]
   },
   {
-   "begin": "926.200",
+   "begin": "913.680",
    "children": [],
-   "end": "935.360",
-   "id": "f000117",
+   "end": "919.120",
+   "id": "f000216",
    "language": "eng",
    "lines": [
-    "'It has happened,' she told the silent staff room. 'A student has been taken by the monster. Right into the Chamber itself.'"
+    "From between the musty folds of the cloaks, they watched the teachers filtering into the room."
+   ]
+  },
+  {
+   "begin": "919.120",
+   "children": [],
+   "end": "922.880",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "Some of them were looking puzzled, others downright scared."
+   ]
+  },
+  {
+   "begin": "922.880",
+   "children": [],
+   "end": "925.320",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "Then Professor McGonagall arrived."
+   ]
+  },
+  {
+   "begin": "925.320",
+   "children": [],
+   "end": "929.360",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "'It has happened,' she told the silent staff room."
+   ]
+  },
+  {
+   "begin": "929.360",
+   "children": [],
+   "end": "932.440",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "'A student has been taken by the monster."
+   ]
+  },
+  {
+   "begin": "932.440",
+   "children": [],
+   "end": "935.360",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "Right into the Chamber itself.'"
    ]
   },
   {
    "begin": "935.360",
    "children": [],
-   "end": "946.480",
-   "id": "f000118",
+   "end": "938.600",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "Professor Flitwick let out a squeal. Professor Sprout clapped her hands over her mouth. Snape gripped the back of a chair very hard and said, 'How can you be sure?'"
+    "Professor Flitwick let out a squeal."
+   ]
+  },
+  {
+   "begin": "938.600",
+   "children": [],
+   "end": "941.400",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "Professor Sprout clapped her hands over her mouth."
+   ]
+  },
+  {
+   "begin": "941.400",
+   "children": [],
+   "end": "946.480",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "Snape gripped the back of a chair very hard and said, 'How can you be sure?'"
    ]
   },
   {
    "begin": "946.480",
    "children": [],
-   "end": "959.040",
-   "id": "f000119",
+   "end": "952.760",
+   "id": "f000225",
    "language": "eng",
    "lines": [
-    "'The heir of Slytherin,' said Professor McGonagall, who was very white, 'left another message. Right underneath the first one. Her skeleton will lie in the Chamber for ever.'"
+    "'The heir of Slytherin,' said Professor McGonagall, who was very white, 'left another message."
+   ]
+  },
+  {
+   "begin": "952.760",
+   "children": [],
+   "end": "954.840",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "Right underneath the first one."
+   ]
+  },
+  {
+   "begin": "954.840",
+   "children": [],
+   "end": "959.040",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "Her skeleton will lie in the Chamber for ever.'"
    ]
   },
   {
    "begin": "959.040",
    "children": [],
    "end": "962.240",
-   "id": "f000120",
+   "id": "f000228",
    "language": "eng",
    "lines": [
     "Professor Flitwick burst into tears."
@@ -1203,18 +2283,28 @@
   {
    "begin": "962.240",
    "children": [],
-   "end": "967.960",
-   "id": "f000121",
+   "end": "966.840",
+   "id": "f000229",
    "language": "eng",
    "lines": [
-    "'Who is it?' said Madam Hooch, who had sunk, weak-kneed into a chair. 'Which student?'"
+    "'Who is it?' said Madam Hooch, who had sunk, weak-kneed into a chair."
+   ]
+  },
+  {
+   "begin": "966.840",
+   "children": [],
+   "end": "967.960",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "'Which student?'"
    ]
   },
   {
    "begin": "967.960",
    "children": [],
    "end": "972.280",
-   "id": "f000122",
+   "id": "f000231",
    "language": "eng",
    "lines": [
     "'Ginny Weasley,' said Professor McGonagall."
@@ -1224,7 +2314,7 @@
    "begin": "972.280",
    "children": [],
    "end": "977.560",
-   "id": "f000123",
+   "id": "f000232",
    "language": "eng",
    "lines": [
     "Harry felt Ron slide silently down onto the wardrobe floor beside him."
@@ -1233,28 +2323,68 @@
   {
    "begin": "977.560",
    "children": [],
-   "end": "987.240",
-   "id": "f000124",
+   "end": "982.920",
+   "id": "f000233",
    "language": "eng",
    "lines": [
-    "'We shall have to send all the students home tomorrow,' said Professor McGonagall. 'This is the end of Hogwarts. Dumbledore always said ...'"
+    "'We shall have to send all the students home tomorrow,' said Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "982.920",
+   "children": [],
+   "end": "985.440",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "'This is the end of Hogwarts."
+   ]
+  },
+  {
+   "begin": "985.440",
+   "children": [],
+   "end": "987.240",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "Dumbledore always said ...'"
    ]
   },
   {
    "begin": "987.240",
    "children": [],
-   "end": "996.320",
-   "id": "f000125",
+   "end": "990.240",
+   "id": "f000236",
    "language": "eng",
    "lines": [
-    "The staff-room door banged open again. For one wild moment, Harry was sure it would be Dumbledore. But it was Lockhart, and he was beaming."
+    "The staff-room door banged open again."
+   ]
+  },
+  {
+   "begin": "990.240",
+   "children": [],
+   "end": "993.120",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "For one wild moment, Harry was sure it would be Dumbledore."
+   ]
+  },
+  {
+   "begin": "993.120",
+   "children": [],
+   "end": "996.320",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "But it was Lockhart, and he was beaming."
    ]
   },
   {
    "begin": "996.320",
    "children": [],
    "end": "1000.880",
-   "id": "f000126",
+   "id": "f000239",
    "language": "eng",
    "lines": [
     "'So sorry - dozed off - what have I missed?'"
@@ -1263,28 +2393,78 @@
   {
    "begin": "1000.880",
    "children": [],
-   "end": "1009.680",
-   "id": "f000127",
+   "end": "1007.800",
+   "id": "f000240",
    "language": "eng",
    "lines": [
-    "He didn't seem to notice that the other teachers were looking at him with something remarkably like hatred. Snape stepped forward."
+    "He didn't seem to notice that the other teachers were looking at him with something remarkably like hatred."
+   ]
+  },
+  {
+   "begin": "1007.800",
+   "children": [],
+   "end": "1009.680",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "Snape stepped forward."
    ]
   },
   {
    "begin": "1009.680",
    "children": [],
-   "end": "1023.640",
-   "id": "f000128",
+   "end": "1012.240",
+   "id": "f000242",
    "language": "eng",
    "lines": [
-    "'Just the man,' he said. 'The very man. A girl has been snatched by the monster, Lockhart. Taken into the Chamber of Secrets itself. Your moment has come at last.'"
+    "'Just the man,' he said."
+   ]
+  },
+  {
+   "begin": "1012.240",
+   "children": [],
+   "end": "1013.840",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "'The very man."
+   ]
+  },
+  {
+   "begin": "1013.840",
+   "children": [],
+   "end": "1017.480",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "A girl has been snatched by the monster, Lockhart."
+   ]
+  },
+  {
+   "begin": "1017.480",
+   "children": [],
+   "end": "1020.440",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "Taken into the Chamber of Secrets itself."
+   ]
+  },
+  {
+   "begin": "1020.440",
+   "children": [],
+   "end": "1023.640",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "Your moment has come at last.'"
    ]
   },
   {
    "begin": "1023.640",
    "children": [],
    "end": "1025.960",
-   "id": "f000129",
+   "id": "f000247",
    "language": "eng",
    "lines": [
     "Lockhart blanched."
@@ -1293,18 +2473,28 @@
   {
    "begin": "1025.960",
    "children": [],
-   "end": "1036.120",
-   "id": "f000130",
+   "end": "1029.680",
+   "id": "f000248",
    "language": "eng",
    "lines": [
-    "'That's right, Gilderoy,' chipped in Professor Sprout. 'Weren't you saying just last night that you've known all along where the entrance to the Chamber of Secrets is?'"
+    "'That's right, Gilderoy,' chipped in Professor Sprout."
+   ]
+  },
+  {
+   "begin": "1029.680",
+   "children": [],
+   "end": "1036.120",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "'Weren't you saying just last night that you've known all along where the entrance to the Chamber of Secrets is?'"
    ]
   },
   {
    "begin": "1036.120",
    "children": [],
    "end": "1040.480",
-   "id": "f000131",
+   "id": "f000250",
    "language": "eng",
    "lines": [
     "'I - well, I -' spluttered Lockhart."
@@ -1314,7 +2504,7 @@
    "begin": "1040.480",
    "children": [],
    "end": "1047.120",
-   "id": "f000132",
+   "id": "f000251",
    "language": "eng",
    "lines": [
     "'Yes, didn't you tell me you were sure you knew what was inside it?' piped up Professor Flitwick."
@@ -1323,28 +2513,48 @@
   {
    "begin": "1047.120",
    "children": [],
-   "end": "1050.640",
-   "id": "f000133",
+   "end": "1048.400",
+   "id": "f000252",
    "language": "eng",
    "lines": [
-    "'D-did I? I don't recall ...'"
+    "'D-did I?"
+   ]
+  },
+  {
+   "begin": "1048.400",
+   "children": [],
+   "end": "1050.640",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "I don't recall ...'"
    ]
   },
   {
    "begin": "1050.640",
    "children": [],
-   "end": "1067.160",
-   "id": "f000134",
+   "end": "1059.640",
+   "id": "f000254",
    "language": "eng",
    "lines": [
-    "'I certainly remember you saying you were sorry you hadn't had a crack at the monster before Hagrid was arrested,' said Snape. 'Didn't you say that the whole affair had been bungled, and that you should have been given a free rein from the first?'"
+    "'I certainly remember you saying you were sorry you hadn't had a crack at the monster before Hagrid was arrested,' said Snape."
+   ]
+  },
+  {
+   "begin": "1059.640",
+   "children": [],
+   "end": "1067.160",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "'Didn't you say that the whole affair had been bungled, and that you should have been given a free rein from the first?'"
    ]
   },
   {
    "begin": "1067.160",
    "children": [],
    "end": "1070.880",
-   "id": "f000135",
+   "id": "f000256",
    "language": "eng",
    "lines": [
     "Lockhart stared around at his stony-faced colleagues."
@@ -1353,48 +2563,138 @@
   {
    "begin": "1070.880",
    "children": [],
-   "end": "1076.040",
-   "id": "f000136",
+   "end": "1071.840",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "'I ... I really never ... You may have misunderstood ...'"
+    "'I ..."
+   ]
+  },
+  {
+   "begin": "1071.840",
+   "children": [],
+   "end": "1073.280",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "I really never ..."
+   ]
+  },
+  {
+   "begin": "1073.280",
+   "children": [],
+   "end": "1076.040",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "You may have misunderstood ...'"
    ]
   },
   {
    "begin": "1076.040",
    "children": [],
-   "end": "1092.720",
-   "id": "f000137",
+   "end": "1080.920",
+   "id": "f000260",
    "language": "eng",
    "lines": [
-    "'We'll leave it to you, then, Gilderoy,' said Professor McGonagall. 'Tonight will be an excellent time to do it. We'll make sure everyone's out of your way. You'll be able to tackle the monster all by yourself. A free rein at last.'"
+    "'We'll leave it to you, then, Gilderoy,' said Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "1080.920",
+   "children": [],
+   "end": "1083.760",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "'Tonight will be an excellent time to do it."
+   ]
+  },
+  {
+   "begin": "1083.760",
+   "children": [],
+   "end": "1086.760",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "We'll make sure everyone's out of your way."
+   ]
+  },
+  {
+   "begin": "1086.760",
+   "children": [],
+   "end": "1090.840",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "You'll be able to tackle the monster all by yourself."
+   ]
+  },
+  {
+   "begin": "1090.840",
+   "children": [],
+   "end": "1092.720",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "A free rein at last.'"
    ]
   },
   {
    "begin": "1092.720",
    "children": [],
-   "end": "1106.400",
-   "id": "f000138",
+   "end": "1097.760",
+   "id": "f000265",
    "language": "eng",
    "lines": [
-    "Lockhart gazed desperately around him, but nobody came to the rescue. He didn't look remotely handsome any more. His lip was trembling, and in the absence of his usually toothy grin he looked weak-chinned and weedy."
+    "Lockhart gazed desperately around him, but nobody came to the rescue."
    ]
   },
   {
-   "begin": "1106.400",
+   "begin": "1097.760",
    "children": [],
-   "end": "1113.760",
-   "id": "f000139",
+   "end": "1100.240",
+   "id": "f000266",
    "language": "eng",
    "lines": [
-    "'V-very well,' he said. 'I'll - I'll be in my office, getting - getting ready.'"
+    "He didn't look remotely handsome any more."
+   ]
+  },
+  {
+   "begin": "1100.240",
+   "children": [],
+   "end": "1106.440",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "His lip was trembling, and in the absence of his usually toothy grin he looked weak-chinned and weedy."
+   ]
+  },
+  {
+   "begin": "1106.440",
+   "children": [],
+   "end": "1109.000",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "'V-very well,' he said."
+   ]
+  },
+  {
+   "begin": "1109.000",
+   "children": [],
+   "end": "1113.760",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "'I'll - I'll be in my office, getting - getting ready.'"
    ]
   },
   {
    "begin": "1113.760",
    "children": [],
    "end": "1115.560",
-   "id": "f000140",
+   "id": "f000270",
    "language": "eng",
    "lines": [
     "And he left the room."
@@ -1403,58 +2703,218 @@
   {
    "begin": "1115.560",
    "children": [],
-   "end": "1136.840",
-   "id": "f000141",
+   "end": "1122.120",
+   "id": "f000271",
    "language": "eng",
    "lines": [
-    "'Right,' said Professor McGonagall, whose nostrils were flared, 'that's got him out from under our feet. The Heads of Houses should go and inform their students what has happened. Tell them the Hogwarts Express will take them home first thing tomorrow. Will the rest of you please make sure no students have been left outside their dormitories.'"
+    "'Right,' said Professor McGonagall, whose nostrils were flared, 'that's got him out from under our feet."
+   ]
+  },
+  {
+   "begin": "1122.120",
+   "children": [],
+   "end": "1126.480",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "The Heads of Houses should go and inform their students what has happened."
+   ]
+  },
+  {
+   "begin": "1126.480",
+   "children": [],
+   "end": "1130.720",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "Tell them the Hogwarts Express will take them home first thing tomorrow."
+   ]
+  },
+  {
+   "begin": "1130.720",
+   "children": [],
+   "end": "1136.840",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "Will the rest of you please make sure no students have been left outside their dormitories.'"
    ]
   },
   {
    "begin": "1136.840",
    "children": [],
-   "end": "1159.680",
-   "id": "f000142",
+   "end": "1146.640",
+   "id": "f000275",
    "language": "eng",
    "lines": [
-    "The teachers rose, and left one by one. * It was probably the worst day of Harry's entire life. He, Ron, Fred and George sat together in a corner of the Gryffindor common room, unable to say anything to each other. Percy wasn't there. He had gone to send an owl to Mr and Mrs Weasley, then shut himself up in his dormitory."
+    "The teachers rose, and left one by one. * It was probably the worst day of Harry's entire life."
+   ]
+  },
+  {
+   "begin": "1146.640",
+   "children": [],
+   "end": "1153.040",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "He, Ron, Fred and George sat together in a corner of the Gryffindor common room, unable to say anything to each other."
+   ]
+  },
+  {
+   "begin": "1153.040",
+   "children": [],
+   "end": "1154.320",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "Percy wasn't there."
+   ]
+  },
+  {
+   "begin": "1154.320",
+   "children": [],
+   "end": "1159.680",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "He had gone to send an owl to Mr and Mrs Weasley, then shut himself up in his dormitory."
    ]
   },
   {
    "begin": "1159.680",
    "children": [],
-   "end": "1172.200",
-   "id": "f000143",
+   "end": "1167.320",
+   "id": "f000279",
    "language": "eng",
    "lines": [
-    "No afternoon ever lasted as long as that one, nor had Gryffindor Tower ever been so crowded, yet so quiet. Near sunset, Fred and George went up to bed, unable to sit there any longer."
+    "No afternoon ever lasted as long as that one, nor had Gryffindor Tower ever been so crowded, yet so quiet."
+   ]
+  },
+  {
+   "begin": "1167.320",
+   "children": [],
+   "end": "1172.200",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "Near sunset, Fred and George went up to bed, unable to sit there any longer."
    ]
   },
   {
    "begin": "1172.200",
    "children": [],
-   "end": "1195.160",
-   "id": "f000144",
+   "end": "1179.920",
+   "id": "f000281",
    "language": "eng",
    "lines": [
-    "'She knew something, Harry,' said Ron, speaking for the first time since they had entered the wardrobe in the staff room. 'That's why she was taken. It wasn't some stupid thing about Percy at all. She'd found out something about the Chamber of Secrets. That must be why she was -' Ron rubbed his eyes frantically. 'I mean, she was a pure-blood. There can't be any other reason.'"
+    "'She knew something, Harry,' said Ron, speaking for the first time since they had entered the wardrobe in the staff room."
+   ]
+  },
+  {
+   "begin": "1179.920",
+   "children": [],
+   "end": "1181.480",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "'That's why she was taken."
+   ]
+  },
+  {
+   "begin": "1181.480",
+   "children": [],
+   "end": "1184.600",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "It wasn't some stupid thing about Percy at all."
+   ]
+  },
+  {
+   "begin": "1184.600",
+   "children": [],
+   "end": "1187.440",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "She'd found out something about the Chamber of Secrets."
+   ]
+  },
+  {
+   "begin": "1187.440",
+   "children": [],
+   "end": "1190.960",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "That must be why she was -' Ron rubbed his eyes frantically."
+   ]
+  },
+  {
+   "begin": "1190.960",
+   "children": [],
+   "end": "1193.320",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "'I mean, she was a pure-blood."
+   ]
+  },
+  {
+   "begin": "1193.320",
+   "children": [],
+   "end": "1195.160",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "There can't be any other reason.'"
    ]
   },
   {
    "begin": "1195.160",
    "children": [],
-   "end": "1205.280",
-   "id": "f000145",
+   "end": "1199.480",
+   "id": "f000288",
    "language": "eng",
    "lines": [
-    "Harry could see the sun sinking, blood red, below the skyline. This was the worst he had ever felt. If only there was something they could do. Anything."
+    "Harry could see the sun sinking, blood red, below the skyline."
+   ]
+  },
+  {
+   "begin": "1199.480",
+   "children": [],
+   "end": "1201.840",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "This was the worst he had ever felt."
+   ]
+  },
+  {
+   "begin": "1201.840",
+   "children": [],
+   "end": "1204.600",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "If only there was something they could do."
+   ]
+  },
+  {
+   "begin": "1204.600",
+   "children": [],
+   "end": "1205.280",
+   "id": "f000291",
+   "language": "eng",
+   "lines": [
+    "Anything."
    ]
   },
   {
    "begin": "1205.280",
    "children": [],
    "end": "1211.240",
-   "id": "f000146",
+   "id": "f000292",
    "language": "eng",
    "lines": [
     "'Harry,' said Ron, 'd'you think there's any chance at all she's not - you know -'"
@@ -1463,88 +2923,228 @@
   {
    "begin": "1211.240",
    "children": [],
-   "end": "1216.640",
-   "id": "f000147",
+   "end": "1213.800",
+   "id": "f000293",
    "language": "eng",
    "lines": [
-    "Harry didn't know what to say. He couldn't see how Ginny could still be alive."
+    "Harry didn't know what to say."
+   ]
+  },
+  {
+   "begin": "1213.800",
+   "children": [],
+   "end": "1216.640",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "He couldn't see how Ginny could still be alive."
    ]
   },
   {
    "begin": "1216.640",
    "children": [],
-   "end": "1227.360",
-   "id": "f000148",
+   "end": "1220.400",
+   "id": "f000295",
    "language": "eng",
    "lines": [
-    "'D'you know what?' said Ron, 'I think we should go and see Lockhart. Tell him what we know. He's going to try and get into the Chamber. We can tell him where we think it is, and tell him it's a Basilisk in there.'"
+    "'D'you know what?' said Ron, 'I think we should go and see Lockhart."
+   ]
+  },
+  {
+   "begin": "1220.400",
+   "children": [],
+   "end": "1221.240",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "Tell him what we know."
+   ]
+  },
+  {
+   "begin": "1221.240",
+   "children": [],
+   "end": "1223.440",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "He's going to try and get into the Chamber."
+   ]
+  },
+  {
+   "begin": "1223.440",
+   "children": [],
+   "end": "1227.360",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "We can tell him where we think it is, and tell him it's a Basilisk in there.'"
    ]
   },
   {
    "begin": "1227.360",
    "children": [],
-   "end": "1243.920",
-   "id": "f000149",
+   "end": "1234.040",
+   "id": "f000299",
    "language": "eng",
    "lines": [
-    "Because Harry couldn't think of anything else to do, and because he wanted to be doing something, he agreed. The Gryffindors around them were so miserable, and felt so sorry for the Weasleys, that nobody tried to stop them as they got up, crossed the room, and left through the portrait hole."
+    "Because Harry couldn't think of anything else to do, and because he wanted to be doing something, he agreed."
+   ]
+  },
+  {
+   "begin": "1234.040",
+   "children": [],
+   "end": "1243.920",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "The Gryffindors around them were so miserable, and felt so sorry for the Weasleys, that nobody tried to stop them as they got up, crossed the room, and left through the portrait hole."
    ]
   },
   {
    "begin": "1243.920",
    "children": [],
-   "end": "1254.480",
-   "id": "f000150",
+   "end": "1248.200",
+   "id": "f000301",
    "language": "eng",
    "lines": [
-    "Darkness was falling as they walked down to Lockhart's office. There seemed to be a lot of activity going on inside it. They could hear scraping, thumps and hurried footsteps."
+    "Darkness was falling as they walked down to Lockhart's office."
+   ]
+  },
+  {
+   "begin": "1248.200",
+   "children": [],
+   "end": "1251.360",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "There seemed to be a lot of activity going on inside it."
+   ]
+  },
+  {
+   "begin": "1251.360",
+   "children": [],
+   "end": "1254.480",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "They could hear scraping, thumps and hurried footsteps."
    ]
   },
   {
    "begin": "1254.480",
    "children": [],
-   "end": "1263.440",
-   "id": "f000151",
+   "end": "1258.120",
+   "id": "f000304",
    "language": "eng",
    "lines": [
-    "Harry knocked and there was a sudden silence from inside. Then the door opened the tiniest crack and they saw one of Lockhart's eyes peering through it."
+    "Harry knocked and there was a sudden silence from inside."
+   ]
+  },
+  {
+   "begin": "1258.120",
+   "children": [],
+   "end": "1263.440",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "Then the door opened the tiniest crack and they saw one of Lockhart's eyes peering through it."
    ]
   },
   {
    "begin": "1263.440",
    "children": [],
-   "end": "1273.760",
-   "id": "f000152",
+   "end": "1264.960",
+   "id": "f000306",
    "language": "eng",
    "lines": [
-    "'Oh ... Mr Potter ... Mr Weasley ...' he said, opening the door a mite wider. 'I'm rather busy at the moment. If you would be quick ...'"
+    "'Oh ..."
+   ]
+  },
+  {
+   "begin": "1264.960",
+   "children": [],
+   "end": "1266.600",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "Mr Potter ..."
+   ]
+  },
+  {
+   "begin": "1266.600",
+   "children": [],
+   "end": "1270.120",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "Mr Weasley ...' he said, opening the door a mite wider."
+   ]
+  },
+  {
+   "begin": "1270.120",
+   "children": [],
+   "end": "1272.360",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "'I'm rather busy at the moment."
+   ]
+  },
+  {
+   "begin": "1272.360",
+   "children": [],
+   "end": "1273.760",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "If you would be quick ...'"
    ]
   },
   {
    "begin": "1273.760",
    "children": [],
-   "end": "1279.640",
-   "id": "f000153",
+   "end": "1277.480",
+   "id": "f000311",
    "language": "eng",
    "lines": [
-    "'Professor, we've got some information for you,' said Harry. 'We think it'll help you.'"
+    "'Professor, we've got some information for you,' said Harry."
+   ]
+  },
+  {
+   "begin": "1277.480",
+   "children": [],
+   "end": "1279.640",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "'We think it'll help you.'"
    ]
   },
   {
    "begin": "1279.640",
    "children": [],
-   "end": "1289.440",
-   "id": "f000154",
+   "end": "1286.440",
+   "id": "f000313",
    "language": "eng",
    "lines": [
-    "'Er - well - it's not terribly -' The side of Lockhart's face that they could see looked very uncomfortable. 'I mean - well - all right.'"
+    "'Er - well - it's not terribly -' The side of Lockhart's face that they could see looked very uncomfortable."
+   ]
+  },
+  {
+   "begin": "1286.440",
+   "children": [],
+   "end": "1289.440",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "'I mean - well - all right.'"
    ]
   },
   {
    "begin": "1289.440",
    "children": [],
    "end": "1292.040",
-   "id": "f000155",
+   "id": "f000315",
    "language": "eng",
    "lines": [
     "He opened the door and they entered."
@@ -1553,18 +3153,48 @@
   {
    "begin": "1292.040",
    "children": [],
-   "end": "1311.280",
-   "id": "f000156",
+   "end": "1296.160",
+   "id": "f000316",
    "language": "eng",
    "lines": [
-    "His office had been almost completely stripped. Two large trunks stood open on the floor. Robes, jade green, lilac, midnight blue, had been hastily folded into one of them; books were jumbled untidily into the other. The photographs that had covered the walls were now crammed into boxes on the desk."
+    "His office had been almost completely stripped."
+   ]
+  },
+  {
+   "begin": "1296.160",
+   "children": [],
+   "end": "1298.440",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "Two large trunks stood open on the floor."
+   ]
+  },
+  {
+   "begin": "1298.440",
+   "children": [],
+   "end": "1306.480",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "Robes, jade green, lilac, midnight blue, had been hastily folded into one of them; books were jumbled untidily into the other."
+   ]
+  },
+  {
+   "begin": "1306.480",
+   "children": [],
+   "end": "1311.280",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "The photographs that had covered the walls were now crammed into boxes on the desk."
    ]
   },
   {
    "begin": "1311.280",
    "children": [],
    "end": "1315.080",
-   "id": "f000157",
+   "id": "f000320",
    "language": "eng",
    "lines": [
     "'Are you going somewhere?' said Harry."
@@ -1573,18 +3203,28 @@
   {
    "begin": "1315.080",
    "children": [],
-   "end": "1327.800",
-   "id": "f000158",
+   "end": "1324.000",
+   "id": "f000321",
    "language": "eng",
    "lines": [
-    "'Er, well, yes,' said Lockhart, ripping a life-size poster of himself from the back of the door as he spoke, and starting to roll it up. 'Urgent call ... unavoidable ... got to go ...'"
+    "'Er, well, yes,' said Lockhart, ripping a life-size poster of himself from the back of the door as he spoke, and starting to roll it up."
+   ]
+  },
+  {
+   "begin": "1324.000",
+   "children": [],
+   "end": "1327.800",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "'Urgent call ... unavoidable ... got to go ...'"
    ]
   },
   {
    "begin": "1327.800",
    "children": [],
    "end": "1332.480",
-   "id": "f000159",
+   "id": "f000323",
    "language": "eng",
    "lines": [
     "'What about my sister?' said Ron jerkily."
@@ -1593,48 +3233,98 @@
   {
    "begin": "1332.480",
    "children": [],
-   "end": "1344.120",
-   "id": "f000160",
+   "end": "1341.400",
+   "id": "f000324",
    "language": "eng",
    "lines": [
-    "'Well, as to that - most unfortunate,' said Lockhart, avoiding their eyes as he wrenched open a drawer and started emptying the contents into a bag. 'No one regrets more than I -'"
+    "'Well, as to that - most unfortunate,' said Lockhart, avoiding their eyes as he wrenched open a drawer and started emptying the contents into a bag."
+   ]
+  },
+  {
+   "begin": "1341.400",
+   "children": [],
+   "end": "1344.120",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "'No one regrets more than I -'"
    ]
   },
   {
    "begin": "1344.120",
    "children": [],
-   "end": "1351.600",
-   "id": "f000161",
+   "end": "1347.920",
+   "id": "f000326",
    "language": "eng",
    "lines": [
-    "'You're the Defence Against the Dark Arts teacher!' said Harry. 'You can't go now! Not with all the dark stuff going on here!'"
+    "'You're the Defence Against the Dark Arts teacher!' said Harry."
+   ]
+  },
+  {
+   "begin": "1347.920",
+   "children": [],
+   "end": "1349.120",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "'You can't go now!"
+   ]
+  },
+  {
+   "begin": "1349.120",
+   "children": [],
+   "end": "1351.600",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "Not with all the dark stuff going on here!'"
    ]
   },
   {
    "begin": "1351.600",
    "children": [],
-   "end": "1362.040",
-   "id": "f000162",
+   "end": "1355.520",
+   "id": "f000329",
    "language": "eng",
    "lines": [
-    "'Well, I must say ... when I took the job ...' Lockhart muttered, now piling socks on top of his robes, 'nothing in the job description ... didn't expect ...'"
+    "'Well, I must say ... when I took the job ...'"
+   ]
+  },
+  {
+   "begin": "1355.520",
+   "children": [],
+   "end": "1362.040",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "Lockhart muttered, now piling socks on top of his robes, 'nothing in the job description ... didn't expect ...'"
    ]
   },
   {
    "begin": "1362.040",
    "children": [],
-   "end": "1368.720",
-   "id": "f000163",
+   "end": "1365.960",
+   "id": "f000331",
    "language": "eng",
    "lines": [
-    "'You mean you're running away?' said Harry disbelievingly. 'After all that stuff you did in your books?'"
+    "'You mean you're running away?' said Harry disbelievingly."
+   ]
+  },
+  {
+   "begin": "1365.960",
+   "children": [],
+   "end": "1368.720",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "'After all that stuff you did in your books?'"
    ]
   },
   {
    "begin": "1368.720",
    "children": [],
    "end": "1373.400",
-   "id": "f000164",
+   "id": "f000333",
    "language": "eng",
    "lines": [
     "'Books can be misleading,' said Lockhart delicately."
@@ -1643,28 +3333,108 @@
   {
    "begin": "1373.400",
    "children": [],
-   "end": "1376.960",
-   "id": "f000165",
+   "end": "1375.080",
+   "id": "f000334",
    "language": "eng",
    "lines": [
-    "'You wrote them!' Harry shouted."
+    "'You wrote them!'"
+   ]
+  },
+  {
+   "begin": "1375.080",
+   "children": [],
+   "end": "1376.960",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "Harry shouted."
    ]
   },
   {
    "begin": "1376.960",
    "children": [],
-   "end": "1407.840",
-   "id": "f000166",
+   "end": "1381.240",
+   "id": "f000336",
    "language": "eng",
    "lines": [
-    "'My dear boy,' said Lockhart, straightening up and frowning at Harry. 'Do use your common sense. My books wouldn't have sold half as well if people didn't think I'd done all those things. No one wants to read about some ugly old Armenian warlock, even if he did save a village from werewolves. He'd look dreadful on the front cover. No dress sense at all. And the witch who banished the Bandon Banshee had a hairy chin. I mean, come on ...'"
+    "'My dear boy,' said Lockhart, straightening up and frowning at Harry."
+   ]
+  },
+  {
+   "begin": "1381.240",
+   "children": [],
+   "end": "1383.520",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "'Do use your common sense."
+   ]
+  },
+  {
+   "begin": "1383.520",
+   "children": [],
+   "end": "1389.080",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "My books wouldn't have sold half as well if people didn't think I'd done all those things."
+   ]
+  },
+  {
+   "begin": "1389.080",
+   "children": [],
+   "end": "1396.040",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "No one wants to read about some ugly old Armenian warlock, even if he did save a village from werewolves."
+   ]
+  },
+  {
+   "begin": "1396.040",
+   "children": [],
+   "end": "1398.720",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "He'd look dreadful on the front cover."
+   ]
+  },
+  {
+   "begin": "1398.720",
+   "children": [],
+   "end": "1400.880",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "No dress sense at all."
+   ]
+  },
+  {
+   "begin": "1400.880",
+   "children": [],
+   "end": "1405.240",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "And the witch who banished the Bandon Banshee had a hairy chin."
+   ]
+  },
+  {
+   "begin": "1405.240",
+   "children": [],
+   "end": "1407.840",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "I mean, come on ...'"
    ]
   },
   {
    "begin": "1407.840",
    "children": [],
    "end": "1415.000",
-   "id": "f000167",
+   "id": "f000344",
    "language": "eng",
    "lines": [
     "'So you've just been taking credit for what a load of other people have done?' said Harry incredulously."
@@ -1673,18 +3443,98 @@
   {
    "begin": "1415.000",
    "children": [],
-   "end": "1452.240",
-   "id": "f000168",
+   "end": "1423.360",
+   "id": "f000345",
    "language": "eng",
    "lines": [
-    "'Harry, Harry,' said Lockhart, shaking his head impatiently, 'it's not nearly as simple as that. There was work involved. I had to track these people down. Ask them exactly how they managed to do what they did. Then I had to put a Memory Charm on them so they wouldn't remember doing it. If there's one thing I pride myself on, it's my Memory Charms. No, it's been a lot of work, Harry. It's not all book-signings and publicity photos, you know. You want fame, you have to be prepared for a long hard slog.'"
+    "'Harry, Harry,' said Lockhart, shaking his head impatiently, 'it's not nearly as simple as that."
+   ]
+  },
+  {
+   "begin": "1423.360",
+   "children": [],
+   "end": "1424.960",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "There was work involved."
+   ]
+  },
+  {
+   "begin": "1424.960",
+   "children": [],
+   "end": "1427.720",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "I had to track these people down."
+   ]
+  },
+  {
+   "begin": "1427.720",
+   "children": [],
+   "end": "1431.400",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "Ask them exactly how they managed to do what they did."
+   ]
+  },
+  {
+   "begin": "1431.400",
+   "children": [],
+   "end": "1435.760",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "Then I had to put a Memory Charm on them so they wouldn't remember doing it."
+   ]
+  },
+  {
+   "begin": "1435.760",
+   "children": [],
+   "end": "1440.240",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "If there's one thing I pride myself on, it's my Memory Charms."
+   ]
+  },
+  {
+   "begin": "1440.240",
+   "children": [],
+   "end": "1442.480",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "No, it's been a lot of work, Harry."
+   ]
+  },
+  {
+   "begin": "1442.480",
+   "children": [],
+   "end": "1447.040",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "It's not all book-signings and publicity photos, you know."
+   ]
+  },
+  {
+   "begin": "1447.040",
+   "children": [],
+   "end": "1452.240",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "You want fame, you have to be prepared for a long hard slog.'"
    ]
   },
   {
    "begin": "1452.240",
    "children": [],
    "end": "1455.760",
-   "id": "f000169",
+   "id": "f000354",
    "language": "eng",
    "lines": [
     "He banged the lids of his trunks shut and locked them."
@@ -1693,18 +3543,48 @@
   {
    "begin": "1455.760",
    "children": [],
-   "end": "1461.680",
-   "id": "f000170",
+   "end": "1457.480",
+   "id": "f000355",
    "language": "eng",
    "lines": [
-    "'Let's see,' he said. 'I think that's everything. Yes. Only one thing left.'"
+    "'Let's see,' he said."
+   ]
+  },
+  {
+   "begin": "1457.480",
+   "children": [],
+   "end": "1459.560",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "'I think that's everything."
+   ]
+  },
+  {
+   "begin": "1459.560",
+   "children": [],
+   "end": "1460.280",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "Yes."
+   ]
+  },
+  {
+   "begin": "1460.280",
+   "children": [],
+   "end": "1461.680",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "Only one thing left.'"
    ]
   },
   {
    "begin": "1461.680",
    "children": [],
    "end": "1464.880",
-   "id": "f000171",
+   "id": "f000359",
    "language": "eng",
    "lines": [
     "He pulled out his wand and turned to them."
@@ -1713,68 +3593,178 @@
   {
    "begin": "1464.880",
    "children": [],
-   "end": "1474.040",
-   "id": "f000172",
+   "end": "1469.440",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "'Awfully sorry, boys, but I'll have to put a Memory Charm on you now. Can't have you blabbing my secrets all over the place. I'd never sell another book ...'"
+    "'Awfully sorry, boys, but I'll have to put a Memory Charm on you now."
+   ]
+  },
+  {
+   "begin": "1469.440",
+   "children": [],
+   "end": "1472.640",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "Can't have you blabbing my secrets all over the place."
+   ]
+  },
+  {
+   "begin": "1472.640",
+   "children": [],
+   "end": "1474.040",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "I'd never sell another book ...'"
    ]
   },
   {
    "begin": "1474.040",
    "children": [],
-   "end": "1480.960",
-   "id": "f000173",
+   "end": "1476.840",
+   "id": "f000363",
    "language": "eng",
    "lines": [
-    "Harry reached his wand just in time. Lockhart had barely raised his, when Harry bellowed, 'Expelliarmus!'"
+    "Harry reached his wand just in time."
+   ]
+  },
+  {
+   "begin": "1476.840",
+   "children": [],
+   "end": "1480.960",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "Lockhart had barely raised his, when Harry bellowed, 'Expelliarmus!'"
    ]
   },
   {
    "begin": "1480.960",
    "children": [],
-   "end": "1489.280",
-   "id": "f000174",
+   "end": "1484.440",
+   "id": "f000365",
    "language": "eng",
    "lines": [
-    "Lockhart was blasted backwards, falling over his trunk. His wand flew high into the air; Ron caught it, and flung it out of the open window."
+    "Lockhart was blasted backwards, falling over his trunk."
+   ]
+  },
+  {
+   "begin": "1484.440",
+   "children": [],
+   "end": "1489.280",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "His wand flew high into the air; Ron caught it, and flung it out of the open window."
    ]
   },
   {
    "begin": "1489.280",
    "children": [],
-   "end": "1501.160",
-   "id": "f000175",
+   "end": "1495.680",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "'Shouldn't have let Professor Snape teach us that one,' said Harry furiously, kicking Lockhart's trunk aside. Lockhart was looking up at him, weedy once more. Harry was still pointing his wand at him."
+    "'Shouldn't have let Professor Snape teach us that one,' said Harry furiously, kicking Lockhart's trunk aside."
+   ]
+  },
+  {
+   "begin": "1495.680",
+   "children": [],
+   "end": "1498.760",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "Lockhart was looking up at him, weedy once more."
+   ]
+  },
+  {
+   "begin": "1498.760",
+   "children": [],
+   "end": "1501.160",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "Harry was still pointing his wand at him."
    ]
   },
   {
    "begin": "1501.160",
    "children": [],
-   "end": "1510.520",
-   "id": "f000176",
+   "end": "1505.240",
+   "id": "f000370",
    "language": "eng",
    "lines": [
-    "'What d'you want me to do?' said Lockhart weakly. 'I don't know where the Chamber of Secrets is. There's nothing I can do.'"
+    "'What d'you want me to do?' said Lockhart weakly."
+   ]
+  },
+  {
+   "begin": "1505.240",
+   "children": [],
+   "end": "1509.000",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "'I don't know where the Chamber of Secrets is."
+   ]
+  },
+  {
+   "begin": "1509.000",
+   "children": [],
+   "end": "1510.520",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "There's nothing I can do.'"
    ]
   },
   {
    "begin": "1510.520",
    "children": [],
-   "end": "1520.720",
-   "id": "f000177",
+   "end": "1516.520",
+   "id": "f000373",
    "language": "eng",
    "lines": [
-    "'You're in luck,' said Harry, forcing Lockhart to his feet at wandpoint. 'We think we know where it is. And what's inside it. Let's go.'"
+    "'You're in luck,' said Harry, forcing Lockhart to his feet at wandpoint."
+   ]
+  },
+  {
+   "begin": "1516.520",
+   "children": [],
+   "end": "1518.560",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "'We think we know where it is."
+   ]
+  },
+  {
+   "begin": "1518.560",
+   "children": [],
+   "end": "1519.800",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "And what's inside it."
+   ]
+  },
+  {
+   "begin": "1519.800",
+   "children": [],
+   "end": "1520.720",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "Let's go.'"
    ]
   },
   {
    "begin": "1520.720",
    "children": [],
    "end": "1531.040",
-   "id": "f000178",
+   "id": "f000377",
    "language": "eng",
    "lines": [
     "They marched Lockhart out of his office and down the nearest stairs, along the dark corridor where the messages shone on the wall, to the door of Moaning Myrtle's bathroom."
@@ -1783,38 +3773,58 @@
   {
    "begin": "1531.040",
    "children": [],
-   "end": "1535.800",
-   "id": "f000179",
+   "end": "1533.400",
+   "id": "f000378",
    "language": "eng",
    "lines": [
-    "They sent Lockhart in first. Harry was pleased to see that he was shaking."
+    "They sent Lockhart in first."
+   ]
+  },
+  {
+   "begin": "1533.400",
+   "children": [],
+   "end": "1535.800",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "Harry was pleased to see that he was shaking."
    ]
   },
   {
    "begin": "1535.800",
    "children": [],
-   "end": "1539.760",
-   "id": "f000180",
+   "end": "1540.200",
+   "id": "f000380",
    "language": "eng",
    "lines": [
     "Moaning Myrtle was sitting on the cistern of the end toilet."
    ]
   },
   {
-   "begin": "1539.760",
+   "begin": "1540.200",
    "children": [],
-   "end": "1546.480",
-   "id": "f000181",
+   "end": "1544.040",
+   "id": "f000381",
    "language": "eng",
    "lines": [
-    "'Oh, it's you,' she said, when she saw Harry. 'What do you want this time?'"
+    "'Oh, it's you,' she said, when she saw Harry."
+   ]
+  },
+  {
+   "begin": "1544.040",
+   "children": [],
+   "end": "1546.480",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "'What do you want this time?'"
    ]
   },
   {
    "begin": "1546.480",
    "children": [],
    "end": "1550.920",
-   "id": "f000182",
+   "id": "f000383",
    "language": "eng",
    "lines": [
     "'To ask you how you died,' said Harry."
@@ -1823,28 +3833,128 @@
   {
    "begin": "1550.920",
    "children": [],
-   "end": "1558.520",
-   "id": "f000183",
+   "end": "1554.480",
+   "id": "f000384",
    "language": "eng",
    "lines": [
-    "Myrtle's whole aspect changed at once. She looked as though she had never been asked such a flattering question."
+    "Myrtle's whole aspect changed at once."
+   ]
+  },
+  {
+   "begin": "1554.480",
+   "children": [],
+   "end": "1558.520",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "She looked as though she had never been asked such a flattering question."
    ]
   },
   {
    "begin": "1558.520",
    "children": [],
-   "end": "1603.120",
-   "id": "f000184",
+   "end": "1562.960",
+   "id": "f000386",
    "language": "eng",
    "lines": [
-    "'Ooooh, it was dreadful,' she said with relish. 'It happened right in here. I died in this very cubicle. I remember it so well. I'd hidden because Olive Hornby was teasing me about my glasses. The door was locked, and I was crying, and then I heard somebody come in. They said something funny. A different language, I think it must have been. Anyway, what really got me was that it was a boy speaking. So I unlocked the door, to tell him to go and use his own toilet, and then -' Myrtle swelled importantly, her face shining, 'I died.'"
+    "'Ooooh, it was dreadful,' she said with relish."
+   ]
+  },
+  {
+   "begin": "1562.960",
+   "children": [],
+   "end": "1564.840",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "'It happened right in here."
+   ]
+  },
+  {
+   "begin": "1564.840",
+   "children": [],
+   "end": "1567.600",
+   "id": "f000388",
+   "language": "eng",
+   "lines": [
+    "I died in this very cubicle."
+   ]
+  },
+  {
+   "begin": "1567.600",
+   "children": [],
+   "end": "1569.680",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "I remember it so well."
+   ]
+  },
+  {
+   "begin": "1569.680",
+   "children": [],
+   "end": "1575.000",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "I'd hidden because Olive Hornby was teasing me about my glasses."
+   ]
+  },
+  {
+   "begin": "1575.000",
+   "children": [],
+   "end": "1580.480",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "The door was locked, and I was crying, and then I heard somebody come in."
+   ]
+  },
+  {
+   "begin": "1580.480",
+   "children": [],
+   "end": "1582.880",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "They said something funny."
+   ]
+  },
+  {
+   "begin": "1582.880",
+   "children": [],
+   "end": "1586.080",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "A different language, I think it must have been."
+   ]
+  },
+  {
+   "begin": "1586.080",
+   "children": [],
+   "end": "1590.800",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "Anyway, what really got me was that it was a boy speaking."
+   ]
+  },
+  {
+   "begin": "1590.800",
+   "children": [],
+   "end": "1603.120",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "So I unlocked the door, to tell him to go and use his own toilet, and then -' Myrtle swelled importantly, her face shining, 'I died.'"
    ]
   },
   {
    "begin": "1603.120",
    "children": [],
    "end": "1605.640",
-   "id": "f000185",
+   "id": "f000396",
    "language": "eng",
    "lines": [
     "'How?' said Harry."
@@ -1853,18 +3963,78 @@
   {
    "begin": "1605.640",
    "children": [],
-   "end": "1634.840",
-   "id": "f000186",
+   "end": "1609.640",
+   "id": "f000397",
    "language": "eng",
    "lines": [
-    "'No idea,' said Myrtle in hushed tones. 'I just remember seeing a pair of great big yellow eyes. My whole body sort of seized up, and then I was floating away ...' She looked dreamily at Harry. 'And then I came back again. I was determined to haunt Olive Hornby, you see. Oh, she was sorry she'd ever laughed at my glasses.'"
+    "'No idea,' said Myrtle in hushed tones."
+   ]
+  },
+  {
+   "begin": "1609.640",
+   "children": [],
+   "end": "1613.880",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "'I just remember seeing a pair of great big yellow eyes."
+   ]
+  },
+  {
+   "begin": "1613.880",
+   "children": [],
+   "end": "1619.920",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "My whole body sort of seized up, and then I was floating away ...'"
+   ]
+  },
+  {
+   "begin": "1619.920",
+   "children": [],
+   "end": "1622.280",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "She looked dreamily at Harry."
+   ]
+  },
+  {
+   "begin": "1622.280",
+   "children": [],
+   "end": "1625.160",
+   "id": "f000401",
+   "language": "eng",
+   "lines": [
+    "'And then I came back again."
+   ]
+  },
+  {
+   "begin": "1625.160",
+   "children": [],
+   "end": "1629.200",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "I was determined to haunt Olive Hornby, you see."
+   ]
+  },
+  {
+   "begin": "1629.200",
+   "children": [],
+   "end": "1634.840",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Oh, she was sorry she'd ever laughed at my glasses.'"
    ]
   },
   {
    "begin": "1634.840",
    "children": [],
    "end": "1639.320",
-   "id": "f000187",
+   "id": "f000404",
    "language": "eng",
    "lines": [
     "'Where exactly did you see the eyes?' said Harry."
@@ -1874,7 +4044,7 @@
    "begin": "1639.320",
    "children": [],
    "end": "1645.840",
-   "id": "f000188",
+   "id": "f000405",
    "language": "eng",
    "lines": [
     "'Somewhere there,' said Myrtle, pointing vaguely towards the sink in front of her toilet."
@@ -1883,28 +4053,58 @@
   {
    "begin": "1645.840",
    "children": [],
-   "end": "1652.960",
-   "id": "f000189",
+   "end": "1648.400",
+   "id": "f000406",
    "language": "eng",
    "lines": [
-    "Harry and Ron hurried over to it. Lockhart was standing well back, a look of utter terror on his face."
+    "Harry and Ron hurried over to it."
+   ]
+  },
+  {
+   "begin": "1648.400",
+   "children": [],
+   "end": "1652.960",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "Lockhart was standing well back, a look of utter terror on his face."
    ]
   },
   {
    "begin": "1652.960",
    "children": [],
-   "end": "1666.720",
-   "id": "f000190",
+   "end": "1655.680",
+   "id": "f000408",
    "language": "eng",
    "lines": [
-    "It looked like an ordinary sink. They examined every inch of it, inside and out, including the pipes below. And then Harry saw it: scratched on the side of one of the copper taps was a tiny snake."
+    "It looked like an ordinary sink."
+   ]
+  },
+  {
+   "begin": "1655.680",
+   "children": [],
+   "end": "1659.960",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "They examined every inch of it, inside and out, including the pipes below."
+   ]
+  },
+  {
+   "begin": "1659.960",
+   "children": [],
+   "end": "1666.720",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "And then Harry saw it: scratched on the side of one of the copper taps was a tiny snake."
    ]
   },
   {
    "begin": "1666.720",
    "children": [],
    "end": "1672.040",
-   "id": "f000191",
+   "id": "f000411",
    "language": "eng",
    "lines": [
     "'That tap's never worked,' said Myrtle brightly, as he tried to turn it."
@@ -1913,28 +4113,58 @@
   {
    "begin": "1672.040",
    "children": [],
-   "end": "1676.840",
-   "id": "f000192",
+   "end": "1674.760",
+   "id": "f000412",
    "language": "eng",
    "lines": [
-    "'Harry,' said Ron, 'say something. Something in Parseltongue.'"
+    "'Harry,' said Ron, 'say something."
+   ]
+  },
+  {
+   "begin": "1674.760",
+   "children": [],
+   "end": "1676.840",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "Something in Parseltongue.'"
    ]
   },
   {
    "begin": "1676.840",
    "children": [],
-   "end": "1690.240",
-   "id": "f000193",
+   "end": "1678.480",
+   "id": "f000414",
    "language": "eng",
    "lines": [
-    "'But -' Harry thought hard. The only times he'd ever managed to speak Parseltongue were when he'd been faced with a real snake. He stared hard at the tiny engraving, trying to imagine it was real."
+    "'But -' Harry thought hard."
    ]
   },
   {
-   "begin": "1690.240",
+   "begin": "1678.480",
+   "children": [],
+   "end": "1684.720",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "The only times he'd ever managed to speak Parseltongue were when he'd been faced with a real snake."
+   ]
+  },
+  {
+   "begin": "1684.720",
+   "children": [],
+   "end": "1689.720",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "He stared hard at the tiny engraving, trying to imagine it was real."
+   ]
+  },
+  {
+   "begin": "1689.720",
    "children": [],
    "end": "1692.760",
-   "id": "f000194",
+   "id": "f000417",
    "language": "eng",
    "lines": [
     "'Open up,' he said."
@@ -1944,7 +4174,7 @@
    "begin": "1692.760",
    "children": [],
    "end": "1695.360",
-   "id": "f000195",
+   "id": "f000418",
    "language": "eng",
    "lines": [
     "He looked at Ron, who shook his head."
@@ -1954,7 +4184,7 @@
    "begin": "1695.360",
    "children": [],
    "end": "1697.320",
-   "id": "f000196",
+   "id": "f000419",
    "language": "eng",
    "lines": [
     "'English,' he said."
@@ -1963,18 +4193,28 @@
   {
    "begin": "1697.320",
    "children": [],
-   "end": "1706.600",
-   "id": "f000197",
+   "end": "1702.200",
+   "id": "f000420",
    "language": "eng",
    "lines": [
-    "Harry looked back at the snake, willing himself to believe it was alive. If he moved his head, the candlelight made it look as though it was moving."
+    "Harry looked back at the snake, willing himself to believe it was alive."
+   ]
+  },
+  {
+   "begin": "1702.200",
+   "children": [],
+   "end": "1706.600",
+   "id": "f000421",
+   "language": "eng",
+   "lines": [
+    "If he moved his head, the candlelight made it look as though it was moving."
    ]
   },
   {
    "begin": "1706.600",
    "children": [],
    "end": "1710.520",
-   "id": "f000198",
+   "id": "f000422",
    "language": "eng",
    "lines": [
     "'Open up,' he said."
@@ -1983,28 +4223,58 @@
   {
    "begin": "1710.520",
    "children": [],
-   "end": "1731.120",
-   "id": "f000199",
+   "end": "1720.880",
+   "id": "f000423",
    "language": "eng",
    "lines": [
-    "Except that the words weren't what he heard; a strange hissing had escaped him, and at once the tap glowed with a brilliant white light and began to spin. Next second, the sink began to move. The sink, in fact, sank, right out of sight, leaving a large pipe exposed, a pipe wide enough for a man to slide into."
+    "Except that the words weren't what he heard; a strange hissing had escaped him, and at once the tap glowed with a brilliant white light and began to spin."
+   ]
+  },
+  {
+   "begin": "1720.880",
+   "children": [],
+   "end": "1723.000",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "Next second, the sink began to move."
+   ]
+  },
+  {
+   "begin": "1723.000",
+   "children": [],
+   "end": "1731.120",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "The sink, in fact, sank, right out of sight, leaving a large pipe exposed, a pipe wide enough for a man to slide into."
    ]
   },
   {
    "begin": "1731.120",
    "children": [],
-   "end": "1737.520",
-   "id": "f000200",
+   "end": "1734.640",
+   "id": "f000426",
    "language": "eng",
    "lines": [
-    "Harry heard Ron gasp and looked up again. He had made up his mind what he was going to do."
+    "Harry heard Ron gasp and looked up again."
+   ]
+  },
+  {
+   "begin": "1734.640",
+   "children": [],
+   "end": "1737.520",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "He had made up his mind what he was going to do."
    ]
   },
   {
    "begin": "1737.520",
    "children": [],
    "end": "1739.520",
-   "id": "f000201",
+   "id": "f000428",
    "language": "eng",
    "lines": [
     "'I'm going down there,' he said."
@@ -2014,7 +4284,7 @@
    "begin": "1739.520",
    "children": [],
    "end": "1749.640",
-   "id": "f000202",
+   "id": "f000429",
    "language": "eng",
    "lines": [
     "He couldn't not go, not now they had found the entrance to the Chamber, not if there was even the faintest, slimmest, wildest chance that Ginny might be alive."
@@ -2024,7 +4294,7 @@
    "begin": "1749.640",
    "children": [],
    "end": "1751.680",
-   "id": "f000203",
+   "id": "f000430",
    "language": "eng",
    "lines": [
     "'Me too,' said Ron."
@@ -2034,7 +4304,7 @@
    "begin": "1751.680",
    "children": [],
    "end": "1753.560",
-   "id": "f000204",
+   "id": "f000431",
    "language": "eng",
    "lines": [
     "There was a pause."
@@ -2043,18 +4313,28 @@
   {
    "begin": "1753.560",
    "children": [],
-   "end": "1761.640",
-   "id": "f000205",
+   "end": "1760.480",
+   "id": "f000432",
    "language": "eng",
    "lines": [
-    "'Well, you hardly seem to need me,' said Lockhart, with a shadow of his old smile. 'I'll just -'"
+    "'Well, you hardly seem to need me,' said Lockhart, with a shadow of his old smile."
+   ]
+  },
+  {
+   "begin": "1760.480",
+   "children": [],
+   "end": "1761.640",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "'I'll just -'"
    ]
   },
   {
    "begin": "1761.640",
    "children": [],
    "end": "1766.440",
-   "id": "f000206",
+   "id": "f000434",
    "language": "eng",
    "lines": [
     "He put his hand on the door knob, but Ron and Harry both pointed their wands at him."
@@ -2064,7 +4344,7 @@
    "begin": "1766.440",
    "children": [],
    "end": "1769.120",
-   "id": "f000207",
+   "id": "f000435",
    "language": "eng",
    "lines": [
     "'You can go first,' Ron snarled."
@@ -2073,18 +4353,18 @@
   {
    "begin": "1769.120",
    "children": [],
-   "end": "1773.680",
-   "id": "f000208",
+   "end": "1773.280",
+   "id": "f000436",
    "language": "eng",
    "lines": [
     "White-faced and wandless, Lockhart approached the opening."
    ]
   },
   {
-   "begin": "1773.680",
+   "begin": "1773.280",
    "children": [],
    "end": "1780.560",
-   "id": "f000209",
+   "id": "f000437",
    "language": "eng",
    "lines": [
     "'Boys,' he said, his voice feeble, 'boys, what good will it do?'"
@@ -2093,48 +4373,118 @@
   {
    "begin": "1780.560",
    "children": [],
-   "end": "1785.640",
-   "id": "f000210",
+   "end": "1783.600",
+   "id": "f000438",
    "language": "eng",
    "lines": [
-    "Harry jabbed him in the back with his wand. Lockhart slid his legs into the pipe."
+    "Harry jabbed him in the back with his wand."
    ]
   },
   {
-   "begin": "1785.640",
+   "begin": "1783.600",
    "children": [],
-   "end": "1797.400",
-   "id": "f000211",
+   "end": "1785.880",
+   "id": "f000439",
    "language": "eng",
    "lines": [
-    "'I really don't think -' he started to say, but Ron gave him a push, and he slid out of sight. Harry followed quickly. He lowered himself slowly into the pipe, then let go."
+    "Lockhart slid his legs into the pipe."
+   ]
+  },
+  {
+   "begin": "1785.880",
+   "children": [],
+   "end": "1792.080",
+   "id": "f000440",
+   "language": "eng",
+   "lines": [
+    "'I really don't think -' he started to say, but Ron gave him a push, and he slid out of sight."
+   ]
+  },
+  {
+   "begin": "1792.080",
+   "children": [],
+   "end": "1793.840",
+   "id": "f000441",
+   "language": "eng",
+   "lines": [
+    "Harry followed quickly."
+   ]
+  },
+  {
+   "begin": "1793.840",
+   "children": [],
+   "end": "1797.400",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "He lowered himself slowly into the pipe, then let go."
    ]
   },
   {
    "begin": "1797.400",
    "children": [],
-   "end": "1818.200",
-   "id": "f000212",
+   "end": "1802.320",
+   "id": "f000443",
    "language": "eng",
    "lines": [
-    "It was like rushing down an endless, slimy, dark slide. He could see more pipes branching off in all directions, but none as large as theirs, which twisted and turned, sloping steeply downwards, and he knew that he was falling deeper below the school than even the dungeons. Behind him he could hear Ron, thudding slightly at the curves."
+    "It was like rushing down an endless, slimy, dark slide."
+   ]
+  },
+  {
+   "begin": "1802.320",
+   "children": [],
+   "end": "1814.520",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "He could see more pipes branching off in all directions, but none as large as theirs, which twisted and turned, sloping steeply downwards, and he knew that he was falling deeper below the school than even the dungeons."
+   ]
+  },
+  {
+   "begin": "1814.520",
+   "children": [],
+   "end": "1818.200",
+   "id": "f000445",
+   "language": "eng",
+   "lines": [
+    "Behind him he could hear Ron, thudding slightly at the curves."
    ]
   },
   {
    "begin": "1818.200",
    "children": [],
-   "end": "1842.360",
-   "id": "f000213",
+   "end": "1832.240",
+   "id": "f000446",
    "language": "eng",
    "lines": [
-    "And then, just as he had begun to worry about what would happen when he hit the ground, the pipe levelled out, and he shot out of the end with a wet thud, landing on the damp floor of a dark stone tunnel, large enough to stand in. Lockhart was getting to his feet a little way away, covered in slime and white as a ghost. Harry stood aside as Ron came whizzing out of the pipe, too."
+    "And then, just as he had begun to worry about what would happen when he hit the ground, the pipe levelled out, and he shot out of the end with a wet thud, landing on the damp floor of a dark stone tunnel, large enough to stand in."
+   ]
+  },
+  {
+   "begin": "1832.240",
+   "children": [],
+   "end": "1838.760",
+   "id": "f000447",
+   "language": "eng",
+   "lines": [
+    "Lockhart was getting to his feet a little way away, covered in slime and white as a ghost."
+   ]
+  },
+  {
+   "begin": "1838.760",
+   "children": [],
+   "end": "1842.360",
+   "id": "f000448",
+   "language": "eng",
+   "lines": [
+    "Harry stood aside as Ron came whizzing out of the pipe, too."
    ]
   },
   {
    "begin": "1842.360",
    "children": [],
    "end": "1848.760",
-   "id": "f000214",
+   "id": "f000449",
    "language": "eng",
    "lines": [
     "'We must be miles under the school,' said Harry, his voice echoing in the black tunnel."
@@ -2144,7 +4494,7 @@
    "begin": "1848.760",
    "children": [],
    "end": "1853.840",
-   "id": "f000215",
+   "id": "f000450",
    "language": "eng",
    "lines": [
     "'Under the lake, probably,' said Ron, squinting around at the dark, slimy walls."
@@ -2154,7 +4504,7 @@
    "begin": "1853.840",
    "children": [],
    "end": "1857.560",
-   "id": "f000216",
+   "id": "f000451",
    "language": "eng",
    "lines": [
     "All three of them turned to stare into the darkness ahead."
@@ -2163,28 +4513,58 @@
   {
    "begin": "1857.560",
    "children": [],
-   "end": "1869.200",
-   "id": "f000217",
+   "end": "1859.640",
+   "id": "f000452",
    "language": "eng",
    "lines": [
-    "'Lumos!' Harry muttered to his wand and it lit again. 'C'mon,' he said to Ron and Lockhart, and off they went, their footsteps slapping loudly on the wet floor."
+    "'Lumos!'"
+   ]
+  },
+  {
+   "begin": "1859.640",
+   "children": [],
+   "end": "1862.400",
+   "id": "f000453",
+   "language": "eng",
+   "lines": [
+    "Harry muttered to his wand and it lit again."
+   ]
+  },
+  {
+   "begin": "1862.400",
+   "children": [],
+   "end": "1869.200",
+   "id": "f000454",
+   "language": "eng",
+   "lines": [
+    "'C'mon,' he said to Ron and Lockhart, and off they went, their footsteps slapping loudly on the wet floor."
    ]
   },
   {
    "begin": "1869.200",
    "children": [],
-   "end": "1878.000",
-   "id": "f000218",
+   "end": "1874.120",
+   "id": "f000455",
    "language": "eng",
    "lines": [
-    "The tunnel was so dark that they could only see a little distance ahead. Their shadows on the wet walls looked monstrous in the wandlight."
+    "The tunnel was so dark that they could only see a little distance ahead."
+   ]
+  },
+  {
+   "begin": "1874.120",
+   "children": [],
+   "end": "1878.000",
+   "id": "f000456",
+   "language": "eng",
+   "lines": [
+    "Their shadows on the wet walls looked monstrous in the wandlight."
    ]
   },
   {
    "begin": "1878.000",
    "children": [],
    "end": "1886.520",
-   "id": "f000219",
+   "id": "f000457",
    "language": "eng",
    "lines": [
     "'Remember,' Harry said quietly, as they walked cautiously forward, 'any sign of movement, close your eyes straight away ...'"
@@ -2193,18 +4573,38 @@
   {
    "begin": "1886.520",
    "children": [],
-   "end": "1911.760",
-   "id": "f000220",
+   "end": "1897.160",
+   "id": "f000458",
    "language": "eng",
    "lines": [
-    "But the tunnel was quiet as the grave, and the first unexpected sound they heard was a loud crunch as Ron stepped on what turned out to be a rat's skull. Harry lowered his wand to look at the floor and saw that it was littered with small animal bones. Trying very hard not to imagine what Ginny might look like if they found her, Harry led the way forward, round a dark bend in the tunnel."
+    "But the tunnel was quiet as the grave, and the first unexpected sound they heard was a loud crunch as Ron stepped on what turned out to be a rat's skull."
+   ]
+  },
+  {
+   "begin": "1897.160",
+   "children": [],
+   "end": "1903.280",
+   "id": "f000459",
+   "language": "eng",
+   "lines": [
+    "Harry lowered his wand to look at the floor and saw that it was littered with small animal bones."
+   ]
+  },
+  {
+   "begin": "1903.280",
+   "children": [],
+   "end": "1911.760",
+   "id": "f000460",
+   "language": "eng",
+   "lines": [
+    "Trying very hard not to imagine what Ginny might look like if they found her, Harry led the way forward, round a dark bend in the tunnel."
    ]
   },
   {
    "begin": "1911.760",
    "children": [],
    "end": "1917.800",
-   "id": "f000221",
+   "id": "f000461",
    "language": "eng",
    "lines": [
     "'Harry, there's something up there ...' said Ron hoarsely"
@@ -2214,7 +4614,7 @@
    "begin": "1917.800",
    "children": [],
    "end": "1919.120",
-   "id": "f000222",
+   "id": "f000462",
    "language": "eng",
    "lines": [
     "grabbing Harry's shoulder."
@@ -2223,28 +4623,68 @@
   {
    "begin": "1919.120",
    "children": [],
-   "end": "1929.480",
-   "id": "f000223",
+   "end": "1921.560",
+   "id": "f000463",
    "language": "eng",
    "lines": [
-    "They froze, watching. Harry could just see the outline of something huge and curved, lying right across the tunnel. It wasn't moving."
+    "They froze, watching."
+   ]
+  },
+  {
+   "begin": "1921.560",
+   "children": [],
+   "end": "1927.840",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "Harry could just see the outline of something huge and curved, lying right across the tunnel."
+   ]
+  },
+  {
+   "begin": "1927.840",
+   "children": [],
+   "end": "1929.480",
+   "id": "f000465",
+   "language": "eng",
+   "lines": [
+    "It wasn't moving."
    ]
   },
   {
    "begin": "1929.480",
    "children": [],
-   "end": "1942.600",
-   "id": "f000224",
+   "end": "1935.120",
+   "id": "f000466",
    "language": "eng",
    "lines": [
-    "'Maybe it's asleep,' he breathed, glancing back at the other two. Lockhart's hands were pressed over his eyes. Harry turned back to look at the thing, his heart beating so fast it hurt."
+    "'Maybe it's asleep,' he breathed, glancing back at the other two."
+   ]
+  },
+  {
+   "begin": "1935.120",
+   "children": [],
+   "end": "1938.000",
+   "id": "f000467",
+   "language": "eng",
+   "lines": [
+    "Lockhart's hands were pressed over his eyes."
+   ]
+  },
+  {
+   "begin": "1938.000",
+   "children": [],
+   "end": "1942.600",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "Harry turned back to look at the thing, his heart beating so fast it hurt."
    ]
   },
   {
    "begin": "1942.600",
    "children": [],
    "end": "1950.080",
-   "id": "f000225",
+   "id": "f000469",
    "language": "eng",
    "lines": [
     "Very slowly, his eyes as narrow as he could make them and still see, Harry edged forward, his wand held high."
@@ -2253,18 +4693,28 @@
   {
    "begin": "1950.080",
    "children": [],
-   "end": "1963.960",
-   "id": "f000226",
+   "end": "1959.760",
+   "id": "f000470",
    "language": "eng",
    "lines": [
-    "The light slid over a gigantic snake skin, of a vivid, poisonous green, lying curled and empty across the tunnel floor. The creature that had shed it must have been twenty feet long at least."
+    "The light slid over a gigantic snake skin, of a vivid, poisonous green, lying curled and empty across the tunnel floor."
+   ]
+  },
+  {
+   "begin": "1959.760",
+   "children": [],
+   "end": "1963.960",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "The creature that had shed it must have been twenty feet long at least."
    ]
   },
   {
    "begin": "1963.960",
    "children": [],
    "end": "1967.480",
-   "id": "f000227",
+   "id": "f000472",
    "language": "eng",
    "lines": [
     "'Blimey,' said Ron weakly."
@@ -2273,18 +4723,28 @@
   {
    "begin": "1967.480",
    "children": [],
-   "end": "1972.600",
-   "id": "f000228",
+   "end": "1970.400",
+   "id": "f000473",
    "language": "eng",
    "lines": [
-    "There was a sudden movement behind them. Gilderoy Lockhart's knees had given way."
+    "There was a sudden movement behind them."
+   ]
+  },
+  {
+   "begin": "1970.400",
+   "children": [],
+   "end": "1972.600",
+   "id": "f000474",
+   "language": "eng",
+   "lines": [
+    "Gilderoy Lockhart's knees had given way."
    ]
   },
   {
    "begin": "1972.600",
    "children": [],
    "end": "1976.760",
-   "id": "f000229",
+   "id": "f000475",
    "language": "eng",
    "lines": [
     "'Get up,' said Ron sharply, pointing his wand at Lockhart."
@@ -2294,7 +4754,7 @@
    "begin": "1976.760",
    "children": [],
    "end": "1981.200",
-   "id": "f000230",
+   "id": "f000476",
    "language": "eng",
    "lines": [
     "Lockhart got to his feet - then he dived at Ron, knocking him to the ground."
@@ -2303,128 +4763,338 @@
   {
    "begin": "1981.200",
    "children": [],
-   "end": "1989.800",
-   "id": "f000231",
+   "end": "1983.520",
+   "id": "f000477",
    "language": "eng",
    "lines": [
-    "Harry jumped forward, but too late. Lockhart was straightening up, panting, Ron's wand in his hand and a gleaming smile back on his face."
+    "Harry jumped forward, but too late."
+   ]
+  },
+  {
+   "begin": "1983.520",
+   "children": [],
+   "end": "1989.800",
+   "id": "f000478",
+   "language": "eng",
+   "lines": [
+    "Lockhart was straightening up, panting, Ron's wand in his hand and a gleaming smile back on his face."
    ]
   },
   {
    "begin": "1989.800",
    "children": [],
-   "end": "2007.240",
-   "id": "f000232",
+   "end": "1993.280",
+   "id": "f000479",
    "language": "eng",
    "lines": [
-    "'The adventure ends here, boys!' he said. 'I shall take a bit of this skin back up to the school, tell them I was too late to save the girl, and that you two tragically lost your minds at the sight of her mangled body. Say goodbye to your memories!'"
+    "'The adventure ends here, boys!' he said."
+   ]
+  },
+  {
+   "begin": "1993.280",
+   "children": [],
+   "end": "2004.960",
+   "id": "f000480",
+   "language": "eng",
+   "lines": [
+    "'I shall take a bit of this skin back up to the school, tell them I was too late to save the girl, and that you two tragically lost your minds at the sight of her mangled body."
+   ]
+  },
+  {
+   "begin": "2004.960",
+   "children": [],
+   "end": "2007.240",
+   "id": "f000481",
+   "language": "eng",
+   "lines": [
+    "Say goodbye to your memories!'"
    ]
   },
   {
    "begin": "2007.240",
    "children": [],
-   "end": "2013.400",
-   "id": "f000233",
+   "end": "2013.640",
+   "id": "f000482",
    "language": "eng",
    "lines": [
     "He raised Ron's Spellotaped wand high over his head and yelled, 'Obliviate!'"
    ]
   },
   {
-   "begin": "2013.400",
+   "begin": "2013.640",
    "children": [],
-   "end": "2030.880",
-   "id": "f000234",
+   "end": "2018.200",
+   "id": "f000483",
    "language": "eng",
    "lines": [
-    "The wand exploded with the force of a small bomb. Harry flung his arms over his head and ran, slipping over the coils of snake skin, out of the way of great chunks of tunnel ceiling which were thundering to the floor. Next moment, he was standing alone, gazing at a solid wall of broken rock."
+    "The wand exploded with the force of a small bomb."
+   ]
+  },
+  {
+   "begin": "2018.200",
+   "children": [],
+   "end": "2026.280",
+   "id": "f000484",
+   "language": "eng",
+   "lines": [
+    "Harry flung his arms over his head and ran, slipping over the coils of snake skin, out of the way of great chunks of tunnel ceiling which were thundering to the floor."
+   ]
+  },
+  {
+   "begin": "2026.280",
+   "children": [],
+   "end": "2030.880",
+   "id": "f000485",
+   "language": "eng",
+   "lines": [
+    "Next moment, he was standing alone, gazing at a solid wall of broken rock."
    ]
   },
   {
    "begin": "2030.880",
    "children": [],
-   "end": "2034.600",
-   "id": "f000235",
+   "end": "2033.240",
+   "id": "f000486",
    "language": "eng",
    "lines": [
-    "'Ron!' he shouted. 'Are you OK? Ron!'"
+    "'Ron!' he shouted."
+   ]
+  },
+  {
+   "begin": "2033.240",
+   "children": [],
+   "end": "2034.000",
+   "id": "f000487",
+   "language": "eng",
+   "lines": [
+    "'Are you OK?"
+   ]
+  },
+  {
+   "begin": "2034.000",
+   "children": [],
+   "end": "2034.600",
+   "id": "f000488",
+   "language": "eng",
+   "lines": [
+    "Ron!'"
    ]
   },
   {
    "begin": "2034.600",
    "children": [],
-   "end": "2045.200",
-   "id": "f000236",
+   "end": "2039.840",
+   "id": "f000489",
    "language": "eng",
    "lines": [
-    "'I'm here!' came Ron's muffled voice from behind the rockfall. 'I'm OK. This git's not, though - he got blasted by the wand.'"
+    "'I'm here!' came Ron's muffled voice from behind the rockfall."
+   ]
+  },
+  {
+   "begin": "2039.840",
+   "children": [],
+   "end": "2041.160",
+   "id": "f000490",
+   "language": "eng",
+   "lines": [
+    "'I'm OK."
+   ]
+  },
+  {
+   "begin": "2041.160",
+   "children": [],
+   "end": "2045.200",
+   "id": "f000491",
+   "language": "eng",
+   "lines": [
+    "This git's not, though - he got blasted by the wand.'"
    ]
   },
   {
    "begin": "2045.200",
    "children": [],
-   "end": "2052.760",
-   "id": "f000237",
+   "end": "2049.160",
+   "id": "f000492",
    "language": "eng",
    "lines": [
-    "There was a dull thud and a loud 'ow!'. It sounded as though Ron had just kicked Lockhart in the shins."
+    "There was a dull thud and a loud 'ow!'."
+   ]
+  },
+  {
+   "begin": "2049.160",
+   "children": [],
+   "end": "2052.760",
+   "id": "f000493",
+   "language": "eng",
+   "lines": [
+    "It sounded as though Ron had just kicked Lockhart in the shins."
    ]
   },
   {
    "begin": "2052.760",
    "children": [],
-   "end": "2060.000",
-   "id": "f000238",
+   "end": "2054.480",
+   "id": "f000494",
    "language": "eng",
    "lines": [
-    "'What now?' Ron's voice said, sounding desperate. 'We can't get through. It'll take ages ...'"
+    "'What now?'"
+   ]
+  },
+  {
+   "begin": "2054.480",
+   "children": [],
+   "end": "2057.200",
+   "id": "f000495",
+   "language": "eng",
+   "lines": [
+    "Ron's voice said, sounding desperate."
+   ]
+  },
+  {
+   "begin": "2057.200",
+   "children": [],
+   "end": "2058.480",
+   "id": "f000496",
+   "language": "eng",
+   "lines": [
+    "'We can't get through."
+   ]
+  },
+  {
+   "begin": "2058.480",
+   "children": [],
+   "end": "2060.000",
+   "id": "f000497",
+   "language": "eng",
+   "lines": [
+    "It'll take ages ...'"
    ]
   },
   {
    "begin": "2060.000",
    "children": [],
-   "end": "2063.920",
-   "id": "f000239",
+   "end": "2062.600",
+   "id": "f000498",
    "language": "eng",
    "lines": [
-    "Harry looked up at the tunnel ceiling. Huge cracks had"
+    "Harry looked up at the tunnel ceiling."
+   ]
+  },
+  {
+   "begin": "2062.600",
+   "children": [],
+   "end": "2063.920",
+   "id": "f000499",
+   "language": "eng",
+   "lines": [
+    "Huge cracks had"
    ]
   },
   {
    "begin": "2063.920",
    "children": [],
-   "end": "2073.880",
-   "id": "f000240",
+   "end": "2064.520",
+   "id": "f000500",
    "language": "eng",
    "lines": [
-    "appeared in it. He had never tried to break apart anything as large as these rocks by magic, and now didn't seem a good moment to try - what if the whole tunnel caved in?"
+    "appeared in it."
+   ]
+  },
+  {
+   "begin": "2064.520",
+   "children": [],
+   "end": "2073.880",
+   "id": "f000501",
+   "language": "eng",
+   "lines": [
+    "He had never tried to break apart anything as large as these rocks by magic, and now didn't seem a good moment to try - what if the whole tunnel caved in?"
    ]
   },
   {
    "begin": "2073.880",
    "children": [],
-   "end": "2086.400",
-   "id": "f000241",
+   "end": "2078.440",
+   "id": "f000502",
    "language": "eng",
    "lines": [
-    "There was another thud and another 'ow!' from behind the rocks. They were wasting time. Ginny had already been in the Chamber of Secrets for hours. Harry knew there was only one thing to do."
+    "There was another thud and another 'ow!' from behind the rocks."
+   ]
+  },
+  {
+   "begin": "2078.440",
+   "children": [],
+   "end": "2080.560",
+   "id": "f000503",
+   "language": "eng",
+   "lines": [
+    "They were wasting time."
+   ]
+  },
+  {
+   "begin": "2080.560",
+   "children": [],
+   "end": "2084.040",
+   "id": "f000504",
+   "language": "eng",
+   "lines": [
+    "Ginny had already been in the Chamber of Secrets for hours."
+   ]
+  },
+  {
+   "begin": "2084.040",
+   "children": [],
+   "end": "2086.400",
+   "id": "f000505",
+   "language": "eng",
+   "lines": [
+    "Harry knew there was only one thing to do."
    ]
   },
   {
    "begin": "2086.400",
    "children": [],
-   "end": "2093.240",
-   "id": "f000242",
+   "end": "2088.960",
+   "id": "f000506",
    "language": "eng",
    "lines": [
-    "'Wait there,' he called to Ron. 'Wait with Lockhart. I'll go on. If I'm not back in an hour ...'"
+    "'Wait there,' he called to Ron."
    ]
   },
   {
-   "begin": "2093.240",
+   "begin": "2088.960",
+   "children": [],
+   "end": "2090.080",
+   "id": "f000507",
+   "language": "eng",
+   "lines": [
+    "'Wait with Lockhart."
+   ]
+  },
+  {
+   "begin": "2090.080",
+   "children": [],
+   "end": "2091.040",
+   "id": "f000508",
+   "language": "eng",
+   "lines": [
+    "I'll go on."
+   ]
+  },
+  {
+   "begin": "2091.040",
+   "children": [],
+   "end": "2093.200",
+   "id": "f000509",
+   "language": "eng",
+   "lines": [
+    "If I'm not back in an hour ...'"
+   ]
+  },
+  {
+   "begin": "2093.200",
    "children": [],
    "end": "2096.240",
-   "id": "f000243",
+   "id": "f000510",
    "language": "eng",
    "lines": [
     "There was a very pregnant pause."
@@ -2433,18 +5103,38 @@
   {
    "begin": "2096.240",
    "children": [],
-   "end": "2106.200",
-   "id": "f000244",
+   "end": "2102.000",
+   "id": "f000511",
    "language": "eng",
    "lines": [
-    "'I'll try and shift some of this rock,' said Ron, who seemed to be trying to keep his voice steady. 'So you can - can get back through. And, Harry -'"
+    "'I'll try and shift some of this rock,' said Ron, who seemed to be trying to keep his voice steady."
+   ]
+  },
+  {
+   "begin": "2102.000",
+   "children": [],
+   "end": "2105.040",
+   "id": "f000512",
+   "language": "eng",
+   "lines": [
+    "'So you can - can get back through."
+   ]
+  },
+  {
+   "begin": "2105.040",
+   "children": [],
+   "end": "2106.200",
+   "id": "f000513",
+   "language": "eng",
+   "lines": [
+    "And, Harry -'"
    ]
   },
   {
    "begin": "2106.200",
    "children": [],
    "end": "2111.240",
-   "id": "f000245",
+   "id": "f000514",
    "language": "eng",
    "lines": [
     "'See you in a bit,' said Harry, trying to inject some confidence into his shaking voice."
@@ -2454,7 +5144,7 @@
    "begin": "2111.240",
    "children": [],
    "end": "2115.360",
-   "id": "f000246",
+   "id": "f000515",
    "language": "eng",
    "lines": [
     "And he set off alone past the giant snake skin."
@@ -2463,38 +5153,98 @@
   {
    "begin": "2115.360",
    "children": [],
-   "end": "2143.760",
-   "id": "f000247",
+   "end": "2120.720",
+   "id": "f000516",
    "language": "eng",
    "lines": [
-    "Soon the distant noise of Ron straining to shift the rocks was gone. The tunnel turned and turned again. Every nerve in Harry's body was tingling unpleasantly. He wanted the tunnel to end, yet dreaded what he'd find when it did. And then, at last, as he crept around yet another bend, he saw a solid wall ahead on which two entwined serpents were carved, their eyes set with great, glinting emeralds."
+    "Soon the distant noise of Ron straining to shift the rocks was gone."
+   ]
+  },
+  {
+   "begin": "2120.720",
+   "children": [],
+   "end": "2123.320",
+   "id": "f000517",
+   "language": "eng",
+   "lines": [
+    "The tunnel turned and turned again."
+   ]
+  },
+  {
+   "begin": "2123.320",
+   "children": [],
+   "end": "2126.800",
+   "id": "f000518",
+   "language": "eng",
+   "lines": [
+    "Every nerve in Harry's body was tingling unpleasantly."
+   ]
+  },
+  {
+   "begin": "2126.800",
+   "children": [],
+   "end": "2131.160",
+   "id": "f000519",
+   "language": "eng",
+   "lines": [
+    "He wanted the tunnel to end, yet dreaded what he'd find when it did."
+   ]
+  },
+  {
+   "begin": "2131.160",
+   "children": [],
+   "end": "2143.760",
+   "id": "f000520",
+   "language": "eng",
+   "lines": [
+    "And then, at last, as he crept around yet another bend, he saw a solid wall ahead on which two entwined serpents were carved, their eyes set with great, glinting emeralds."
    ]
   },
   {
    "begin": "2143.760",
    "children": [],
-   "end": "2153.200",
-   "id": "f000248",
+   "end": "2146.840",
+   "id": "f000521",
    "language": "eng",
    "lines": [
-    "Harry approached, his throat very dry. There was no need to pretend these stone snakes were real, their eyes looked strangely alive."
+    "Harry approached, his throat very dry."
+   ]
+  },
+  {
+   "begin": "2146.840",
+   "children": [],
+   "end": "2153.200",
+   "id": "f000522",
+   "language": "eng",
+   "lines": [
+    "There was no need to pretend these stone snakes were real, their eyes looked strangely alive."
    ]
   },
   {
    "begin": "2153.200",
    "children": [],
-   "end": "2159.320",
-   "id": "f000249",
+   "end": "2155.560",
+   "id": "f000523",
    "language": "eng",
    "lines": [
-    "He could guess what he had to do. He cleared his throat, and the emerald eyes seemed to flicker."
+    "He could guess what he had to do."
+   ]
+  },
+  {
+   "begin": "2155.560",
+   "children": [],
+   "end": "2159.320",
+   "id": "f000524",
+   "language": "eng",
+   "lines": [
+    "He cleared his throat, and the emerald eyes seemed to flicker."
    ]
   },
   {
    "begin": "2159.320",
    "children": [],
    "end": "2164.960",
-   "id": "f000250",
+   "id": "f000525",
    "language": "eng",
    "lines": [
     "'Open,' said Harry, in a low, faint hiss."
@@ -2504,7 +5254,7 @@
    "begin": "2164.960",
    "children": [],
    "end": "2178.080",
-   "id": "f000251",
+   "id": "f000526",
    "language": "eng",
    "lines": [
     "The serpents parted as the wall cracked open, the halves slid smoothly out of sight, and Harry, shaking from head to foot, walked inside."

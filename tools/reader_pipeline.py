@@ -337,9 +337,76 @@ def flush_paragraph(lines: list[str], paragraphs: list[str]) -> None:
         paragraphs.append(paragraph)
 
 
+SENTENCE_ABBREVIATIONS = {
+    "Dr.",
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Prof.",
+    "St.",
+}
+
+
+def split_sentences(text: str) -> list[str]:
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return []
+
+    sentences: list[str] = []
+    start = 0
+    index = 0
+    while index < len(text):
+        char = text[index]
+        if char not in ".!?":
+            index += 1
+            continue
+        if char == "." and is_sentence_abbreviation(text, index):
+            index += 1
+            continue
+
+        end = index + 1
+        while end < len(text) and text[end] in "\"')]}":
+            end += 1
+        next_index = end
+        while next_index < len(text) and text[next_index].isspace():
+            next_index += 1
+        if next_index < len(text) and not is_likely_sentence_start(text[next_index]):
+            index += 1
+            continue
+
+        sentence = text[start:end].strip()
+        if sentence:
+            sentences.append(sentence)
+        start = next_index
+        index = next_index
+
+    tail = text[start:].strip()
+    if tail:
+        sentences.append(tail)
+    return sentences
+
+
+def is_sentence_abbreviation(text: str, period_index: int) -> bool:
+    prefix = text[: period_index + 1]
+    match = re.search(r"\b[A-Za-z]+\.?$", prefix)
+    if not match:
+        return False
+    token = match.group(0)
+    if token in SENTENCE_ABBREVIATIONS:
+        return True
+    return bool(re.fullmatch(r"(?:[A-Z]\.){1,}", token))
+
+
+def is_likely_sentence_start(char: str) -> bool:
+    return char.isupper() or char.isdigit() or char in "\"'("
+
+
 def chapter_fragments(chapter: Chapter) -> list[str]:
     heading = f"Chapter {display_chapter_word(chapter.number)}. {chapter.title}."
-    return [heading, *normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))]
+    fragments = split_sentences(heading)
+    for paragraph in normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter)):
+        fragments.extend(split_sentences(paragraph))
+    return fragments
 
 
 def running_headers_for(chapter: Chapter) -> set[str]:
@@ -613,14 +680,14 @@ def build_reader_manifest(
     for chapter, audio_path, duration in zip(chapters, audio_files, durations, strict=True):
         alignment_path = alignment_dir / f"chapter_{chapter.number:03d}.json"
         data = json.loads(alignment_path.read_text(encoding="utf-8"))
-        paragraphs = []
+        sentences = []
         for fragment in data.get("fragments", []):
             begin = float(fragment["begin"])
             end = float(fragment["end"])
             text = " ".join(fragment.get("lines", [])).strip()
-            paragraphs.append(
+            sentences.append(
                 {
-                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(paragraphs))}",
+                    "id": f"c{chapter.number:03d}_{fragment.get('id', len(sentences))}",
                     "text": text,
                     "begin": round(offset + begin, 3),
                     "end": round(offset + end, 3),
@@ -637,7 +704,7 @@ def build_reader_manifest(
                 "start": round(offset, 3),
                 "end": round(offset + duration, 3),
                 "duration": round(duration, 3),
-                "paragraphs": paragraphs,
+                "sentences": sentences,
             }
         )
         offset += duration
@@ -652,7 +719,7 @@ def build_reader_manifest(
                 "start": round(offset, 3),
                 "end": round(offset + outro_duration, 3),
                 "duration": round(outro_duration, 3),
-                "paragraphs": [],
+                "sentences": [],
             }
         )
         offset += outro_duration
@@ -813,15 +880,15 @@ def build_reader_html(manifest: dict) -> str:
       padding-bottom: 14px;
       border-bottom: 1px solid var(--line);
     }}
-    .paragraph {{
+    .sentence {{
       margin: 0 0 14px;
       padding: 3px 6px;
       border-left: 3px solid transparent;
       border-radius: 4px;
       cursor: pointer;
     }}
-    .paragraph:hover {{ background: #f8f6f1; }}
-    .paragraph.active {{
+    .sentence:hover {{ background: #f8f6f1; }}
+    .sentence.active {{
       background: var(--active);
       border-left-color: var(--active-line);
     }}
@@ -919,8 +986,39 @@ def build_reader_html(manifest: dict) -> str:
     const seekBar = document.getElementById('seekBar');
     const timeLabel = document.getElementById('timeLabel');
     const chapterTime = document.getElementById('chapterTime');
-    let currentIndex = 0;
-    let currentParagraphId = null;
+    const readerProgressKey = `aligned-reader:${{manifest.title}}:progress`;
+    const savedProgress = readSavedProgress();
+    let currentIndex = savedProgress?.chapterIndex ?? 0;
+    let currentSentenceId = null;
+    let pendingRestoreSentence = null;
+
+    function chapterSentences(chapter) {{
+      return chapter.sentences ?? chapter.paragraphs ?? [];
+    }}
+
+    function readSavedProgress() {{
+      try {{
+        const saved = JSON.parse(localStorage.getItem(readerProgressKey) || 'null');
+        if (!saved || !Number.isInteger(saved.chapterIndex)) return null;
+        const chapter = manifest.chapters[saved.chapterIndex];
+        if (!chapter || typeof saved.sentenceId !== 'string') return null;
+        if (!chapterSentences(chapter).some((sentence) => sentence.id === saved.sentenceId)) return null;
+        return saved;
+      }} catch {{
+        return null;
+      }}
+    }}
+
+    function saveProgress(sentenceId) {{
+      try {{
+        localStorage.setItem(readerProgressKey, JSON.stringify({{
+          chapterIndex: currentIndex,
+          sentenceId,
+        }}));
+      }} catch {{
+        // Reading should continue even when storage is unavailable.
+      }}
+    }}
 
     function formatTime(seconds) {{
       seconds = Math.max(0, Math.floor(seconds || 0));
@@ -943,21 +1041,25 @@ def build_reader_html(manifest: dict) -> str:
       }});
     }}
 
-    function loadChapter(index, autoplay = false) {{
+    function loadChapter(index, autoplay = false, restoreSentenceId = null) {{
       currentIndex = Math.max(0, Math.min(index, manifest.chapters.length - 1));
       const chapter = manifest.chapters[currentIndex];
-      currentParagraphId = null;
+      const sentences = chapterSentences(chapter);
+      currentSentenceId = null;
+      pendingRestoreSentence = null;
       audio.src = chapter.audio;
       chapterTitle.textContent = chapter.kind === 'chapter' ? `Chapter ${{chapter.number}}. ${{chapter.title}}` : chapter.title;
       reader.innerHTML = '';
-      if (chapter.paragraphs.length) {{
-        chapter.paragraphs.forEach((paragraph) => {{
+      if (sentences.length) {{
+        sentences.forEach((sentence) => {{
           const node = document.createElement('p');
-          node.className = 'paragraph';
-          node.id = paragraph.id;
-          node.textContent = paragraph.text;
+          node.className = 'sentence';
+          node.id = sentence.id;
+          node.textContent = sentence.text;
           node.addEventListener('click', () => {{
-            audio.currentTime = paragraph.localBegin;
+            pendingRestoreSentence = null;
+            audio.currentTime = sentence.localBegin;
+            saveProgress(sentence.id);
             audio.play();
           }});
           reader.appendChild(node);
@@ -969,15 +1071,24 @@ def build_reader_html(manifest: dict) -> str:
         reader.appendChild(node);
       }}
       renderNav();
-      updateTimes();
+      const restoredSentence = sentences.find((sentence) => sentence.id === restoreSentenceId);
+      if (restoredSentence) {{
+        pendingRestoreSentence = restoredSentence;
+        updateTimes(restoredSentence.localBegin);
+      }} else {{
+        updateTimes();
+      }}
       if (autoplay) {{
         audio.play();
       }}
     }}
 
-    function updateTimes() {{
+    function updateTimes(localOverride = null) {{
       const chapter = manifest.chapters[currentIndex];
-      const local = audio.currentTime || 0;
+      let local = (localOverride ?? audio.currentTime) || 0;
+      if (pendingRestoreSentence && localOverride === null) {{
+        local = pendingRestoreSentence.localBegin;
+      }}
       timeLabel.textContent = `${{formatTime(chapter.start + local)}} / ${{formatTime(manifest.duration)}}`;
       chapterTime.textContent = `${{formatTime(local)}} / ${{formatTime(chapter.duration)}}`;
       seekBar.value = chapter.duration ? String(Math.round((local / chapter.duration) * 1000)) : '0';
@@ -986,17 +1097,18 @@ def build_reader_html(manifest: dict) -> str:
 
     function updateHighlight(local) {{
       const chapter = manifest.chapters[currentIndex];
-      const paragraph = chapter.paragraphs.find((item) => local >= item.localBegin && local < item.localEnd);
-      const nextId = paragraph ? paragraph.id : null;
-      if (nextId === currentParagraphId) return;
-      if (currentParagraphId) {{
-        document.getElementById(currentParagraphId)?.classList.remove('active');
+      const sentence = chapterSentences(chapter).find((item) => local >= item.localBegin && local < item.localEnd);
+      const nextId = sentence ? sentence.id : null;
+      if (nextId === currentSentenceId) return;
+      if (currentSentenceId) {{
+        document.getElementById(currentSentenceId)?.classList.remove('active');
       }}
-      currentParagraphId = nextId;
-      if (currentParagraphId) {{
-        const node = document.getElementById(currentParagraphId);
+      currentSentenceId = nextId;
+      if (currentSentenceId) {{
+        const node = document.getElementById(currentSentenceId);
         node?.classList.add('active');
         node?.scrollIntoView({{ block: 'center', behavior: 'smooth' }});
+        saveProgress(currentSentenceId);
       }}
     }}
 
@@ -1011,19 +1123,33 @@ def build_reader_html(manifest: dict) -> str:
     nextButton.addEventListener('click', () => loadChapter(currentIndex + 1, !audio.paused));
     seekBar.addEventListener('input', () => {{
       const chapter = manifest.chapters[currentIndex];
+      pendingRestoreSentence = null;
       audio.currentTime = (Number(seekBar.value) / 1000) * chapter.duration;
     }});
     audio.addEventListener('play', () => playButton.textContent = 'Pause');
     audio.addEventListener('pause', () => playButton.textContent = 'Play');
-    audio.addEventListener('timeupdate', updateTimes);
-    audio.addEventListener('loadedmetadata', updateTimes);
+    audio.addEventListener('timeupdate', () => updateTimes());
+    audio.addEventListener('loadedmetadata', () => {{
+      if (pendingRestoreSentence) {{
+        audio.currentTime = pendingRestoreSentence.localBegin;
+        updateTimes(pendingRestoreSentence.localBegin);
+        return;
+      }}
+      updateTimes();
+    }});
+    audio.addEventListener('seeked', () => {{
+      if (pendingRestoreSentence && Math.abs(audio.currentTime - pendingRestoreSentence.localBegin) < 0.25) {{
+        pendingRestoreSentence = null;
+      }}
+      updateTimes();
+    }});
     audio.addEventListener('ended', () => {{
       if (currentIndex < manifest.chapters.length - 1) {{
         loadChapter(currentIndex + 1, true);
       }}
     }});
 
-    loadChapter(0, false);
+    loadChapter(savedProgress?.chapterIndex ?? 0, false, savedProgress?.sentenceId);
   </script>
 </body>
 </html>

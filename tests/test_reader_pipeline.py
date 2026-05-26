@@ -115,6 +115,27 @@ class ReaderPipelineTests(unittest.TestCase):
 
         self.assertEqual(paragraphs, ["top-of-the-range broomstick", "summer holidays"])
 
+    def test_chapter_fragments_are_sentence_aligned(self):
+        chapter = reader_pipeline.Chapter(
+            1,
+            "The Worst Birthday",
+            "First sentence. Second sentence!\n\nMr. Weasley stayed put. Did Harry notice?",
+        )
+
+        fragments = reader_pipeline.chapter_fragments(chapter)
+
+        self.assertEqual(
+            fragments,
+            [
+                "Chapter One.",
+                "The Worst Birthday.",
+                "First sentence.",
+                "Second sentence!",
+                "Mr. Weasley stayed put.",
+                "Did Harry notice?",
+            ],
+        )
+
     def test_extract_chapter_without_visible_title_keeps_body(self):
         source = """
         CHAPTER THREE
@@ -186,7 +207,7 @@ class ReaderPipelineTests(unittest.TestCase):
         self.assertEqual(spans[2].spine_index, 1)
         self.assertEqual(spans[2].end, 180.0)
 
-    def test_build_reader_manifest_offsets_chapter_fragments_and_appends_outro(self):
+    def test_build_reader_manifest_offsets_chapter_sentences_and_appends_outro(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
             align_dir = root / "alignments"
@@ -232,7 +253,8 @@ class ReaderPipelineTests(unittest.TestCase):
         self.assertEqual(manifest["title"], "Example Book")
         self.assertEqual(len(manifest["chapters"]), 3)
         self.assertEqual(manifest["chapters"][1]["start"], 3.0)
-        self.assertEqual(manifest["chapters"][1]["paragraphs"][0]["begin"], 3.0)
+        self.assertEqual(manifest["chapters"][1]["sentences"][0]["begin"], 3.0)
+        self.assertNotIn("paragraphs", manifest["chapters"][0])
         self.assertEqual(manifest["chapters"][2]["kind"], "outro")
         self.assertEqual(manifest["duration"], 105.0)
 

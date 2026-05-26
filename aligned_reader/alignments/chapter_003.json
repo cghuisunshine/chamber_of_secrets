@@ -3,138 +3,248 @@
   {
    "begin": "0.000",
    "children": [],
-   "end": "4.240",
+   "end": "1.440",
    "id": "f000001",
    "language": "eng",
    "lines": [
-    "Chapter Three. The Burrow."
+    "Chapter Three."
    ]
   },
   {
-   "begin": "4.240",
+   "begin": "1.440",
    "children": [],
-   "end": "13.840",
+   "end": "4.200",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "'Ron!' breathed Harry, creeping to the window and pushing it up so they could talk through the bars. 'Ron, how did you - what the -?'"
+    "The Burrow."
+   ]
+  },
+  {
+   "begin": "4.200",
+   "children": [],
+   "end": "10.360",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "'Ron!' breathed Harry, creeping to the window and pushing it up so they could talk through the bars."
+   ]
+  },
+  {
+   "begin": "10.360",
+   "children": [],
+   "end": "13.840",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "'Ron, how did you - what the -?'"
    ]
   },
   {
    "begin": "13.840",
    "children": [],
-   "end": "30.440",
-   "id": "f000003",
+   "end": "18.040",
+   "id": "f000005",
    "language": "eng",
    "lines": [
-    "Harry's mouth fell open as the full impact of what he was seeing hit him. Ron was leaning out of the back window of an old turquoise car, which was parked in mid-air. Grinning at Harry from the front seats were Fred and George, Ron's elder twin brothers."
+    "Harry's mouth fell open as the full impact of what he was seeing hit him."
+   ]
+  },
+  {
+   "begin": "18.040",
+   "children": [],
+   "end": "24.600",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Ron was leaning out of the back window of an old turquoise car, which was parked in mid-air."
+   ]
+  },
+  {
+   "begin": "24.600",
+   "children": [],
+   "end": "30.440",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Grinning at Harry from the front seats were Fred and George, Ron's elder twin brothers."
    ]
   },
   {
    "begin": "30.440",
    "children": [],
-   "end": "32.640",
-   "id": "f000004",
+   "end": "32.680",
+   "id": "f000008",
    "language": "eng",
    "lines": [
     "'All right, Harry?'"
    ]
   },
   {
-   "begin": "32.640",
+   "begin": "32.680",
    "children": [],
-   "end": "45.200",
-   "id": "f000005",
+   "end": "34.760",
+   "id": "f000009",
    "language": "eng",
    "lines": [
-    "'What's been going on?' said Ron. 'Why haven't you been answering my letters? I've asked you to stay about twelve times, and then Dad came home and said you'd got an official warning for using magic in front of Muggles ...'"
+    "'What's been going on?' said Ron."
    ]
   },
   {
-   "begin": "45.200",
+   "begin": "34.760",
    "children": [],
-   "end": "47.680",
-   "id": "f000006",
+   "end": "36.960",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "'Why haven't you been answering my letters?"
+   ]
+  },
+  {
+   "begin": "36.960",
+   "children": [],
+   "end": "45.160",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "I've asked you to stay about twelve times, and then Dad came home and said you'd got an official warning for using magic in front of Muggles ...'"
+   ]
+  },
+  {
+   "begin": "45.160",
+   "children": [],
+   "end": "47.800",
+   "id": "f000012",
    "language": "eng",
    "lines": [
     "'It wasn't me - and how did he know?'"
    ]
   },
   {
-   "begin": "47.680",
+   "begin": "47.800",
    "children": [],
-   "end": "54.280",
-   "id": "f000007",
+   "end": "50.360",
+   "id": "f000013",
    "language": "eng",
    "lines": [
-    "'He works for the Ministry,' said Ron. 'You know we're not supposed to do spells outside school -'"
+    "'He works for the Ministry,' said Ron."
    ]
   },
   {
-   "begin": "54.280",
+   "begin": "50.360",
    "children": [],
-   "end": "57.640",
-   "id": "f000008",
+   "end": "54.160",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "'You know we're not supposed to do spells outside school -'"
+   ]
+  },
+  {
+   "begin": "54.160",
+   "children": [],
+   "end": "57.680",
+   "id": "f000015",
    "language": "eng",
    "lines": [
     "'Bit rich coming from you,' said Harry, staring at the floating car."
    ]
   },
   {
-   "begin": "57.640",
+   "begin": "57.680",
    "children": [],
-   "end": "67.520",
-   "id": "f000009",
+   "end": "60.000",
+   "id": "f000016",
    "language": "eng",
    "lines": [
-    "'Oh, this doesn't count,' said Ron. 'We're only borrowing this, it's Dad's, we didn't enchant it. But doing magic in front of those Muggles you live with ...'"
+    "'Oh, this doesn't count,' said Ron."
+   ]
+  },
+  {
+   "begin": "60.000",
+   "children": [],
+   "end": "64.160",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "'We're only borrowing this, it's Dad's, we didn't enchant it."
+   ]
+  },
+  {
+   "begin": "64.160",
+   "children": [],
+   "end": "67.520",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "But doing magic in front of those Muggles you live with ...'"
    ]
   },
   {
    "begin": "67.520",
    "children": [],
-   "end": "83.800",
-   "id": "f000010",
+   "end": "71.640",
+   "id": "f000019",
    "language": "eng",
    "lines": [
-    "'I told you, I didn't - but it'll take too long to explain now. Look, can you explain to them at Hogwarts that the Dursleys have locked me up and won't let me come back, and obviously I can't magic myself out, because the Ministry'll think that's the second spell I've done in three days, so -'"
+    "'I told you, I didn't - but it'll take too long to explain now."
    ]
   },
   {
-   "begin": "83.800",
+   "begin": "71.640",
    "children": [],
-   "end": "88.960",
-   "id": "f000011",
+   "end": "83.840",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "Look, can you explain to them at Hogwarts that the Dursleys have locked me up and won't let me come back, and obviously I can't magic myself out, because the Ministry'll think that's the second spell I've done in three days, so -'"
+   ]
+  },
+  {
+   "begin": "83.840",
+   "children": [],
+   "end": "88.920",
+   "id": "f000021",
    "language": "eng",
    "lines": [
     "'Stop gibbering,' said Ron, 'we've come to take you home with us.'"
    ]
   },
   {
-   "begin": "88.960",
+   "begin": "88.920",
    "children": [],
-   "end": "91.120",
-   "id": "f000012",
+   "end": "91.080",
+   "id": "f000022",
    "language": "eng",
    "lines": [
     "'But you can't magic me out either -'"
    ]
   },
   {
-   "begin": "91.120",
+   "begin": "91.080",
    "children": [],
-   "end": "98.720",
-   "id": "f000013",
+   "end": "96.440",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "'We don't need to,' said Ron, jerking his head towards the front seats and grinning. 'You forget who I've got with me.'"
+    "'We don't need to,' said Ron, jerking his head towards the front seats and grinning."
+   ]
+  },
+  {
+   "begin": "96.440",
+   "children": [],
+   "end": "98.720",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "'You forget who I've got with me.'"
    ]
   },
   {
    "begin": "98.720",
    "children": [],
    "end": "103.320",
-   "id": "f000014",
+   "id": "f000025",
    "language": "eng",
    "lines": [
     "'Tie that round the bars,' said Fred, throwing the end of a rope to Harry."
@@ -144,7 +254,7 @@
    "begin": "103.320",
    "children": [],
    "end": "110.560",
-   "id": "f000015",
+   "id": "f000026",
    "language": "eng",
    "lines": [
     "'If the Dursleys wake up, I'm dead,' said Harry, as he tied the rope tightly around a bar and Fred revved up the car."
@@ -153,98 +263,148 @@
   {
    "begin": "110.560",
    "children": [],
-   "end": "113.960",
-   "id": "f000016",
+   "end": "113.920",
+   "id": "f000027",
    "language": "eng",
    "lines": [
     "'Don't worry,' said Fred, 'and stand back.'"
    ]
   },
   {
-   "begin": "113.960",
+   "begin": "113.920",
    "children": [],
-   "end": "141.160",
-   "id": "f000017",
+   "end": "120.440",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "Harry moved back into the shadows next to Hedwig, who seemed to have realised how important this was and kept still and silent. The car revved louder and louder and suddenly, with a crunching noise, the bars were pulled clean out of the window as Fred drove straight up in the air - Harry ran back to the window to see the bars dangling a few feet above the ground. Panting, Ron hoisted them up into the car. Harry listened anxiously, but there was no sound from the Dursleys' bedroom."
+    "Harry moved back into the shadows next to Hedwig, who seemed to have realised how important this was and kept still and silent."
+   ]
+  },
+  {
+   "begin": "120.440",
+   "children": [],
+   "end": "133.680",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "The car revved louder and louder and suddenly, with a crunching noise, the bars were pulled clean out of the window as Fred drove straight up in the air - Harry ran back to the window to see the bars dangling a few feet above the ground."
+   ]
+  },
+  {
+   "begin": "133.680",
+   "children": [],
+   "end": "136.640",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Panting, Ron hoisted them up into the car."
+   ]
+  },
+  {
+   "begin": "136.640",
+   "children": [],
+   "end": "141.160",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Harry listened anxiously, but there was no sound from the Dursleys' bedroom."
    ]
   },
   {
    "begin": "141.160",
    "children": [],
-   "end": "148.120",
-   "id": "f000018",
+   "end": "148.080",
+   "id": "f000032",
    "language": "eng",
    "lines": [
     "When the bars were safely in the back seat with Ron, Fred reversed as close as possible to Harry's window."
    ]
   },
   {
-   "begin": "148.120",
+   "begin": "148.080",
    "children": [],
-   "end": "149.520",
-   "id": "f000019",
+   "end": "149.480",
+   "id": "f000033",
    "language": "eng",
    "lines": [
     "'Get in,' Ron said."
    ]
   },
   {
-   "begin": "149.520",
+   "begin": "149.480",
    "children": [],
-   "end": "153.080",
-   "id": "f000020",
+   "end": "153.040",
+   "id": "f000034",
    "language": "eng",
    "lines": [
     "'But all my Hogwarts stuff ... my wand ... my broomstick ...'"
    ]
   },
   {
-   "begin": "153.080",
+   "begin": "153.040",
    "children": [],
-   "end": "153.920",
-   "id": "f000021",
+   "end": "154.040",
+   "id": "f000035",
    "language": "eng",
    "lines": [
     "'Where is it?'"
    ]
   },
   {
-   "begin": "153.920",
+   "begin": "154.040",
    "children": [],
-   "end": "157.800",
-   "id": "f000022",
+   "end": "157.760",
+   "id": "f000036",
    "language": "eng",
    "lines": [
     "'Locked in the cupboard under the stairs, and I can't get out of this room -'"
    ]
   },
   {
-   "begin": "157.800",
+   "begin": "157.760",
    "children": [],
-   "end": "162.960",
-   "id": "f000023",
+   "end": "161.000",
+   "id": "f000037",
    "language": "eng",
    "lines": [
-    "'No problem,' said George from the front passenger seat. 'Out of the way, Harry.'"
+    "'No problem,' said George from the front passenger seat."
+   ]
+  },
+  {
+   "begin": "161.000",
+   "children": [],
+   "end": "162.960",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "'Out of the way, Harry.'"
    ]
   },
   {
    "begin": "162.960",
    "children": [],
-   "end": "174.040",
-   "id": "f000024",
+   "end": "167.200",
+   "id": "f000039",
    "language": "eng",
    "lines": [
-    "Fred and George climbed carefully through the window into Harry's room. You had to hand it to them, thought Harry, as George took an ordinary hairpin from his pocket and started to pick the lock."
+    "Fred and George climbed carefully through the window into Harry's room."
    ]
   },
   {
-   "begin": "174.040",
+   "begin": "167.200",
+   "children": [],
+   "end": "174.000",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "You had to hand it to them, thought Harry, as George took an ordinary hairpin from his pocket and started to pick the lock."
+   ]
+  },
+  {
+   "begin": "174.000",
    "children": [],
    "end": "183.280",
-   "id": "f000025",
+   "id": "f000041",
    "language": "eng",
    "lines": [
     "'A lot of wizards think it's a waste of time, knowing this sort of Muggle trick,' said Fred, 'but we feel they're skills worth learning, even if they are a bit slow.'"
@@ -254,7 +414,7 @@
    "begin": "183.280",
    "children": [],
    "end": "187.080",
-   "id": "f000026",
+   "id": "f000042",
    "language": "eng",
    "lines": [
     "There was a small click and the door swung open."
@@ -263,18 +423,18 @@
   {
    "begin": "187.080",
    "children": [],
-   "end": "193.840",
-   "id": "f000027",
+   "end": "193.800",
+   "id": "f000043",
    "language": "eng",
    "lines": [
     "'So - we'll get your trunk - you grab anything you need from your room and hand it out to Ron,' whispered George."
    ]
   },
   {
-   "begin": "193.840",
+   "begin": "193.800",
    "children": [],
    "end": "200.960",
-   "id": "f000028",
+   "id": "f000044",
    "language": "eng",
    "lines": [
     "'Watch out for the bottom stair, it creaks,' Harry whispered back, as the twins disappeared onto the dark landing."
@@ -283,38 +443,78 @@
   {
    "begin": "200.960",
    "children": [],
-   "end": "212.000",
-   "id": "f000029",
+   "end": "205.160",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "Harry dashed around his room, collecting his things together and passing them out of the window to Ron. Then he went to help Fred and George heave his trunk up the stairs. Harry heard Uncle Vernon cough."
+    "Harry dashed around his room, collecting his things together and passing them out of the window to Ron."
+   ]
+  },
+  {
+   "begin": "205.160",
+   "children": [],
+   "end": "209.240",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Then he went to help Fred and George heave his trunk up the stairs."
+   ]
+  },
+  {
+   "begin": "209.240",
+   "children": [],
+   "end": "212.000",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Harry heard Uncle Vernon cough."
    ]
   },
   {
    "begin": "212.000",
    "children": [],
-   "end": "218.680",
-   "id": "f000030",
+   "end": "218.040",
+   "id": "f000048",
    "language": "eng",
    "lines": [
-    "At last, panting, they reached the landing, then carried the trunk through Harry's room to the open window. Fred climbed"
+    "At last, panting, they reached the landing, then carried the trunk through Harry's room to the open window."
+   ]
+  },
+  {
+   "begin": "218.040",
+   "children": [],
+   "end": "218.680",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Fred climbed"
    ]
   },
   {
    "begin": "218.680",
    "children": [],
-   "end": "227.920",
-   "id": "f000031",
+   "end": "224.080",
+   "id": "f000050",
    "language": "eng",
    "lines": [
-    "back into the car to pull with Ron, and Harry and George pushed from the bedroom side. Inch by inch, the trunk slid through the window."
+    "back into the car to pull with Ron, and Harry and George pushed from the bedroom side."
+   ]
+  },
+  {
+   "begin": "224.080",
+   "children": [],
+   "end": "227.920",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "Inch by inch, the trunk slid through the window."
    ]
   },
   {
    "begin": "227.920",
    "children": [],
    "end": "230.240",
-   "id": "f000032",
+   "id": "f000052",
    "language": "eng",
    "lines": [
     "Uncle Vernon coughed again."
@@ -324,7 +524,7 @@
    "begin": "230.240",
    "children": [],
    "end": "237.520",
-   "id": "f000033",
+   "id": "f000053",
    "language": "eng",
    "lines": [
     "'A bit more,' panted Fred, who was pulling from inside the car, 'one good push ...'"
@@ -333,18 +533,18 @@
   {
    "begin": "237.520",
    "children": [],
-   "end": "243.400",
-   "id": "f000034",
+   "end": "243.360",
+   "id": "f000054",
    "language": "eng",
    "lines": [
     "Harry and George threw their shoulders against the trunk and it slid out of the window into the back seat of the car."
    ]
   },
   {
-   "begin": "243.400",
+   "begin": "243.360",
    "children": [],
    "end": "246.640",
-   "id": "f000035",
+   "id": "f000055",
    "language": "eng",
    "lines": [
     "'OK, let's go,' George whispered."
@@ -354,7 +554,7 @@
    "begin": "246.640",
    "children": [],
    "end": "255.280",
-   "id": "f000036",
+   "id": "f000056",
    "language": "eng",
    "lines": [
     "But as Harry climbed onto the windowsill there came a sudden loud screech from behind him, followed immediately by the thunder of Uncle Vernon's voice."
@@ -363,38 +563,58 @@
   {
    "begin": "255.280",
    "children": [],
-   "end": "258.000",
-   "id": "f000037",
+   "end": "257.960",
+   "id": "f000057",
    "language": "eng",
    "lines": [
     "'THAT RUDDY OWL!'"
    ]
   },
   {
-   "begin": "258.000",
+   "begin": "257.960",
    "children": [],
-   "end": "259.960",
-   "id": "f000038",
+   "end": "260.000",
+   "id": "f000058",
    "language": "eng",
    "lines": [
     "'I've forgotten Hedwig!'"
    ]
   },
   {
-   "begin": "259.960",
+   "begin": "260.000",
    "children": [],
-   "end": "273.880",
-   "id": "f000039",
+   "end": "262.840",
+   "id": "f000059",
    "language": "eng",
    "lines": [
-    "Harry tore back across the room as the landing light clicked on. He snatched up Hedwig's cage, dashed to the window and passed it out to Ron. He was scrambling back onto the chest of drawers when Uncle Vernon hammered on the unlocked door - and it crashed open."
+    "Harry tore back across the room as the landing light clicked on."
+   ]
+  },
+  {
+   "begin": "262.840",
+   "children": [],
+   "end": "267.560",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "He snatched up Hedwig's cage, dashed to the window and passed it out to Ron."
+   ]
+  },
+  {
+   "begin": "267.560",
+   "children": [],
+   "end": "273.880",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "He was scrambling back onto the chest of drawers when Uncle Vernon hammered on the unlocked door - and it crashed open."
    ]
   },
   {
    "begin": "273.880",
    "children": [],
    "end": "283.000",
-   "id": "f000040",
+   "id": "f000062",
    "language": "eng",
    "lines": [
     "For a split second, Uncle Vernon stood framed in the doorway; then he let out a bellow like an angry bull and dived at Harry, grabbing him by the ankle."
@@ -404,7 +624,7 @@
    "begin": "283.000",
    "children": [],
    "end": "287.520",
-   "id": "f000041",
+   "id": "f000063",
    "language": "eng",
    "lines": [
     "Ron, Fred and George seized Harry's arms and pulled as hard as they could."
@@ -413,48 +633,108 @@
   {
    "begin": "287.520",
    "children": [],
-   "end": "293.840",
-   "id": "f000042",
+   "end": "289.560",
+   "id": "f000064",
    "language": "eng",
    "lines": [
-    "'Petunia!' roared Uncle Vernon. 'He's getting away! HE'S GET- TING AWAY!'"
+    "'Petunia!' roared Uncle Vernon."
    ]
   },
   {
-   "begin": "293.840",
+   "begin": "289.560",
    "children": [],
-   "end": "307.440",
-   "id": "f000043",
+   "end": "290.720",
+   "id": "f000065",
    "language": "eng",
    "lines": [
-    "The Weasleys gave a gigantic tug and Harry's leg slid out of Uncle Vernon's grasp. As soon as Harry was in the car and had slammed the door shut, Ron yelled, 'Put your foot down, Fred!' and the car shot suddenly towards the moon."
+    "'He's getting away!"
+   ]
+  },
+  {
+   "begin": "290.720",
+   "children": [],
+   "end": "293.040",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "HE'S GET- TING AWAY!'"
+   ]
+  },
+  {
+   "begin": "293.040",
+   "children": [],
+   "end": "298.440",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "The Weasleys gave a gigantic tug and Harry's leg slid out of Uncle Vernon's grasp."
+   ]
+  },
+  {
+   "begin": "298.440",
+   "children": [],
+   "end": "307.440",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "As soon as Harry was in the car and had slammed the door shut, Ron yelled, 'Put your foot down, Fred!' and the car shot suddenly towards the moon."
    ]
   },
   {
    "begin": "307.440",
    "children": [],
-   "end": "323.880",
-   "id": "f000044",
+   "end": "311.080",
+   "id": "f000069",
    "language": "eng",
    "lines": [
-    "Harry couldn't believe it - he was free. He wound down the window, the night air whipping his hair, and looked back at the shrinking rooftops of Privet Drive. Uncle Vernon, Aunt Petunia and Dudley were all hanging, dumbstruck, out of Harry's window."
+    "Harry couldn't believe it - he was free."
+   ]
+  },
+  {
+   "begin": "311.080",
+   "children": [],
+   "end": "318.200",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "He wound down the window, the night air whipping his hair, and looked back at the shrinking rooftops of Privet Drive."
+   ]
+  },
+  {
+   "begin": "318.200",
+   "children": [],
+   "end": "323.880",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "Uncle Vernon, Aunt Petunia and Dudley were all hanging, dumbstruck, out of Harry's window."
    ]
   },
   {
    "begin": "323.880",
    "children": [],
-   "end": "327.600",
-   "id": "f000045",
+   "end": "325.840",
+   "id": "f000072",
    "language": "eng",
    "lines": [
-    "'See you next summer!' Harry yelled."
+    "'See you next summer!'"
    ]
   },
   {
-   "begin": "327.600",
+   "begin": "325.840",
+   "children": [],
+   "end": "327.560",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "Harry yelled."
+   ]
+  },
+  {
+   "begin": "327.560",
    "children": [],
    "end": "333.800",
-   "id": "f000046",
+   "id": "f000074",
    "language": "eng",
    "lines": [
     "The Weasleys roared with laughter and Harry settled back in his seat, grinning from ear to ear."
@@ -463,18 +743,28 @@
   {
    "begin": "333.800",
    "children": [],
-   "end": "339.920",
-   "id": "f000047",
+   "end": "337.320",
+   "id": "f000075",
    "language": "eng",
    "lines": [
-    "'Let Hedwig out,' he told Ron, 'she can fly behind us. She hasn't had a chance to stretch her wings for ages.'"
+    "'Let Hedwig out,' he told Ron, 'she can fly behind us."
+   ]
+  },
+  {
+   "begin": "337.320",
+   "children": [],
+   "end": "339.920",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "She hasn't had a chance to stretch her wings for ages.'"
    ]
   },
   {
    "begin": "339.920",
    "children": [],
    "end": "344.080",
-   "id": "f000048",
+   "id": "f000077",
    "language": "eng",
    "lines": [
     "George handed the hairpin to Ron and a moment later, Hedwig"
@@ -484,7 +774,7 @@
    "begin": "344.080",
    "children": [],
    "end": "349.280",
-   "id": "f000049",
+   "id": "f000078",
    "language": "eng",
    "lines": [
     "had soared joyfully out of the window to glide alongside them like a ghost."
@@ -493,58 +783,98 @@
   {
    "begin": "349.280",
    "children": [],
-   "end": "354.880",
-   "id": "f000050",
+   "end": "353.080",
+   "id": "f000079",
    "language": "eng",
    "lines": [
-    "'So - what's the story, Harry?' said Ron impatiently. 'What's been happening?'"
+    "'So - what's the story, Harry?' said Ron impatiently."
+   ]
+  },
+  {
+   "begin": "353.080",
+   "children": [],
+   "end": "354.880",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "'What's been happening?'"
    ]
   },
   {
    "begin": "354.880",
    "children": [],
-   "end": "365.160",
-   "id": "f000051",
+   "end": "360.800",
+   "id": "f000081",
    "language": "eng",
    "lines": [
-    "Harry told them all about Dobby, the warning he'd given Harry and the fiasco of the violet pudding. There was a long shocked silence when he had finished."
+    "Harry told them all about Dobby, the warning he'd given Harry and the fiasco of the violet pudding."
    ]
   },
   {
-   "begin": "365.160",
+   "begin": "360.800",
    "children": [],
-   "end": "368.120",
-   "id": "f000052",
+   "end": "363.600",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "There was a long shocked silence when he had finished."
+   ]
+  },
+  {
+   "begin": "363.600",
+   "children": [],
+   "end": "367.720",
+   "id": "f000083",
    "language": "eng",
    "lines": [
     "'Very fishy,' said Fred finally."
    ]
   },
   {
-   "begin": "368.120",
+   "begin": "367.720",
    "children": [],
-   "end": "375.280",
-   "id": "f000053",
+   "end": "370.680",
+   "id": "f000084",
    "language": "eng",
    "lines": [
-    "'Definitely dodgy,' agreed George. 'So he wouldn't even tell you who's supposed to be plotting all this stuff?'"
+    "'Definitely dodgy,' agreed George."
+   ]
+  },
+  {
+   "begin": "370.680",
+   "children": [],
+   "end": "375.280",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "'So he wouldn't even tell you who's supposed to be plotting all this stuff?'"
    ]
   },
   {
    "begin": "375.280",
    "children": [],
-   "end": "382.640",
-   "id": "f000054",
+   "end": "377.400",
+   "id": "f000086",
    "language": "eng",
    "lines": [
-    "'I don't think he could,' said Harry. 'I told you, every time he got close to letting something slip, he started banging his head against the wall.'"
+    "'I don't think he could,' said Harry."
+   ]
+  },
+  {
+   "begin": "377.400",
+   "children": [],
+   "end": "382.640",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "'I told you, every time he got close to letting something slip, he started banging his head against the wall.'"
    ]
   },
   {
    "begin": "382.640",
    "children": [],
    "end": "386.360",
-   "id": "f000055",
+   "id": "f000088",
    "language": "eng",
    "lines": [
     "He saw Fred and George look at each other."
@@ -553,28 +883,58 @@
   {
    "begin": "386.360",
    "children": [],
-   "end": "390.280",
-   "id": "f000056",
+   "end": "390.320",
+   "id": "f000089",
    "language": "eng",
    "lines": [
     "'What, you think he was lying to me?' said Harry."
    ]
   },
   {
-   "begin": "390.280",
+   "begin": "390.320",
    "children": [],
-   "end": "409.360",
-   "id": "f000057",
+   "end": "399.400",
+   "id": "f000090",
    "language": "eng",
    "lines": [
-    "'Well,' said Fred, 'put it this way - house-elves have got powerful magic of their own, but they can't usually use it without their masters' permission. I reckon old Dobby was sent to stop you coming back to Hogwarts. Someone's idea of a joke. Can you think of anyone at school with a grudge against you?'"
+    "'Well,' said Fred, 'put it this way - house-elves have got powerful magic of their own, but they can't usually use it without their masters' permission."
    ]
   },
   {
-   "begin": "409.360",
+   "begin": "399.400",
+   "children": [],
+   "end": "403.160",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "I reckon old Dobby was sent to stop you coming back to Hogwarts."
+   ]
+  },
+  {
+   "begin": "403.160",
+   "children": [],
+   "end": "404.640",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "Someone's idea of a joke."
+   ]
+  },
+  {
+   "begin": "404.640",
+   "children": [],
+   "end": "408.240",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "Can you think of anyone at school with a grudge against you?'"
+   ]
+  },
+  {
+   "begin": "408.240",
    "children": [],
    "end": "413.040",
-   "id": "f000058",
+   "id": "f000094",
    "language": "eng",
    "lines": [
     "'Yes,' said Harry and Ron together, instantly."
@@ -583,68 +943,128 @@
   {
    "begin": "413.040",
    "children": [],
-   "end": "418.120",
-   "id": "f000059",
+   "end": "416.120",
+   "id": "f000095",
    "language": "eng",
    "lines": [
-    "'Draco Malfoy,' Harry explained. 'He hates me.'"
+    "'Draco Malfoy,' Harry explained."
    ]
   },
   {
-   "begin": "418.120",
+   "begin": "416.120",
    "children": [],
-   "end": "423.800",
-   "id": "f000060",
+   "end": "417.400",
+   "id": "f000096",
    "language": "eng",
    "lines": [
-    "'Draco Malfoy?' said George, turning round. 'Not Lucius Malfoy's son?'"
+    "'He hates me.'"
    ]
   },
   {
-   "begin": "423.800",
+   "begin": "417.400",
+   "children": [],
+   "end": "421.280",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "'Draco Malfoy?' said George, turning round."
+   ]
+  },
+  {
+   "begin": "421.280",
+   "children": [],
+   "end": "423.760",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "'Not Lucius Malfoy's son?'"
+   ]
+  },
+  {
+   "begin": "423.760",
+   "children": [],
+   "end": "427.480",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "'Must be, it's not a very common name, is it?' said Harry."
+   ]
+  },
+  {
+   "begin": "427.480",
    "children": [],
    "end": "428.920",
-   "id": "f000061",
+   "id": "f000100",
    "language": "eng",
    "lines": [
-    "'Must be, it's not a very common name, is it?' said Harry. 'Why?'"
+    "'Why?'"
    ]
   },
   {
    "begin": "428.920",
    "children": [],
-   "end": "435.240",
-   "id": "f000062",
+   "end": "431.600",
+   "id": "f000101",
    "language": "eng",
    "lines": [
-    "'I've heard Dad talking about him,' said George. 'He was a big supporter of You Know Who.'"
+    "'I've heard Dad talking about him,' said George."
    ]
   },
   {
-   "begin": "435.240",
+   "begin": "431.600",
    "children": [],
-   "end": "450.280",
-   "id": "f000063",
+   "end": "435.320",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "'And when You Know Who disappeared,' said Fred, craning around to look at Harry, 'Lucius Malfoy came back saying he'd never meant any of it. Load of dung - Dad reckons he was right in You Know Who's inner circle.'"
+    "'He was a big supporter of You Know Who.'"
    ]
   },
   {
-   "begin": "450.280",
+   "begin": "435.320",
    "children": [],
-   "end": "461.720",
-   "id": "f000064",
+   "end": "443.960",
+   "id": "f000103",
    "language": "eng",
    "lines": [
-    "Harry had heard these rumours about Malfoy's family before, and they didn't surprise him at all. Draco Malfoy made Dudley Dursley look like a kind, thoughtful and sensitive boy."
+    "'And when You Know Who disappeared,' said Fred, craning around to look at Harry, 'Lucius Malfoy came back saying he'd never meant any of it."
    ]
   },
   {
-   "begin": "461.720",
+   "begin": "443.960",
+   "children": [],
+   "end": "449.120",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "Load of dung - Dad reckons he was right in You Know Who's inner circle.'"
+   ]
+  },
+  {
+   "begin": "449.120",
+   "children": [],
+   "end": "455.320",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "Harry had heard these rumours about Malfoy's family before, and they didn't surprise him at all."
+   ]
+  },
+  {
+   "begin": "455.320",
+   "children": [],
+   "end": "460.480",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "Draco Malfoy made Dudley Dursley look like a kind, thoughtful and sensitive boy."
+   ]
+  },
+  {
+   "begin": "460.480",
    "children": [],
    "end": "466.120",
-   "id": "f000065",
+   "id": "f000107",
    "language": "eng",
    "lines": [
     "'I don't know whether the Malfoys own a house-elf ...' said Harry."
@@ -654,7 +1074,7 @@
    "begin": "466.120",
    "children": [],
    "end": "471.840",
-   "id": "f000066",
+   "id": "f000108",
    "language": "eng",
    "lines": [
     "'Well, whoever owns him will be an old wizarding family, and they'll be rich,' said Fred."
@@ -663,48 +1083,118 @@
   {
    "begin": "471.840",
    "children": [],
-   "end": "478.800",
-   "id": "f000067",
+   "end": "476.120",
+   "id": "f000109",
    "language": "eng",
    "lines": [
-    "'Yeah, Mum's always wishing we had a house-elf to do the ironing,' said George. 'But all we've got is a lousy old ghoul in the attic"
+    "'Yeah, Mum's always wishing we had a house-elf to do the ironing,' said George."
+   ]
+  },
+  {
+   "begin": "476.120",
+   "children": [],
+   "end": "478.800",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "'But all we've got is a lousy old ghoul in the attic"
    ]
   },
   {
    "begin": "478.800",
    "children": [],
-   "end": "488.640",
-   "id": "f000068",
+   "end": "480.360",
+   "id": "f000111",
    "language": "eng",
    "lines": [
-    "and gnomes all over the garden. House-elves come with big old manors and castles and places like that, you wouldn't catch one in our house ...'"
+    "and gnomes all over the garden."
    ]
   },
   {
-   "begin": "488.640",
+   "begin": "480.360",
    "children": [],
-   "end": "511.840",
-   "id": "f000069",
+   "end": "487.320",
+   "id": "f000112",
    "language": "eng",
    "lines": [
-    "Harry was silent. Judging by the fact that Draco Malfoy usually had the best of everything, his family was rolling in wizard gold; he could just see Malfoy strutting around a large manor house. Sending the family servant to stop Harry going back to Hogwarts also sounded exactly like the sort of thing Malfoy would do. Had Harry been stupid to take Dobby seriously?"
+    "House-elves come with big old manors and castles and places like that, you wouldn't catch one in our house ...'"
    ]
   },
   {
-   "begin": "511.840",
+   "begin": "487.320",
    "children": [],
-   "end": "519.920",
-   "id": "f000070",
+   "end": "489.720",
+   "id": "f000113",
    "language": "eng",
    "lines": [
-    "'I'm glad we came to get you, anyway,' said Ron. 'I was getting really worried when you didn't answer any of my letters. I thought it was Errol's fault at first -'"
+    "Harry was silent."
    ]
   },
   {
-   "begin": "519.920",
+   "begin": "489.720",
+   "children": [],
+   "end": "500.000",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Judging by the fact that Draco Malfoy usually had the best of everything, his family was rolling in wizard gold; he could just see Malfoy strutting around a large manor house."
+   ]
+  },
+  {
+   "begin": "500.000",
+   "children": [],
+   "end": "507.080",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Sending the family servant to stop Harry going back to Hogwarts also sounded exactly like the sort of thing Malfoy would do."
+   ]
+  },
+  {
+   "begin": "507.080",
+   "children": [],
+   "end": "510.200",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "Had Harry been stupid to take Dobby seriously?"
+   ]
+  },
+  {
+   "begin": "510.200",
+   "children": [],
+   "end": "514.360",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "'I'm glad we came to get you, anyway,' said Ron."
+   ]
+  },
+  {
+   "begin": "514.360",
+   "children": [],
+   "end": "517.560",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "'I was getting really worried when you didn't answer any of my letters."
+   ]
+  },
+  {
+   "begin": "517.560",
+   "children": [],
+   "end": "519.480",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "I thought it was Errol's fault at first -'"
+   ]
+  },
+  {
+   "begin": "519.480",
    "children": [],
    "end": "521.240",
-   "id": "f000071",
+   "id": "f000120",
    "language": "eng",
    "lines": [
     "'Who's Errol?'"
@@ -713,18 +1203,48 @@
   {
    "begin": "521.240",
    "children": [],
-   "end": "529.000",
-   "id": "f000072",
+   "end": "522.000",
+   "id": "f000121",
    "language": "eng",
    "lines": [
-    "'Our owl. He's ancient. It wouldn't be the first time he'd collapsed on a delivery. So then I tried to borrow Hermes -'"
+    "'Our owl."
    ]
   },
   {
-   "begin": "529.000",
+   "begin": "522.000",
+   "children": [],
+   "end": "522.800",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "He's ancient."
+   ]
+  },
+  {
+   "begin": "522.800",
+   "children": [],
+   "end": "525.680",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "It wouldn't be the first time he'd collapsed on a delivery."
+   ]
+  },
+  {
+   "begin": "525.680",
+   "children": [],
+   "end": "528.240",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "So then I tried to borrow Hermes -'"
+   ]
+  },
+  {
+   "begin": "528.240",
    "children": [],
    "end": "529.360",
-   "id": "f000073",
+   "id": "f000125",
    "language": "eng",
    "lines": [
     "'Who?'"
@@ -734,7 +1254,7 @@
    "begin": "529.360",
    "children": [],
    "end": "534.560",
-   "id": "f000074",
+   "id": "f000126",
    "language": "eng",
    "lines": [
     "'The owl Mum and Dad bought Percy when he was made a prefect,' said Fred from the front."
@@ -743,28 +1263,78 @@
   {
    "begin": "534.560",
    "children": [],
-   "end": "539.240",
-   "id": "f000075",
+   "end": "537.920",
+   "id": "f000127",
    "language": "eng",
    "lines": [
-    "'But Percy wouldn't lend him to me,' said Ron. 'Said he needed him.'"
+    "'But Percy wouldn't lend him to me,' said Ron."
+   ]
+  },
+  {
+   "begin": "537.920",
+   "children": [],
+   "end": "539.240",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "'Said he needed him.'"
    ]
   },
   {
    "begin": "539.240",
    "children": [],
-   "end": "558.480",
-   "id": "f000076",
+   "end": "544.040",
+   "id": "f000129",
    "language": "eng",
    "lines": [
-    "'Percy's been acting very oddly this summer,' said George, frowning. 'And he has been sending a lot of letters and spending a load of time shut up in his room ... I mean, there's only so many times you can polish a prefect badge ... You're driving too far west, Fred,' he added, pointing at a compass on the dashboard. Fred twiddled the steering wheel."
+    "'Percy's been acting very oddly this summer,' said George, frowning."
+   ]
+  },
+  {
+   "begin": "544.040",
+   "children": [],
+   "end": "548.240",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "'And he has been sending a lot of letters and spending a load of time shut up in his room ..."
+   ]
+  },
+  {
+   "begin": "548.240",
+   "children": [],
+   "end": "552.080",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "I mean, there's only so many times you can polish a prefect badge ..."
+   ]
+  },
+  {
+   "begin": "552.080",
+   "children": [],
+   "end": "556.640",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "You're driving too far west, Fred,' he added, pointing at a compass on the dashboard."
+   ]
+  },
+  {
+   "begin": "556.640",
+   "children": [],
+   "end": "558.480",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "Fred twiddled the steering wheel."
    ]
   },
   {
    "begin": "558.480",
    "children": [],
    "end": "564.040",
-   "id": "f000077",
+   "id": "f000134",
    "language": "eng",
    "lines": [
     "'So, does your dad know you've got the car?' said Harry, guessing the answer."
@@ -773,18 +1343,28 @@
   {
    "begin": "564.040",
    "children": [],
-   "end": "572.880",
-   "id": "f000078",
+   "end": "567.600",
+   "id": "f000135",
    "language": "eng",
    "lines": [
-    "'Er, no,' said Ron, 'he had to work tonight. Hopefully we'll be able to get it back in the garage without Mum noticing we flew it.'"
+    "'Er, no,' said Ron, 'he had to work tonight."
    ]
   },
   {
-   "begin": "572.880",
+   "begin": "567.600",
+   "children": [],
+   "end": "573.360",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Hopefully we'll be able to get it back in the garage without Mum noticing we flew it.'"
+   ]
+  },
+  {
+   "begin": "573.360",
    "children": [],
    "end": "575.760",
-   "id": "f000079",
+   "id": "f000137",
    "language": "eng",
    "lines": [
     "'What does your dad do at the Ministry of Magic, anyway?'"
@@ -793,38 +1373,78 @@
   {
    "begin": "575.760",
    "children": [],
-   "end": "582.920",
-   "id": "f000080",
+   "end": "579.600",
+   "id": "f000138",
    "language": "eng",
    "lines": [
-    "'He works in the most boring department,' said Ron. 'The Misuse of Muggle Artefacts Office.'"
+    "'He works in the most boring department,' said Ron."
    ]
   },
   {
-   "begin": "582.920",
+   "begin": "579.600",
    "children": [],
-   "end": "584.040",
-   "id": "f000081",
+   "end": "582.160",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "'The Misuse of Muggle Artefacts Office.'"
+   ]
+  },
+  {
+   "begin": "582.160",
+   "children": [],
+   "end": "583.800",
+   "id": "f000140",
    "language": "eng",
    "lines": [
     "'The what?'"
    ]
   },
   {
-   "begin": "584.040",
+   "begin": "583.800",
    "children": [],
-   "end": "604.080",
-   "id": "f000082",
+   "end": "590.680",
+   "id": "f000141",
    "language": "eng",
    "lines": [
-    "'It's all to do with bewitching things that are Muggle-made, you know, in case they end up back in a Muggle shop or house. Like, last year, some old witch died and her tea set was sold to an antiques shop. This Muggle woman bought it, took it home and tried to serve her friends tea in it. It was a nightmare - Dad was working overtime for weeks.'"
+    "'It's all to do with bewitching things that are Muggle-made, you know, in case they end up back in a Muggle shop or house."
    ]
   },
   {
-   "begin": "604.080",
+   "begin": "590.680",
+   "children": [],
+   "end": "595.840",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "Like, last year, some old witch died and her tea set was sold to an antiques shop."
+   ]
+  },
+  {
+   "begin": "595.840",
+   "children": [],
+   "end": "600.040",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "This Muggle woman bought it, took it home and tried to serve her friends tea in it."
+   ]
+  },
+  {
+   "begin": "600.040",
+   "children": [],
+   "end": "603.320",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "It was a nightmare - Dad was working overtime for weeks.'"
+   ]
+  },
+  {
+   "begin": "603.320",
    "children": [],
    "end": "604.680",
-   "id": "f000083",
+   "id": "f000145",
    "language": "eng",
    "lines": [
     "'What happened?'"
@@ -833,18 +1453,28 @@
   {
    "begin": "604.680",
    "children": [],
-   "end": "623.160",
-   "id": "f000084",
+   "end": "613.280",
+   "id": "f000146",
    "language": "eng",
    "lines": [
-    "'The teapot went berserk and squirted boiling tea all over the place and one man ended up in hospital with the sugar tongs clamped to his nose. Dad was going frantic, it's only him and an old warlock called Perkins in the office, and they had to do Memory Charms and all sorts to cover it up ...'"
+    "'The teapot went berserk and squirted boiling tea all over the place and one man ended up in hospital with the sugar tongs clamped to his nose."
+   ]
+  },
+  {
+   "begin": "613.280",
+   "children": [],
+   "end": "623.160",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "Dad was going frantic, it's only him and an old warlock called Perkins in the office, and they had to do Memory Charms and all sorts to cover it up ...'"
    ]
   },
   {
    "begin": "623.160",
    "children": [],
    "end": "625.960",
-   "id": "f000085",
+   "id": "f000148",
    "language": "eng",
    "lines": [
     "'But your dad ... this car ...'"
@@ -853,128 +1483,258 @@
   {
    "begin": "625.960",
    "children": [],
-   "end": "642.680",
-   "id": "f000086",
+   "end": "626.920",
+   "id": "f000149",
    "language": "eng",
    "lines": [
-    "Fred laughed. 'Yeah, Dad's mad about everything to do with Muggles, our shed's full of Muggle stuff. He takes it apart, puts spells on it and puts it back together again. If he raided our house he'd have to put himself straight under arrest. It drives Mum mad.'"
+    "Fred laughed."
+   ]
+  },
+  {
+   "begin": "626.920",
+   "children": [],
+   "end": "633.040",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "'Yeah, Dad's mad about everything to do with Muggles, our shed's full of Muggle stuff."
+   ]
+  },
+  {
+   "begin": "633.040",
+   "children": [],
+   "end": "637.040",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "He takes it apart, puts spells on it and puts it back together again."
+   ]
+  },
+  {
+   "begin": "637.040",
+   "children": [],
+   "end": "640.720",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "If he raided our house he'd have to put himself straight under arrest."
+   ]
+  },
+  {
+   "begin": "640.720",
+   "children": [],
+   "end": "642.680",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "It drives Mum mad.'"
    ]
   },
   {
    "begin": "642.680",
    "children": [],
-   "end": "652.440",
-   "id": "f000087",
+   "end": "647.480",
+   "id": "f000154",
    "language": "eng",
    "lines": [
-    "'That's the main road,' said George, peering down through the windscreen. 'We'll be there in ten minutes ... just as well, it's getting light ...'"
+    "'That's the main road,' said George, peering down through the windscreen."
    ]
   },
   {
-   "begin": "652.440",
+   "begin": "647.480",
    "children": [],
-   "end": "656.280",
-   "id": "f000088",
+   "end": "651.080",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "'We'll be there in ten minutes ... just as well, it's getting light ...'"
+   ]
+  },
+  {
+   "begin": "651.080",
+   "children": [],
+   "end": "655.840",
+   "id": "f000156",
    "language": "eng",
    "lines": [
     "A faint pinkish glow was visible along the horizon to the east."
    ]
   },
   {
-   "begin": "656.280",
+   "begin": "655.840",
    "children": [],
-   "end": "662.280",
-   "id": "f000089",
+   "end": "661.160",
+   "id": "f000157",
    "language": "eng",
    "lines": [
     "Fred brought the car lower and Harry saw a dark patchwork of fields and clumps of trees."
    ]
   },
   {
-   "begin": "662.280",
+   "begin": "661.160",
    "children": [],
-   "end": "667.680",
-   "id": "f000090",
+   "end": "664.760",
+   "id": "f000158",
    "language": "eng",
    "lines": [
-    "'We're a little way outside the village,' said George. 'Ottery St Catchpole ...'"
+    "'We're a little way outside the village,' said George."
    ]
   },
   {
-   "begin": "667.680",
+   "begin": "664.760",
    "children": [],
-   "end": "673.400",
-   "id": "f000091",
+   "end": "666.440",
+   "id": "f000159",
    "language": "eng",
    "lines": [
-    "Lower and lower went the flying car. The edge of a brilliant red sun was now gleaming through the trees."
+    "'Ottery St Catchpole ...'"
+   ]
+  },
+  {
+   "begin": "666.440",
+   "children": [],
+   "end": "669.640",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "Lower and lower went the flying car."
+   ]
+  },
+  {
+   "begin": "669.640",
+   "children": [],
+   "end": "673.400",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "The edge of a brilliant red sun was now gleaming through the trees."
    ]
   },
   {
    "begin": "673.400",
    "children": [],
-   "end": "688.240",
-   "id": "f000092",
+   "end": "679.200",
+   "id": "f000162",
    "language": "eng",
    "lines": [
-    "'Touchdown!' said Fred as, with a slight bump, they hit the ground. They had landed next to a tumbledown garage in a small yard and Harry looked out for the first time at Ron's house."
+    "'Touchdown!' said Fred as, with a slight bump, they hit the ground."
    ]
   },
   {
-   "begin": "688.240",
+   "begin": "679.200",
    "children": [],
-   "end": "719.480",
-   "id": "f000093",
+   "end": "686.960",
+   "id": "f000163",
    "language": "eng",
    "lines": [
-    "It looked as though it had once been a large stone pigsty, but extra rooms had been added here and there until it was several storeys high and so crooked it looked as though it was held up by magic (which, Harry reminded himself, it probably was). Four or five chimneys were perched on top of the red roof. A lop-sided sign stuck in the ground near the entrance read 'The Burrow'. Round the front door lay a jumble of wellington boots and a very rusty cauldron. Several fat brown chickens were pecking their way around the yard."
+    "They had landed next to a tumbledown garage in a small yard and Harry looked out for the first time at Ron's house."
    ]
   },
   {
-   "begin": "719.480",
+   "begin": "686.960",
    "children": [],
-   "end": "721.640",
-   "id": "f000094",
+   "end": "701.520",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "It looked as though it had once been a large stone pigsty, but extra rooms had been added here and there until it was several storeys high and so crooked it looked as though it was held up by magic (which, Harry reminded himself, it probably was)."
+   ]
+  },
+  {
+   "begin": "701.520",
+   "children": [],
+   "end": "705.160",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "Four or five chimneys were perched on top of the red roof."
+   ]
+  },
+  {
+   "begin": "705.160",
+   "children": [],
+   "end": "709.800",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "A lop-sided sign stuck in the ground near the entrance read 'The Burrow'."
+   ]
+  },
+  {
+   "begin": "709.800",
+   "children": [],
+   "end": "714.440",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "Round the front door lay a jumble of wellington boots and a very rusty cauldron."
+   ]
+  },
+  {
+   "begin": "714.440",
+   "children": [],
+   "end": "718.120",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "Several fat brown chickens were pecking their way around the yard."
+   ]
+  },
+  {
+   "begin": "718.120",
+   "children": [],
+   "end": "721.480",
+   "id": "f000169",
    "language": "eng",
    "lines": [
     "'It's not much,' said Ron."
    ]
   },
   {
-   "begin": "721.640",
+   "begin": "721.480",
    "children": [],
-   "end": "727.400",
-   "id": "f000095",
+   "end": "726.600",
+   "id": "f000170",
    "language": "eng",
    "lines": [
     "'It's brilliant,' said Harry happily, thinking of Privet Drive."
    ]
   },
   {
-   "begin": "727.400",
+   "begin": "726.600",
    "children": [],
-   "end": "729.680",
-   "id": "f000096",
+   "end": "728.480",
+   "id": "f000171",
    "language": "eng",
    "lines": [
     "They got out of the car."
    ]
   },
   {
-   "begin": "729.680",
+   "begin": "728.480",
    "children": [],
-   "end": "740.080",
-   "id": "f000097",
+   "end": "735.120",
+   "id": "f000172",
    "language": "eng",
    "lines": [
-    "'Now, we'll go upstairs really quietly,' said Fred, 'and wait for Mum to call us for breakfast. Then Ron, you come bounding downstairs going, 'Mum, look who turned up in the night!' and"
+    "'Now, we'll go upstairs really quietly,' said Fred, 'and wait for Mum to call us for breakfast."
+   ]
+  },
+  {
+   "begin": "735.120",
+   "children": [],
+   "end": "740.080",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "Then Ron, you come bounding downstairs going, 'Mum, look who turned up in the night!' and"
    ]
   },
   {
    "begin": "740.080",
    "children": [],
    "end": "744.360",
-   "id": "f000098",
+   "id": "f000174",
    "language": "eng",
    "lines": [
     "she'll be all pleased to see Harry and no one need ever know we flew the car.'"
@@ -983,28 +1743,48 @@
   {
    "begin": "744.360",
    "children": [],
-   "end": "750.800",
-   "id": "f000099",
+   "end": "746.520",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "'Right,' said Ron. 'Come on, Harry, I sleep at the -'"
+    "'Right,' said Ron."
    ]
   },
   {
-   "begin": "750.800",
+   "begin": "746.520",
    "children": [],
-   "end": "757.080",
-   "id": "f000100",
+   "end": "749.680",
+   "id": "f000176",
    "language": "eng",
    "lines": [
-    "Ron had gone a nasty greenish colour, his eyes fixed on the house. The other three wheeled around."
+    "'Come on, Harry, I sleep at the -'"
+   ]
+  },
+  {
+   "begin": "749.680",
+   "children": [],
+   "end": "755.080",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "Ron had gone a nasty greenish colour, his eyes fixed on the house."
+   ]
+  },
+  {
+   "begin": "755.080",
+   "children": [],
+   "end": "757.080",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "The other three wheeled around."
    ]
   },
   {
    "begin": "757.080",
    "children": [],
    "end": "766.240",
-   "id": "f000101",
+   "id": "f000179",
    "language": "eng",
    "lines": [
     "Mrs Weasley was marching across the yard, scattering chickens, and for a short, plump, kind-faced woman, it was remarkable how much she looked like a sabre-toothed tiger."
@@ -1013,48 +1793,58 @@
   {
    "begin": "766.240",
    "children": [],
-   "end": "769.400",
-   "id": "f000102",
+   "end": "769.000",
+   "id": "f000180",
    "language": "eng",
    "lines": [
     "'Ah,' said Fred."
    ]
   },
   {
-   "begin": "769.400",
+   "begin": "769.000",
    "children": [],
-   "end": "772.960",
-   "id": "f000103",
+   "end": "771.960",
+   "id": "f000181",
    "language": "eng",
    "lines": [
     "'Oh dear,' said George."
    ]
   },
   {
-   "begin": "772.960",
+   "begin": "771.960",
    "children": [],
-   "end": "782.320",
-   "id": "f000104",
+   "end": "779.000",
+   "id": "f000182",
    "language": "eng",
    "lines": [
-    "Mrs Weasley came to a halt in front of them, her hands on her hips, staring from one guilty face to the next. She was wearing a flowered apron with a wand sticking out of the pocket."
+    "Mrs Weasley came to a halt in front of them, her hands on her hips, staring from one guilty face to the next."
+   ]
+  },
+  {
+   "begin": "779.000",
+   "children": [],
+   "end": "782.320",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "She was wearing a flowered apron with a wand sticking out of the pocket."
    ]
   },
   {
    "begin": "782.320",
    "children": [],
-   "end": "786.080",
-   "id": "f000105",
+   "end": "785.320",
+   "id": "f000184",
    "language": "eng",
    "lines": [
     "'So,' she said."
    ]
   },
   {
-   "begin": "786.080",
+   "begin": "785.320",
    "children": [],
    "end": "790.520",
-   "id": "f000106",
+   "id": "f000185",
    "language": "eng",
    "lines": [
     "'Morning, Mum,' said George, in what he clearly thought was a jaunty, winning voice."
@@ -1063,18 +1853,18 @@
   {
    "begin": "790.520",
    "children": [],
-   "end": "796.000",
-   "id": "f000107",
+   "end": "795.960",
+   "id": "f000186",
    "language": "eng",
    "lines": [
     "'Have you any idea how worried I've been?' said Mrs Weasley in a deadly whisper."
    ]
   },
   {
-   "begin": "796.000",
+   "begin": "795.960",
    "children": [],
    "end": "797.720",
-   "id": "f000108",
+   "id": "f000187",
    "language": "eng",
    "lines": [
     "'Sorry, Mum, but see, we had to -'"
@@ -1084,7 +1874,7 @@
    "begin": "797.720",
    "children": [],
    "end": "803.640",
-   "id": "f000109",
+   "id": "f000188",
    "language": "eng",
    "lines": [
     "All three of Mrs Weasley's sons were taller than she was, but they cowered as her rage broke over them."
@@ -1093,48 +1883,88 @@
   {
    "begin": "803.640",
    "children": [],
-   "end": "818.280",
-   "id": "f000110",
+   "end": "805.040",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "'Beds empty! No note! Car gone ... could have crashed ... out of my mind with worry ... did you care? ... never, as long as I've lived ... you wait until your father gets home, we never had trouble like this from Bill or Charlie or Percy ...'"
+    "'Beds empty!"
    ]
   },
   {
-   "begin": "818.280",
+   "begin": "805.040",
    "children": [],
-   "end": "820.520",
-   "id": "f000111",
+   "end": "805.720",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "No note!"
+   ]
+  },
+  {
+   "begin": "805.720",
+   "children": [],
+   "end": "818.240",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "Car gone ... could have crashed ... out of my mind with worry ... did you care? ... never, as long as I've lived ... you wait until your father gets home, we never had trouble like this from Bill or Charlie or Percy ...'"
+   ]
+  },
+  {
+   "begin": "818.240",
+   "children": [],
+   "end": "820.480",
+   "id": "f000192",
    "language": "eng",
    "lines": [
     "'Perfect Percy,' muttered Fred."
    ]
   },
   {
-   "begin": "820.520",
+   "begin": "820.480",
    "children": [],
-   "end": "833.040",
-   "id": "f000112",
+   "end": "827.240",
+   "id": "f000193",
    "language": "eng",
    "lines": [
-    "'YOU COULD DO WITH TAKING A LEAF OUT OF PERCY'S BOOK!' yelled Mrs Weasley, prodding a finger in Fred's chest. 'You could have died, you could have been seen, you could have lost your father his job -'"
+    "'YOU COULD DO WITH TAKING A LEAF OUT OF PERCY'S BOOK!' yelled Mrs Weasley, prodding a finger in Fred's chest."
+   ]
+  },
+  {
+   "begin": "827.240",
+   "children": [],
+   "end": "833.040",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "'You could have died, you could have been seen, you could have lost your father his job -'"
    ]
   },
   {
    "begin": "833.040",
    "children": [],
-   "end": "841.000",
-   "id": "f000113",
+   "end": "836.240",
+   "id": "f000195",
    "language": "eng",
    "lines": [
-    "It seemed to go on for hours. Mrs Weasley had shouted herself hoarse before she turned on Harry, who backed away."
+    "It seemed to go on for hours."
    ]
   },
   {
-   "begin": "841.000",
+   "begin": "836.240",
+   "children": [],
+   "end": "840.640",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "Mrs Weasley had shouted herself hoarse before she turned on Harry, who backed away."
+   ]
+  },
+  {
+   "begin": "840.640",
    "children": [],
    "end": "846.520",
-   "id": "f000114",
+   "id": "f000197",
    "language": "eng",
    "lines": [
     "'I'm very pleased to see you, Harry, dear,' she said, 'Come in and have some breakfast.'"
@@ -1144,7 +1974,7 @@
    "begin": "846.520",
    "children": [],
    "end": "854.760",
-   "id": "f000115",
+   "id": "f000198",
    "language": "eng",
    "lines": [
     "She turned and walked back into the house and Harry, after a nervous glance at Ron, who nodded encouragingly, followed her."
@@ -1153,48 +1983,138 @@
   {
    "begin": "854.760",
    "children": [],
-   "end": "867.480",
-   "id": "f000116",
+   "end": "858.440",
+   "id": "f000199",
    "language": "eng",
    "lines": [
-    "The kitchen was small and rather cramped. There was a scrubbed wooden table and chairs in the middle and Harry sat down on the edge of his seat, looking around. He had never been in a wizard house before."
+    "The kitchen was small and rather cramped."
+   ]
+  },
+  {
+   "begin": "858.440",
+   "children": [],
+   "end": "864.560",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "There was a scrubbed wooden table and chairs in the middle and Harry sat down on the edge of his seat, looking around."
+   ]
+  },
+  {
+   "begin": "864.560",
+   "children": [],
+   "end": "867.480",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "He had never been in a wizard house before."
    ]
   },
   {
    "begin": "867.480",
    "children": [],
-   "end": "904.480",
-   "id": "f000117",
+   "end": "872.760",
+   "id": "f000202",
    "language": "eng",
    "lines": [
-    "The clock on the wall opposite him had only one hand and no numbers at all. Written around the edge were things like 'Time to make tea', 'Time to feed the chickens' and 'You're late'. Books were stacked three deep on the mantelpiece, books with titles like Charm Your Own Cheese, Enchantment in Baking and One Minute Feasts - It's Magic! And unless Harry's ears were deceiving him, the old radio next to the sink had just announced that coming up was 'Witching Hour, with the popular singing sorceress, Celestina Warbeck'."
+    "The clock on the wall opposite him had only one hand and no numbers at all."
    ]
   },
   {
-   "begin": "904.480",
+   "begin": "872.760",
    "children": [],
-   "end": "919.400",
-   "id": "f000118",
+   "end": "879.760",
+   "id": "f000203",
    "language": "eng",
    "lines": [
-    "Mrs Weasley was clattering around, cooking breakfast a little haphazardly, throwing dirty looks at her sons as she threw sausages into the frying pan. Every now and then she muttered things like 'don't know what you were thinking of' and 'never would have believed it'."
+    "Written around the edge were things like 'Time to make tea', 'Time to feed the chickens' and 'You're late'."
+   ]
+  },
+  {
+   "begin": "879.760",
+   "children": [],
+   "end": "891.160",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Books were stacked three deep on the mantelpiece, books with titles like Charm Your Own Cheese, Enchantment in Baking and One Minute Feasts - It's Magic!"
+   ]
+  },
+  {
+   "begin": "891.160",
+   "children": [],
+   "end": "903.280",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "And unless Harry's ears were deceiving him, the old radio next to the sink had just announced that coming up was 'Witching Hour, with the popular singing sorceress, Celestina Warbeck'."
+   ]
+  },
+  {
+   "begin": "903.280",
+   "children": [],
+   "end": "912.320",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "Mrs Weasley was clattering around, cooking breakfast a little haphazardly, throwing dirty looks at her sons as she threw sausages into the frying pan."
+   ]
+  },
+  {
+   "begin": "912.320",
+   "children": [],
+   "end": "919.400",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "Every now and then she muttered things like 'don't know what you were thinking of' and 'never would have believed it'."
    ]
   },
   {
    "begin": "919.400",
    "children": [],
-   "end": "943.200",
-   "id": "f000119",
+   "end": "925.880",
+   "id": "f000208",
    "language": "eng",
    "lines": [
-    "'I don't blame you, dear,' she assured Harry, tipping eight or nine sausages onto his plate. 'Arthur and I have been worried about you, too. Just last night we were saying we'd come and get you ourselves if you hadn't written back to Ron by Friday. But really' (she was now adding three fried eggs to his plate), 'flying an illegal car halfway across the country - anyone could have seen you -'"
+    "'I don't blame you, dear,' she assured Harry, tipping eight or nine sausages onto his plate."
+   ]
+  },
+  {
+   "begin": "925.880",
+   "children": [],
+   "end": "928.920",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "'Arthur and I have been worried about you, too."
+   ]
+  },
+  {
+   "begin": "928.920",
+   "children": [],
+   "end": "934.840",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "Just last night we were saying we'd come and get you ourselves if you hadn't written back to Ron by Friday."
+   ]
+  },
+  {
+   "begin": "934.840",
+   "children": [],
+   "end": "943.200",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "But really' (she was now adding three fried eggs to his plate), 'flying an illegal car halfway across the country - anyone could have seen you -'"
    ]
   },
   {
    "begin": "943.200",
    "children": [],
    "end": "950.640",
-   "id": "f000120",
+   "id": "f000212",
    "language": "eng",
    "lines": [
     "She flicked her wand casually at the washing-up in the sink, which began to clean itself, clinking gently in the background."
@@ -1203,28 +2123,38 @@
   {
    "begin": "950.640",
    "children": [],
-   "end": "955.120",
-   "id": "f000121",
+   "end": "955.000",
+   "id": "f000213",
    "language": "eng",
    "lines": [
     "'It was cloudy, Mum!' said Fred."
    ]
   },
   {
-   "begin": "955.120",
+   "begin": "955.000",
    "children": [],
-   "end": "959.320",
-   "id": "f000122",
+   "end": "957.880",
+   "id": "f000214",
    "language": "eng",
    "lines": [
-    "'You keep your mouth closed while you're eating!' Mrs Weasley snapped."
+    "'You keep your mouth closed while you're eating!'"
    ]
   },
   {
-   "begin": "959.320",
+   "begin": "957.880",
+   "children": [],
+   "end": "959.600",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "Mrs Weasley snapped."
+   ]
+  },
+  {
+   "begin": "959.600",
    "children": [],
    "end": "962.360",
-   "id": "f000123",
+   "id": "f000216",
    "language": "eng",
    "lines": [
     "'They were starving him, Mum!' said George."
@@ -1234,7 +2164,7 @@
    "begin": "962.360",
    "children": [],
    "end": "971.240",
-   "id": "f000124",
+   "id": "f000217",
    "language": "eng",
    "lines": [
     "'And you!' said Mrs Weasley, but it was with a slightly softened expression that she started cutting Harry bread and buttering it for him."
@@ -1244,7 +2174,7 @@
    "begin": "971.240",
    "children": [],
    "end": "980.800",
-   "id": "f000125",
+   "id": "f000218",
    "language": "eng",
    "lines": [
     "At that moment, there was a diversion in the form of a small, red-headed figure in a long nightdress, who appeared in the kitchen, gave a small squeal, and ran out again."
@@ -1253,28 +2183,58 @@
   {
    "begin": "980.800",
    "children": [],
-   "end": "987.600",
-   "id": "f000126",
+   "end": "984.600",
+   "id": "f000219",
    "language": "eng",
    "lines": [
-    "'Ginny,' said Ron in an undertone to Harry. 'My sister. She's been talking about you all summer.'"
+    "'Ginny,' said Ron in an undertone to Harry."
+   ]
+  },
+  {
+   "begin": "984.600",
+   "children": [],
+   "end": "985.360",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "'My sister."
+   ]
+  },
+  {
+   "begin": "985.360",
+   "children": [],
+   "end": "987.600",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "She's been talking about you all summer.'"
    ]
   },
   {
    "begin": "987.600",
    "children": [],
-   "end": "1002.160",
-   "id": "f000127",
+   "end": "996.320",
+   "id": "f000222",
    "language": "eng",
    "lines": [
-    "'Yeah, she'll be wanting your autograph, Harry,' grinned Fred, but he caught his mother's eye and bent his face over his plate without another word. Nothing more was said until all four plates were clean, which took a surprisingly short time."
+    "'Yeah, she'll be wanting your autograph, Harry,' grinned Fred, but he caught his mother's eye and bent his face over his plate without another word."
+   ]
+  },
+  {
+   "begin": "996.320",
+   "children": [],
+   "end": "1002.160",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "Nothing more was said until all four plates were clean, which took a surprisingly short time."
    ]
   },
   {
    "begin": "1002.160",
    "children": [],
    "end": "1008.360",
-   "id": "f000128",
+   "id": "f000224",
    "language": "eng",
    "lines": [
     "'Blimey, I'm tired,' yawned Fred, setting down his knife and"
@@ -1283,28 +2243,58 @@
   {
    "begin": "1008.360",
    "children": [],
-   "end": "1011.200",
-   "id": "f000129",
+   "end": "1009.440",
+   "id": "f000225",
    "language": "eng",
    "lines": [
-    "fork at last. 'I think I'll go to bed and -'"
+    "fork at last."
+   ]
+  },
+  {
+   "begin": "1009.440",
+   "children": [],
+   "end": "1011.200",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "'I think I'll go to bed and -'"
    ]
   },
   {
    "begin": "1011.200",
    "children": [],
-   "end": "1021.760",
-   "id": "f000130",
+   "end": "1014.160",
+   "id": "f000227",
    "language": "eng",
    "lines": [
-    "'You will not,' snapped Mrs Weasley. 'It's your own fault you've been up all night. You're going to de-gnome the garden for me, they're getting completely out of hand again.'"
+    "'You will not,' snapped Mrs Weasley."
+   ]
+  },
+  {
+   "begin": "1014.160",
+   "children": [],
+   "end": "1016.520",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "'It's your own fault you've been up all night."
+   ]
+  },
+  {
+   "begin": "1016.520",
+   "children": [],
+   "end": "1021.760",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "You're going to de-gnome the garden for me, they're getting completely out of hand again.'"
    ]
   },
   {
    "begin": "1021.760",
    "children": [],
    "end": "1022.480",
-   "id": "f000131",
+   "id": "f000230",
    "language": "eng",
    "lines": [
     "'Oh, Mum -'"
@@ -1313,18 +2303,38 @@
   {
    "begin": "1022.480",
    "children": [],
-   "end": "1031.640",
-   "id": "f000132",
+   "end": "1026.200",
+   "id": "f000231",
    "language": "eng",
    "lines": [
-    "'And you two,' she said, glaring at Ron and George. 'You can go up to bed, dear,' she added to Harry. 'You didn't ask them to fly that wretched car.'"
+    "'And you two,' she said, glaring at Ron and George."
    ]
   },
   {
-   "begin": "1031.640",
+   "begin": "1026.200",
+   "children": [],
+   "end": "1028.880",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "'You can go up to bed, dear,' she added to Harry."
+   ]
+  },
+  {
+   "begin": "1028.880",
+   "children": [],
+   "end": "1031.080",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "'You didn't ask them to fly that wretched car.'"
+   ]
+  },
+  {
+   "begin": "1031.080",
    "children": [],
    "end": "1036.840",
-   "id": "f000133",
+   "id": "f000234",
    "language": "eng",
    "lines": [
     "But Harry, who felt wide awake, said quickly, 'I'll help Ron, I've never seen a de-gnoming -'"
@@ -1333,28 +2343,48 @@
   {
    "begin": "1036.840",
    "children": [],
-   "end": "1044.840",
-   "id": "f000134",
+   "end": "1041.760",
+   "id": "f000235",
    "language": "eng",
    "lines": [
-    "'That's very sweet of you, dear, but it's dull work,' said Mrs Weasley. 'Now, let's see what Lockhart's got to say on the subject.'"
+    "'That's very sweet of you, dear, but it's dull work,' said Mrs Weasley."
+   ]
+  },
+  {
+   "begin": "1041.760",
+   "children": [],
+   "end": "1044.840",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "'Now, let's see what Lockhart's got to say on the subject.'"
    ]
   },
   {
    "begin": "1044.840",
    "children": [],
-   "end": "1049.640",
-   "id": "f000135",
+   "end": "1048.720",
+   "id": "f000237",
    "language": "eng",
    "lines": [
-    "And she pulled a heavy book from the stack on the mantelpiece. George groaned."
+    "And she pulled a heavy book from the stack on the mantelpiece."
+   ]
+  },
+  {
+   "begin": "1048.720",
+   "children": [],
+   "end": "1049.640",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "George groaned."
    ]
   },
   {
    "begin": "1049.640",
    "children": [],
    "end": "1053.880",
-   "id": "f000136",
+   "id": "f000239",
    "language": "eng",
    "lines": [
     "'Mum, we know how to de-gnome a garden.'"
@@ -1363,18 +2393,58 @@
   {
    "begin": "1053.880",
    "children": [],
-   "end": "1083.200",
-   "id": "f000137",
+   "end": "1057.640",
+   "id": "f000240",
    "language": "eng",
    "lines": [
-    "Harry looked at the cover of Mrs Weasley's book. Written across it in fancy gold letters were the words: Gilderoy Lockhart's Guide to Household Pests. There was a big photograph on the front of a very good-looking wizard with wavy blond hair and bright blue eyes. As always in the wizarding world, the photograph was moving; the wizard, who Harry supposed was Gilderoy Lockhart, kept winking cheekily up at them all. Mrs Weasley beamed down at him."
+    "Harry looked at the cover of Mrs Weasley's book."
+   ]
+  },
+  {
+   "begin": "1057.640",
+   "children": [],
+   "end": "1064.320",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "Written across it in fancy gold letters were the words: Gilderoy Lockhart's Guide to Household Pests."
+   ]
+  },
+  {
+   "begin": "1064.320",
+   "children": [],
+   "end": "1071.200",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "There was a big photograph on the front of a very good-looking wizard with wavy blond hair and bright blue eyes."
+   ]
+  },
+  {
+   "begin": "1071.200",
+   "children": [],
+   "end": "1081.000",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "As always in the wizarding world, the photograph was moving; the wizard, who Harry supposed was Gilderoy Lockhart, kept winking cheekily up at them all."
+   ]
+  },
+  {
+   "begin": "1081.000",
+   "children": [],
+   "end": "1083.200",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "Mrs Weasley beamed down at him."
    ]
   },
   {
    "begin": "1083.200",
    "children": [],
    "end": "1089.800",
-   "id": "f000138",
+   "id": "f000245",
    "language": "eng",
    "lines": [
     "'Oh, he is marvellous,' she said, 'he knows his household pests, all right, it's a wonderful book ...'"
@@ -1383,38 +2453,68 @@
   {
    "begin": "1089.800",
    "children": [],
-   "end": "1095.400",
-   "id": "f000139",
+   "end": "1095.320",
+   "id": "f000246",
    "language": "eng",
    "lines": [
     "'Mum fancies him,' said Fred, in a very audible whisper."
    ]
   },
   {
-   "begin": "1095.400",
+   "begin": "1095.320",
    "children": [],
-   "end": "1110.480",
-   "id": "f000140",
+   "end": "1100.320",
+   "id": "f000247",
    "language": "eng",
    "lines": [
-    "'Don't be so ridiculous, Fred,' said Mrs Weasley, her cheeks rather pink. 'All right, if you think you know better than Lockhart, you can go and get on with it, and woe betide you if there's a single gnome in that garden when I come out to inspect it.'"
+    "'Don't be so ridiculous, Fred,' said Mrs Weasley, her cheeks rather pink."
+   ]
+  },
+  {
+   "begin": "1100.320",
+   "children": [],
+   "end": "1110.480",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "'All right, if you think you know better than Lockhart, you can go and get on with it, and woe betide you if there's a single gnome in that garden when I come out to inspect it.'"
    ]
   },
   {
    "begin": "1110.480",
    "children": [],
-   "end": "1136.000",
-   "id": "f000141",
+   "end": "1115.760",
+   "id": "f000249",
    "language": "eng",
    "lines": [
-    "Yawning and grumbling, the Weasleys slouched outside with Harry behind them. The garden was large and, in Harry's eyes, exactly what a garden should be. The Dursleys wouldn't have liked it - there were plenty of weeds, and the grass needed cutting - but there were gnarled trees all around the walls, plants Harry had never seen spilling from every flowerbed and a big green pond full of frogs."
+    "Yawning and grumbling, the Weasleys slouched outside with Harry behind them."
+   ]
+  },
+  {
+   "begin": "1115.760",
+   "children": [],
+   "end": "1121.040",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "The garden was large and, in Harry's eyes, exactly what a garden should be."
+   ]
+  },
+  {
+   "begin": "1121.040",
+   "children": [],
+   "end": "1136.000",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "The Dursleys wouldn't have liked it - there were plenty of weeds, and the grass needed cutting - but there were gnarled trees all around the walls, plants Harry had never seen spilling from every flowerbed and a big green pond full of frogs."
    ]
   },
   {
    "begin": "1136.000",
    "children": [],
    "end": "1141.600",
-   "id": "f000142",
+   "id": "f000252",
    "language": "eng",
    "lines": [
     "'Muggles have garden gnomes, too, you know,' Harry told Ron as they crossed the lawn."
@@ -1423,58 +2523,128 @@
   {
    "begin": "1141.600",
    "children": [],
-   "end": "1150.080",
-   "id": "f000143",
+   "end": "1147.600",
+   "id": "f000253",
    "language": "eng",
    "lines": [
-    "'Yeah, I've seen those things they think are gnomes,' said Ron, bent double with his head in a peony bush. 'Like fat little Father Christmases with fishing rods ...'"
+    "'Yeah, I've seen those things they think are gnomes,' said Ron, bent double with his head in a peony bush."
+   ]
+  },
+  {
+   "begin": "1147.600",
+   "children": [],
+   "end": "1150.080",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "'Like fat little Father Christmases with fishing rods ...'"
    ]
   },
   {
    "begin": "1150.080",
    "children": [],
-   "end": "1158.560",
-   "id": "f000144",
+   "end": "1155.480",
+   "id": "f000255",
    "language": "eng",
    "lines": [
-    "There was a violent scuffling noise, the peony bush shuddered and Ron straightened up. 'This is a gnome,' he said grimly."
+    "There was a violent scuffling noise, the peony bush shuddered and Ron straightened up."
+   ]
+  },
+  {
+   "begin": "1155.480",
+   "children": [],
+   "end": "1158.560",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "'This is a gnome,' he said grimly."
    ]
   },
   {
    "begin": "1158.560",
    "children": [],
-   "end": "1161.720",
-   "id": "f000145",
+   "end": "1159.560",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "'Gerroff me! Gerroff me!' squealed the gnome."
+    "'Gerroff me!"
+   ]
+  },
+  {
+   "begin": "1159.560",
+   "children": [],
+   "end": "1161.720",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "Gerroff me!' squealed the gnome."
    ]
   },
   {
    "begin": "1161.720",
    "children": [],
-   "end": "1177.880",
-   "id": "f000146",
+   "end": "1164.400",
+   "id": "f000259",
    "language": "eng",
    "lines": [
-    "It was certainly nothing like Father Christmas. It was small and leathery-looking, with a large, knobbly, bald head exactly like a potato. Ron held it at arm's length as it kicked out at him with its horny little feet; he grasped it around the ankles and turned it upside-down."
+    "It was certainly nothing like Father Christmas."
+   ]
+  },
+  {
+   "begin": "1164.400",
+   "children": [],
+   "end": "1170.200",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "It was small and leathery-looking, with a large, knobbly, bald head exactly like a potato."
+   ]
+  },
+  {
+   "begin": "1170.200",
+   "children": [],
+   "end": "1177.880",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "Ron held it at arm's length as it kicked out at him with its horny little feet; he grasped it around the ankles and turned it upside-down."
    ]
   },
   {
    "begin": "1177.880",
    "children": [],
-   "end": "1195.480",
-   "id": "f000147",
+   "end": "1180.520",
+   "id": "f000262",
    "language": "eng",
    "lines": [
-    "'This is what you have to do,' he said. He raised the gnome above his head ('Gerroff me!') and started to swing it in great circles like a lasso. Seeing the shocked look on Harry's face, Ron added, 'It doesn't hurt them - you've just got to make them really dizzy so they can't find their way back to the gnomeholes.'"
+    "'This is what you have to do,' he said."
+   ]
+  },
+  {
+   "begin": "1180.520",
+   "children": [],
+   "end": "1187.000",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "He raised the gnome above his head ('Gerroff me!') and started to swing it in great circles like a lasso."
+   ]
+  },
+  {
+   "begin": "1187.000",
+   "children": [],
+   "end": "1195.480",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "Seeing the shocked look on Harry's face, Ron added, 'It doesn't hurt them - you've just got to make them really dizzy so they can't find their way back to the gnomeholes.'"
    ]
   },
   {
    "begin": "1195.480",
    "children": [],
    "end": "1202.720",
-   "id": "f000148",
+   "id": "f000265",
    "language": "eng",
    "lines": [
     "He let go of the gnome's ankles: it flew twenty feet into the air and landed with a thud in the field over the hedge."
@@ -1483,28 +2653,48 @@
   {
    "begin": "1202.720",
    "children": [],
-   "end": "1208.240",
-   "id": "f000149",
+   "end": "1205.800",
+   "id": "f000266",
    "language": "eng",
    "lines": [
-    "'Pitiful,' said Fred. 'I bet I can get mine beyond that stump.'"
+    "'Pitiful,' said Fred."
    ]
   },
   {
-   "begin": "1208.240",
+   "begin": "1205.800",
    "children": [],
-   "end": "1222.920",
-   "id": "f000150",
+   "end": "1207.960",
+   "id": "f000267",
    "language": "eng",
    "lines": [
-    "Harry learned quickly not to feel too sorry for the gnomes. He decided just to drop the first one he caught over the hedge, but the gnome, sensing weakness, sank its razor-sharp teeth into Harry's finger and he had a hard job shaking it off until -"
+    "'I bet I can get mine beyond that stump.'"
    ]
   },
   {
-   "begin": "1222.920",
+   "begin": "1207.960",
+   "children": [],
+   "end": "1212.000",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "Harry learned quickly not to feel too sorry for the gnomes."
+   ]
+  },
+  {
+   "begin": "1212.000",
+   "children": [],
+   "end": "1222.880",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "He decided just to drop the first one he caught over the hedge, but the gnome, sensing weakness, sank its razor-sharp teeth into Harry's finger and he had a hard job shaking it off until -"
+   ]
+  },
+  {
+   "begin": "1222.880",
    "children": [],
    "end": "1226.120",
-   "id": "f000151",
+   "id": "f000270",
    "language": "eng",
    "lines": [
     "'Wow, Harry - that must've been fifty feet ...'"
@@ -1514,7 +2704,7 @@
    "begin": "1226.120",
    "children": [],
    "end": "1229.920",
-   "id": "f000152",
+   "id": "f000271",
    "language": "eng",
    "lines": [
     "The air was soon thick with flying gnomes."
@@ -1523,18 +2713,38 @@
   {
    "begin": "1229.920",
    "children": [],
-   "end": "1242.360",
-   "id": "f000153",
+   "end": "1235.720",
+   "id": "f000272",
    "language": "eng",
    "lines": [
-    "'See, they're not too bright,' said George, seizing five or six gnomes at once. 'The moment they know the de-gnoming's going on they storm up to have a look. You'd think they'd have learned by now just to stay put.'"
+    "'See, they're not too bright,' said George, seizing five or six gnomes at once."
+   ]
+  },
+  {
+   "begin": "1235.720",
+   "children": [],
+   "end": "1239.880",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "'The moment they know the de-gnoming's going on they storm up to have a look."
+   ]
+  },
+  {
+   "begin": "1239.880",
+   "children": [],
+   "end": "1242.360",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "You'd think they'd have learned by now just to stay put.'"
    ]
   },
   {
    "begin": "1242.360",
    "children": [],
    "end": "1249.640",
-   "id": "f000154",
+   "id": "f000275",
    "language": "eng",
    "lines": [
     "Soon, the crowd of gnomes in the field started walking away in a straggling line, their little shoulders hunched."
@@ -1543,18 +2753,38 @@
   {
    "begin": "1249.640",
    "children": [],
-   "end": "1260.560",
-   "id": "f000155",
+   "end": "1256.680",
+   "id": "f000276",
    "language": "eng",
    "lines": [
-    "'They'll be back,' said Ron, as they watched the gnomes disappear into the hedge on the other side of the field. 'They love it here ... Dad's too soft with them, he thinks they're funny ...'"
+    "'They'll be back,' said Ron, as they watched the gnomes disappear into the hedge on the other side of the field."
+   ]
+  },
+  {
+   "begin": "1256.680",
+   "children": [],
+   "end": "1257.760",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "'They love it here ..."
+   ]
+  },
+  {
+   "begin": "1257.760",
+   "children": [],
+   "end": "1260.560",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "Dad's too soft with them, he thinks they're funny ...'"
    ]
   },
   {
    "begin": "1260.560",
    "children": [],
    "end": "1263.760",
-   "id": "f000156",
+   "id": "f000279",
    "language": "eng",
    "lines": [
     "Just then, the front door slammed."
@@ -1563,18 +2793,28 @@
   {
    "begin": "1263.760",
    "children": [],
-   "end": "1267.320",
-   "id": "f000157",
+   "end": "1265.960",
+   "id": "f000280",
    "language": "eng",
    "lines": [
-    "'He's back!' said George. 'Dad's home!'"
+    "'He's back!' said George."
+   ]
+  },
+  {
+   "begin": "1265.960",
+   "children": [],
+   "end": "1267.320",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "'Dad's home!'"
    ]
   },
   {
    "begin": "1267.320",
    "children": [],
    "end": "1270.640",
-   "id": "f000158",
+   "id": "f000282",
    "language": "eng",
    "lines": [
     "They hurried through the garden and back into the house."
@@ -1583,18 +2823,38 @@
   {
    "begin": "1270.640",
    "children": [],
-   "end": "1283.040",
-   "id": "f000159",
+   "end": "1275.680",
+   "id": "f000283",
    "language": "eng",
    "lines": [
-    "Mr Weasley was slumped in a kitchen chair with his glasses off and his eyes closed. He was a thin man, going bald, but the little hair he had was as red as any of his children's. He was wearing"
+    "Mr Weasley was slumped in a kitchen chair with his glasses off and his eyes closed."
+   ]
+  },
+  {
+   "begin": "1275.680",
+   "children": [],
+   "end": "1281.640",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "He was a thin man, going bald, but the little hair he had was as red as any of his children's."
+   ]
+  },
+  {
+   "begin": "1281.640",
+   "children": [],
+   "end": "1283.040",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "He was wearing"
    ]
   },
   {
    "begin": "1283.040",
    "children": [],
    "end": "1286.120",
-   "id": "f000160",
+   "id": "f000286",
    "language": "eng",
    "lines": [
     "long green robes which were dusty and travel-worn."
@@ -1603,48 +2863,98 @@
   {
    "begin": "1286.120",
    "children": [],
-   "end": "1299.440",
-   "id": "f000161",
+   "end": "1292.120",
+   "id": "f000287",
    "language": "eng",
    "lines": [
-    "'What a night,' he mumbled, groping for the teapot as they all sat down around him. 'Nine raids. Nine! And old Mundungus Fletcher tried to put a hex on me when I had my back turned ...'"
+    "'What a night,' he mumbled, groping for the teapot as they all sat down around him."
+   ]
+  },
+  {
+   "begin": "1292.120",
+   "children": [],
+   "end": "1293.480",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "'Nine raids."
+   ]
+  },
+  {
+   "begin": "1293.480",
+   "children": [],
+   "end": "1294.040",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "Nine!"
+   ]
+  },
+  {
+   "begin": "1294.040",
+   "children": [],
+   "end": "1299.440",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "And old Mundungus Fletcher tried to put a hex on me when I had my back turned ...'"
    ]
   },
   {
    "begin": "1299.440",
    "children": [],
-   "end": "1303.200",
-   "id": "f000162",
+   "end": "1302.640",
+   "id": "f000291",
    "language": "eng",
    "lines": [
     "Mr Weasley took a long gulp of tea and sighed."
    ]
   },
   {
-   "begin": "1303.200",
+   "begin": "1302.640",
    "children": [],
-   "end": "1306.720",
-   "id": "f000163",
+   "end": "1305.720",
+   "id": "f000292",
    "language": "eng",
    "lines": [
     "'Find anything, Dad?' said Fred eagerly."
    ]
   },
   {
-   "begin": "1306.720",
+   "begin": "1305.720",
    "children": [],
-   "end": "1325.280",
-   "id": "f000164",
+   "end": "1312.640",
+   "id": "f000293",
    "language": "eng",
    "lines": [
-    "'All I got were a few shrinking door-keys and a biting kettle,' yawned Mr Weasley. 'There was some pretty nasty stuff that wasn't my department, though. Mortlake was taken away for questioning about some extremely odd ferrets, but that's the Committee on Experimental Charms, thank goodness ...'"
+    "'All I got were a few shrinking door-keys and a biting kettle,' yawned Mr Weasley."
+   ]
+  },
+  {
+   "begin": "1312.640",
+   "children": [],
+   "end": "1316.840",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "'There was some pretty nasty stuff that wasn't my department, though."
+   ]
+  },
+  {
+   "begin": "1316.840",
+   "children": [],
+   "end": "1325.280",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "Mortlake was taken away for questioning about some extremely odd ferrets, but that's the Committee on Experimental Charms, thank goodness ...'"
    ]
   },
   {
    "begin": "1325.280",
    "children": [],
    "end": "1330.160",
-   "id": "f000165",
+   "id": "f000296",
    "language": "eng",
    "lines": [
     "'Why would anyone bother making door-keys shrink?' said George."
@@ -1653,18 +2963,48 @@
   {
    "begin": "1330.160",
    "children": [],
-   "end": "1358.400",
-   "id": "f000166",
+   "end": "1334.000",
+   "id": "f000297",
    "language": "eng",
    "lines": [
-    "'Just Muggle-baiting,' sighed Mr Weasley. 'Sell them a key that keeps shrinking to nothing so they can never find it when they need it ... Of course, it's very hard to convict anyone because no Muggle would admit their key keeps shrinking - they'll insist they just keep losing it. Bless them, they'll go to any lengths to ignore magic, even if it's staring them in the face ... but the things our lot have taken to enchanting, you wouldn't believe -'"
+    "'Just Muggle-baiting,' sighed Mr Weasley."
+   ]
+  },
+  {
+   "begin": "1334.000",
+   "children": [],
+   "end": "1339.320",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "'Sell them a key that keeps shrinking to nothing so they can never find it when they need it ..."
+   ]
+  },
+  {
+   "begin": "1339.320",
+   "children": [],
+   "end": "1348.160",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "Of course, it's very hard to convict anyone because no Muggle would admit their key keeps shrinking - they'll insist they just keep losing it."
+   ]
+  },
+  {
+   "begin": "1348.160",
+   "children": [],
+   "end": "1358.400",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "Bless them, they'll go to any lengths to ignore magic, even if it's staring them in the face ... but the things our lot have taken to enchanting, you wouldn't believe -'"
    ]
   },
   {
    "begin": "1358.400",
    "children": [],
    "end": "1361.080",
-   "id": "f000167",
+   "id": "f000301",
    "language": "eng",
    "lines": [
     "'LIKE CARS, FOR INSTANCE?'"
@@ -1673,18 +3013,38 @@
   {
    "begin": "1361.080",
    "children": [],
-   "end": "1369.160",
-   "id": "f000168",
+   "end": "1365.240",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "Mrs Weasley had appeared, holding a long poker like a sword. Mr Weasley's eyes jerked open. He stared guiltily at his wife."
+    "Mrs Weasley had appeared, holding a long poker like a sword."
+   ]
+  },
+  {
+   "begin": "1365.240",
+   "children": [],
+   "end": "1367.320",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "Mr Weasley's eyes jerked open."
+   ]
+  },
+  {
+   "begin": "1367.320",
+   "children": [],
+   "end": "1369.160",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "He stared guiltily at his wife."
    ]
   },
   {
    "begin": "1369.160",
    "children": [],
    "end": "1371.440",
-   "id": "f000169",
+   "id": "f000305",
    "language": "eng",
    "lines": [
     "'C-cars, Molly, dear?'"
@@ -1693,18 +3053,28 @@
   {
    "begin": "1371.440",
    "children": [],
-   "end": "1387.440",
-   "id": "f000170",
+   "end": "1375.800",
+   "id": "f000306",
    "language": "eng",
    "lines": [
-    "'Yes, Arthur, cars,' said Mrs Weasley, her eyes flashing. 'Imagine a wizard buying a rusty old car and telling his wife all he wanted to do with it was take it apart to see how it worked, while really he was enchanting it to make it fly.'"
+    "'Yes, Arthur, cars,' said Mrs Weasley, her eyes flashing."
+   ]
+  },
+  {
+   "begin": "1375.800",
+   "children": [],
+   "end": "1387.440",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "'Imagine a wizard buying a rusty old car and telling his wife all he wanted to do with it was take it apart to see how it worked, while really he was enchanting it to make it fly.'"
    ]
   },
   {
    "begin": "1387.440",
    "children": [],
    "end": "1389.280",
-   "id": "f000171",
+   "id": "f000308",
    "language": "eng",
    "lines": [
     "Mr Weasley blinked."
@@ -1713,38 +3083,78 @@
   {
    "begin": "1389.280",
    "children": [],
-   "end": "1407.680",
-   "id": "f000172",
+   "end": "1400.400",
+   "id": "f000309",
    "language": "eng",
    "lines": [
-    "'Well, dear, I think you'll find that he would be quite within the law to do that, even if, er, he maybe would have done better to, um, tell his wife the truth ... There's a loophole in the law, you'll find ... as long as he wasn't intending to fly the car, the fact that the car could fly wouldn't -'"
+    "'Well, dear, I think you'll find that he would be quite within the law to do that, even if, er, he maybe would have done better to, um, tell his wife the truth ..."
+   ]
+  },
+  {
+   "begin": "1400.400",
+   "children": [],
+   "end": "1407.680",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "There's a loophole in the law, you'll find ... as long as he wasn't intending to fly the car, the fact that the car could fly wouldn't -'"
    ]
   },
   {
    "begin": "1407.680",
    "children": [],
-   "end": "1423.840",
-   "id": "f000173",
+   "end": "1413.440",
+   "id": "f000311",
    "language": "eng",
    "lines": [
-    "'Arthur Weasley, you made sure there was a loophole when you wrote that law!' shouted Mrs Weasley. 'Just so you could carry on tinkering with all that Muggle rubbish in your shed! And for your information, Harry arrived this morning in the car you weren't intending to fly!'"
+    "'Arthur Weasley, you made sure there was a loophole when you wrote that law!' shouted Mrs Weasley."
+   ]
+  },
+  {
+   "begin": "1413.440",
+   "children": [],
+   "end": "1417.880",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "'Just so you could carry on tinkering with all that Muggle rubbish in your shed!"
+   ]
+  },
+  {
+   "begin": "1417.880",
+   "children": [],
+   "end": "1423.840",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "And for your information, Harry arrived this morning in the car you weren't intending to fly!'"
    ]
   },
   {
    "begin": "1423.840",
    "children": [],
-   "end": "1427.480",
-   "id": "f000174",
+   "end": "1426.640",
+   "id": "f000314",
    "language": "eng",
    "lines": [
-    "'Harry?' said Mr Weasley blankly. 'Harry who?'"
+    "'Harry?' said Mr Weasley blankly."
+   ]
+  },
+  {
+   "begin": "1426.640",
+   "children": [],
+   "end": "1427.480",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "'Harry who?'"
    ]
   },
   {
    "begin": "1427.480",
    "children": [],
    "end": "1430.360",
-   "id": "f000175",
+   "id": "f000316",
    "language": "eng",
    "lines": [
     "He looked around, saw Harry and jumped."
@@ -1753,18 +3163,28 @@
   {
    "begin": "1430.360",
    "children": [],
-   "end": "1436.760",
-   "id": "f000176",
+   "end": "1433.440",
+   "id": "f000317",
    "language": "eng",
    "lines": [
-    "'Good Lord, is it Harry Potter? Very pleased to meet you, Ron's told us so much about -'"
+    "'Good Lord, is it Harry Potter?"
+   ]
+  },
+  {
+   "begin": "1433.440",
+   "children": [],
+   "end": "1436.760",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "Very pleased to meet you, Ron's told us so much about -'"
    ]
   },
   {
    "begin": "1436.760",
    "children": [],
    "end": "1443.880",
-   "id": "f000177",
+   "id": "f000319",
    "language": "eng",
    "lines": [
     "'Your sons flew that car to Harry's house and back last night!' shouted Mrs Weasley, 'What have you got to say about that, eh?'"
@@ -1773,48 +3193,108 @@
   {
    "begin": "1443.880",
    "children": [],
-   "end": "1457.480",
-   "id": "f000178",
+   "end": "1447.400",
+   "id": "f000320",
    "language": "eng",
    "lines": [
-    "'Did you really?' said Mr Weasley eagerly. 'Did it go all right? I-I mean,' he faltered, as sparks flew from Mrs Weasley's eyes, 'thatthat was very wrong, boys - very wrong indeed ...'"
+    "'Did you really?' said Mr Weasley eagerly."
+   ]
+  },
+  {
+   "begin": "1447.400",
+   "children": [],
+   "end": "1448.880",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "'Did it go all right?"
+   ]
+  },
+  {
+   "begin": "1448.880",
+   "children": [],
+   "end": "1457.480",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "I-I mean,' he faltered, as sparks flew from Mrs Weasley's eyes, 'thatthat was very wrong, boys - very wrong indeed ...'"
    ]
   },
   {
    "begin": "1457.480",
    "children": [],
-   "end": "1465.440",
-   "id": "f000179",
+   "end": "1463.320",
+   "id": "f000323",
    "language": "eng",
    "lines": [
-    "'Let's leave them to it,' Ron muttered to Harry, as Mrs Weasley swelled like a bullfrog. 'Come on, I'll show you my bedroom.'"
+    "'Let's leave them to it,' Ron muttered to Harry, as Mrs Weasley swelled like a bullfrog."
+   ]
+  },
+  {
+   "begin": "1463.320",
+   "children": [],
+   "end": "1465.440",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "'Come on, I'll show you my bedroom.'"
    ]
   },
   {
    "begin": "1465.440",
    "children": [],
-   "end": "1482.000",
-   "id": "f000180",
+   "end": "1473.760",
+   "id": "f000325",
    "language": "eng",
    "lines": [
-    "They slipped out of the kitchen and down a narrow passageway to an uneven staircase, which zigzagged its way up through the house. On the third landing, a door stood ajar. Harry just caught sight of a pair of bright brown eyes staring at him before it closed with a snap."
+    "They slipped out of the kitchen and down a narrow passageway to an uneven staircase, which zigzagged its way up through the house."
+   ]
+  },
+  {
+   "begin": "1473.760",
+   "children": [],
+   "end": "1476.400",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "On the third landing, a door stood ajar."
+   ]
+  },
+  {
+   "begin": "1476.400",
+   "children": [],
+   "end": "1482.000",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "Harry just caught sight of a pair of bright brown eyes staring at him before it closed with a snap."
    ]
   },
   {
    "begin": "1482.000",
    "children": [],
-   "end": "1489.840",
-   "id": "f000181",
+   "end": "1484.600",
+   "id": "f000328",
    "language": "eng",
    "lines": [
-    "'Ginny,' said Ron. 'You don't know how weird it is for her to be this shy, she never shuts up normally -'"
+    "'Ginny,' said Ron."
+   ]
+  },
+  {
+   "begin": "1484.600",
+   "children": [],
+   "end": "1489.840",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "'You don't know how weird it is for her to be this shy, she never shuts up normally -'"
    ]
   },
   {
    "begin": "1489.840",
    "children": [],
    "end": "1497.440",
-   "id": "f000182",
+   "id": "f000330",
    "language": "eng",
    "lines": [
     "They climbed two more flights until they reached a door with peeling paint and a small plaque on it, saying 'Ronald's Room'."
@@ -1823,18 +3303,38 @@
   {
    "begin": "1497.440",
    "children": [],
-   "end": "1524.160",
-   "id": "f000183",
+   "end": "1502.440",
+   "id": "f000331",
    "language": "eng",
    "lines": [
-    "Harry stepped in, his head almost touching the sloping ceiling, and blinked. It was like walking into a furnace: nearly everything in Ron's room seemed to be a violent shade of orange: the bedspread, the walls, even the ceiling. Then Harry realised that Ron had covered nearly every inch of the shabby wallpaper with posters of the same seven witches and wizards, all wearing bright orange robes, carrying broomsticks and waving energetically."
+    "Harry stepped in, his head almost touching the sloping ceiling, and blinked."
+   ]
+  },
+  {
+   "begin": "1502.440",
+   "children": [],
+   "end": "1511.840",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "It was like walking into a furnace: nearly everything in Ron's room seemed to be a violent shade of orange: the bedspread, the walls, even the ceiling."
+   ]
+  },
+  {
+   "begin": "1511.840",
+   "children": [],
+   "end": "1524.160",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "Then Harry realised that Ron had covered nearly every inch of the shabby wallpaper with posters of the same seven witches and wizards, all wearing bright orange robes, carrying broomsticks and waving energetically."
    ]
   },
   {
    "begin": "1524.160",
    "children": [],
    "end": "1527.760",
-   "id": "f000184",
+   "id": "f000334",
    "language": "eng",
    "lines": [
     "'Your Quidditch team?' said Harry."
@@ -1843,48 +3343,108 @@
   {
    "begin": "1527.760",
    "children": [],
-   "end": "1538.600",
-   "id": "f000185",
+   "end": "1537.080",
+   "id": "f000335",
    "language": "eng",
    "lines": [
-    "'The Chudley Cannons,' said Ron, pointing at the orange bedspread, which was emblazoned with two giant black Cs and a speeding cannonball. 'Ninth in the league.'"
+    "'The Chudley Cannons,' said Ron, pointing at the orange bedspread, which was emblazoned with two giant black Cs and a speeding cannonball."
+   ]
+  },
+  {
+   "begin": "1537.080",
+   "children": [],
+   "end": "1538.600",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "'Ninth in the league.'"
    ]
   },
   {
    "begin": "1538.600",
    "children": [],
-   "end": "1559.280",
-   "id": "f000186",
+   "end": "1548.680",
+   "id": "f000337",
    "language": "eng",
    "lines": [
-    "Ron's school spellbooks were stacked untidily in a corner, next to a pile of comics which all seemed to feature The Adventures of Martin Miggs, the Mad Muggle. Ron's magic wand was lying on top of a fish tank full of frogspawn on the windowsill, next to his fat grey rat, Scabbers, who was snoozing in a patch of sun."
+    "Ron's school spellbooks were stacked untidily in a corner, next to a pile of comics which all seemed to feature The Adventures of Martin Miggs, the Mad Muggle."
+   ]
+  },
+  {
+   "begin": "1548.680",
+   "children": [],
+   "end": "1559.280",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "Ron's magic wand was lying on top of a fish tank full of frogspawn on the windowsill, next to his fat grey rat, Scabbers, who was snoozing in a patch of sun."
    ]
   },
   {
    "begin": "1559.280",
    "children": [],
-   "end": "1577.640",
-   "id": "f000187",
+   "end": "1565.960",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "Harry stepped over a pack of Self-Shuffling playing cards on the floor and looked out of the tiny window. In the field far below he could see a gang of gnomes sneaking, one by one, back through the Weasleys' hedge. Then he turned to look at Ron, who was watching him almost nervously, as though waiting for his opinion."
+    "Harry stepped over a pack of Self-Shuffling playing cards on the floor and looked out of the tiny window."
+   ]
+  },
+  {
+   "begin": "1565.960",
+   "children": [],
+   "end": "1571.880",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "In the field far below he could see a gang of gnomes sneaking, one by one, back through the Weasleys' hedge."
+   ]
+  },
+  {
+   "begin": "1571.880",
+   "children": [],
+   "end": "1577.640",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "Then he turned to look at Ron, who was watching him almost nervously, as though waiting for his opinion."
    ]
   },
   {
    "begin": "1577.640",
    "children": [],
-   "end": "1588.920",
-   "id": "f000188",
+   "end": "1581.640",
+   "id": "f000342",
    "language": "eng",
    "lines": [
-    "'It's a bit small,' said Ron quickly. 'Not like that room you had with the Muggles. And I'm right underneath the ghoul in the attic, he's always banging on the pipes and groaning ...'"
+    "'It's a bit small,' said Ron quickly."
+   ]
+  },
+  {
+   "begin": "1581.640",
+   "children": [],
+   "end": "1584.040",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "'Not like that room you had with the Muggles."
+   ]
+  },
+  {
+   "begin": "1584.040",
+   "children": [],
+   "end": "1588.920",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "And I'm right underneath the ghoul in the attic, he's always banging on the pipes and groaning ...'"
    ]
   },
   {
    "begin": "1588.920",
    "children": [],
    "end": "1596.440",
-   "id": "f000189",
+   "id": "f000345",
    "language": "eng",
    "lines": [
     "But Harry, grinning widely, said, 'This is the best house I've ever been in.'"
@@ -1894,7 +3454,7 @@
    "begin": "1596.440",
    "children": [],
    "end": "1602.000",
-   "id": "f000190",
+   "id": "f000346",
    "language": "eng",
    "lines": [
     "Ron's ears went pink."
